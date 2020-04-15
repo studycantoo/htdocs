@@ -1,0 +1,21 @@
+<?php
+/**
+ * @var $id
+ *
+ */
+
+
+$average = get_post_meta(get_the_ID(), 'udemy_avg_rating', true);
+$num_reviews = get_post_meta(get_the_ID(), 'udemy_num_reviews', true);
+
+if (!empty($average) and !empty($num_reviews)):
+    $percent = ($average * 100) / 5;
+    ?>
+    <div class="average-rating-stars__top">
+        <div class="star-rating">
+            <span style="width: <?php echo esc_attr($percent); ?>%">
+                <strong class="rating"><?php echo sanitize_text_field($average); ?></strong>
+            </span>
+        </div>
+    </div>
+<?php endif;

@@ -1,0 +1,3884 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Master Study\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-20 12:22+0000\n"
+"PO-Revision-Date: 2018-11-29 05:21+0000\n"
+"Language-Team: Turkish\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: StylemixThemes <timur@stylemix.net>\n"
+"Language: tr_TR\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: 404.php:9
+msgid "The page you are looking for does not exist."
+msgstr "Aradığınız sayfaya ulaşılamıyor."
+
+#: 404.php:11
+msgid "GO BACK TO HOMEPAGE"
+msgstr "ANASAYFAYA DÖN"
+
+#: index.php:89 archive-gallery.php:92 archive-events.php:66
+#: vc_templates/stm_events_grid.php:54 vc_templates/stm_gallery_grid.php:97
+#: vc_templates/stm_teachers_grid.php:69
+msgid "Previous"
+msgstr "Önceki"
+
+#: index.php:90 archive-gallery.php:93 archive-events.php:67
+#: vc_templates/stm_events_grid.php:55 vc_templates/stm_gallery_grid.php:98
+#: vc_templates/stm_teachers_grid.php:70
+msgid "Next"
+msgstr "Sonraki"
+
+#: index.php:107
+msgid "No result has been found. Please check for correctness."
+msgstr "Sonuç bulunamadı. Lütfen doğruluğunu kontrol edin."
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "Yorum navigasyonu"
+
+#: comments.php:32
+msgid "Older Comments"
+msgstr "Eski Yorumlar"
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr "Yeni Yorumlar"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "Yorumlar kapatılmıştır."
+
+#: footer.php:20
+msgid "Days"
+msgstr "Günler"
+
+#: footer.php:21
+msgid "Hours"
+msgstr "Saatler"
+
+#: footer.php:22
+msgid "Minutes"
+msgstr "Dakikalar"
+
+#: footer.php:23
+msgid "Seconds"
+msgstr "Saniyeler"
+
+#: archive-gallery.php:58
+msgid "Gallery"
+msgstr "Galeri"
+
+#: archive-gallery.php:68 vc_templates/stm_gallery_grid.php:44
+msgid "All images"
+msgstr "Tüm görseller"
+
+#: page.php:13 partials/content-event.php:9 partials/content-event.php:121
+#: partials/content.php:13 partials/content.php:122
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: page.php:17 partials/content-event.php:13 partials/content.php:17
+msgid "Page"
+msgstr "Sayfa"
+
+#: woocommerce/content-product-list.php:80 woocommerce/content-product.php:76
+#: vc_templates/stm_featured_products.php:127
+#: inc/widgets/woo_popular_courses.php:143
+#: paid-memberships-pro/pages/levels.php:50
+msgid "Free"
+msgstr "Ücretsiz"
+
+#: woocommerce/content-product-list.php:101 woocommerce/content-product.php:97
+#: woocommerce/content-product.php:109
+#: vc_templates/stm_featured_products.php:150
+#: vc_templates/stm_featured_products.php:159
+#: vc_templates/stm_product_categories.php:77
+msgid "View course"
+msgstr "Kursu görüntüle"
+
+#: woocommerce/content-product-list.php:115
+#, php-format
+msgctxt "Course status"
+msgid "%s"
+msgstr "%s"
+
+#: woocommerce/content-product-list.php:142
+#: woocommerce/content-product-list.php:158
+#: woocommerce/content-single-product.php:59
+msgid "Teacher"
+msgstr "Öğretmen"
+
+#: woocommerce/content-product-list.php:170
+#: woocommerce/content-product-list.php:177
+msgid "Available"
+msgstr "Uygun"
+
+#: woocommerce/content-product-list.php:170
+#: woocommerce/content-product-list.php:177
+msgid "seats"
+msgstr "koltuklar"
+
+#: woocommerce/content-product-list.php:186
+msgid "See more"
+msgstr "Daha fazla göster"
+
+#: woocommerce/content-product.php:160
+#: vc_templates/stm_featured_products.php:213
+#: vc_templates/stm_featured_products.php:213
+msgid "View more"
+msgstr "Daha fazla görüntüle"
+
+#: woocommerce/content-single-product-meta-side.php:37
+msgid "Students"
+msgstr "Öğrenciler"
+
+#: woocommerce/content-single-product-meta-side.php:48
+msgid "Duration:"
+msgstr "Süre:"
+
+#: woocommerce/content-single-product-meta-side.php:59
+msgid "Lectures:"
+msgstr "Dersler:"
+
+#: woocommerce/content-single-product-meta-side.php:70
+msgid "Video:"
+msgstr "Video:"
+
+#: woocommerce/content-single-product.php:50 partials/title_box.php:37
+msgid "Teachers"
+msgstr "Öğretmenler"
+
+#: woocommerce/content-single-product.php:82 vc_templates/stm_post_info.php:19
+#: partials/content.php:91
+msgid "Category:"
+msgstr "Kategori:"
+
+#: woocommerce/content-single-product.php:100
+#: woocommerce/content-single-product.php:235
+msgid "Reviews"
+msgstr "İncelemeler"
+
+#: woocommerce/content-single-product.php:127
+msgid "About Instructors"
+msgstr "Öğretmenler Hakkında"
+
+#: woocommerce/content-single-product.php:142
+#: woocommerce/content-single-product.php:192
+msgid "Watch Expert Page"
+msgstr "Eksper Sayfasını İzle"
+
+#: woocommerce/content-single-product.php:159
+#: woocommerce/content-single-product.php:208
+#: vc_templates/stm_teacher_detail.php:29 vc_templates/stm_teachers_grid.php:41
+#: vc_templates/stm_experts.php:89 partials/loop-teacher.php:25
+msgid "View expert on"
+msgstr "Eksperi görüntüle"
+
+#: woocommerce/content-single-product.php:189
+msgid "About Instructor"
+msgstr "Öğretmen Hakkında"
+
+#: woocommerce/content-single-product.php:239
+msgid "Average Rating"
+msgstr "Ortalama Puan"
+
+#: woocommerce/content-single-product.php:246
+msgid "Ratings"
+msgstr "Puanlar"
+
+#: woocommerce/content-single-product.php:292
+msgid "Detailed Rating"
+msgstr "Detaylı Puanlar"
+
+#: woocommerce/content-single-product.php:303
+msgid "Stars"
+msgstr "Yıldızlar"
+
+#: woocommerce/product-searchform.php:26
+msgid "Search the Courses"
+msgstr "Kursları Ara"
+
+#: inc/woocommerce_setups.php:11 inc/woocommerce_setups.php:94
+#: inc/woocommerce_setups.php:101
+msgid "Category Background Color"
+msgstr "Kategori Arkaplan Rengi"
+
+#: inc/woocommerce_setups.php:13 inc/woocommerce_setups.php:97
+msgid "Enter a value for this field"
+msgstr "Bu alan için bir değer girin"
+
+#: inc/woocommerce_setups.php:14
+msgid "Category Background font"
+msgstr "Kategori Arkaplan fontu"
+
+#: inc/woocommerce_setups.php:18 inc/woocommerce_setups.php:106
+msgid "Choose icons from Font Awesome Pack"
+msgstr "İkonu Fontunu Awesome paketinden seçin"
+
+#: inc/woocommerce_setups.php:34 inc/woocommerce_setups.php:126
+msgid "Choose from Master Study Icons Pack"
+msgstr "Master Study Ikon Paketinden Seç"
+
+#: inc/woocommerce_setups.php:50
+msgid "Click on button, then choose icon, which will be held for this category"
+msgstr "Butona tıklayın, sonra bu kategori için yapılacak simge seçin"
+
+#: inc/woocommerce_setups.php:51
+msgid "If none of this icons suits you, upload thumbnail (130*120)"
+msgstr ""
+"Eğer bu simgelerden hiçbiri size uygun değilse, küçük resim (130 * 120) "
+"yükleyin"
+
+#: inc/woocommerce_setups.php:142
+msgid "Remove icon"
+msgstr "İkonu çıkar"
+
+#: inc/woocommerce_setups.php:262
+msgid "Enroll this Course"
+msgstr "Bu Kursa Kayıt Ol"
+
+#: inc/custom.php:90
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s  %2$s 'da"
+
+#: inc/custom.php:92
+msgid ""
+"<span class=\"vertical_divider\"></span>Reply <i class=\"fa fa-reply\"></i>"
+msgstr ""
+"<span class=\"comment-divider\">/</span> Yanıtla<i class=\"fa fa-reply\"></i>"
+
+#: inc/custom.php:93
+msgid ""
+"<span class=\"vertical_divider\"></span>Edit <i class=\"fa fa-pencil-square-"
+"o\"></i>"
+msgstr ""
+"<span class=\"comment-divider\">/</span>Düzenle<i class=\"fa fa-pencil-"
+"square-o\"></i>"
+
+#: inc/custom.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumuzun modaretörü bekliyor."
+
+#: inc/custom.php:123 inc/visual_composer.php:1485 partials/event-form.php:13
+msgid "Name"
+msgstr "İsim"
+
+#: inc/custom.php:128 partials/event-form.php:23
+msgid "E-mail"
+msgstr "E-mail"
+
+#: inc/custom.php:144
+msgctxt "noun"
+msgid "Message"
+msgstr "Mesaj"
+
+#: inc/custom.php:246
+msgid "Your application has been successfully sent"
+msgstr "Başvurunuz başarıyla gönderildi"
+
+#: inc/custom.php:741
+msgid "No Status"
+msgstr "Statü Yok"
+
+#: inc/custom.php:742
+msgid "Hot"
+msgstr "Sıcak"
+
+#: inc/custom.php:743
+msgid "Special"
+msgstr "Özel"
+
+#: inc/custom.php:744
+msgid "New"
+msgstr "Yeni"
+
+#: inc/setup.php:41
+msgid "Top primary menu"
+msgstr "Ana menü"
+
+#: inc/setup.php:42
+msgid "Secondary menu in the footer"
+msgstr "Alt bilgideki ikinci menü"
+
+#: inc/setup.php:46
+msgid "Primary Sidebar"
+msgstr "Öncelikli Kenar Çubuğu"
+
+#: inc/setup.php:48
+msgid "Main sidebar that appears on the right or left."
+msgstr "Sağda veya solda görünen ana kenar çubuğu."
+
+#: inc/setup.php:56
+msgid "Footer Top"
+msgstr "Alt Bilgi Üst Alan"
+
+#: inc/setup.php:58
+msgid "Footer Top Widgets Area"
+msgstr "Alt Bilgi Üst Listeleme Alanları"
+
+#: inc/setup.php:66
+msgid "Footer Bottom"
+msgstr "Alt Bilgi Alt Alan"
+
+#: inc/setup.php:68
+msgid "Footer Bottom Widgets Area"
+msgstr "Alt Bilgi Alt Listeleme Alanları"
+
+#: inc/setup.php:77
+msgid "Shop"
+msgstr "Alışveriş"
+
+#: inc/setup.php:79
+msgid "Woocommerce pages sidebar"
+msgstr "Woocommerce sayfaları kenar çubuğu"
+
+#: inc/visual_composer.php:36
+msgid "Gallery type"
+msgstr "Galeri tipi"
+
+#: inc/visual_composer.php:39
+msgid "Image grid"
+msgstr "Görsel tablo görünümü"
+
+#: inc/visual_composer.php:40
+msgid "Slick slider"
+msgstr "Düzeltme kaydırıcısı"
+
+#: inc/visual_composer.php:41
+msgid "Slick slider 2"
+msgstr "Düzeltme kaydırıcısı 2"
+
+#: inc/visual_composer.php:46
+msgid "Thumbnail size"
+msgstr "Thumbnail boyutu"
+
+#: inc/visual_composer.php:55 inc/visual_composer.php:83
+#: inc/visual_composer.php:105 inc/visual_composer.php:338
+#: inc/visual_composer.php:457 inc/visual_composer.php:595
+#: inc/visual_composer.php:690 inc/visual_composer.php:798
+#: inc/visual_composer.php:818 inc/visual_composer.php:901
+#: inc/visual_composer.php:1082 inc/visual_composer.php:1113
+#: inc/visual_composer.php:1139 inc/visual_composer.php:1174
+#: inc/visual_composer.php:1190 inc/visual_composer.php:1205
+#: inc/visual_composer.php:1232 inc/visual_composer.php:1247
+#: inc/visual_composer.php:1262 inc/visual_composer.php:1277
+#: inc/visual_composer.php:1346 inc/visual_composer.php:1471
+#: inc/visual_composer.php:1521 inc/visual_composer.php:1551
+#: inc/visual_composer.php:1574 inc/visual_composer.php:1589
+#: inc/visual_composer.php:1610 inc/visual_composer.php:1631
+#: inc/visual_composer.php:1652 inc/visual_composer.php:1688
+#: inc/vc/modules/stm_lms_recent_courses.php:33
+#: inc/vc/modules/stm_lms_instructors_carousel.php:58
+#: inc/vc/modules/stm_image_box.php:53
+#: inc/vc/modules/stm_lms_courses_grid.php:93
+#: inc/vc/modules/stm_lms_single_course_carousel.php:70
+#: inc/vc/modules/stm_courses_searchbox.php:18
+#: inc/vc/modules/stm_lms_courses_categories.php:47
+#: inc/vc/modules/stm_lms_featured_teacher.php:49
+#: inc/vc/modules/stm_lms_courses_carousel.php:108
+msgid "Css"
+msgstr "Css"
+
+#: inc/visual_composer.php:57 inc/visual_composer.php:85
+#: inc/visual_composer.php:107 inc/visual_composer.php:459
+#: inc/visual_composer.php:597 inc/visual_composer.php:692
+#: inc/visual_composer.php:800 inc/visual_composer.php:820
+#: inc/visual_composer.php:903 inc/visual_composer.php:1084
+#: inc/visual_composer.php:1115 inc/visual_composer.php:1141
+#: inc/visual_composer.php:1176 inc/visual_composer.php:1234
+#: inc/visual_composer.php:1348 inc/visual_composer.php:1523
+#: inc/visual_composer.php:1690 inc/vc/modules/stm_lms_recent_courses.php:35
+#: inc/vc/modules/stm_lms_instructors_carousel.php:60
+#: inc/vc/modules/stm_image_box.php:55
+#: inc/vc/modules/stm_lms_courses_grid.php:95
+#: inc/vc/modules/stm_lms_single_course_carousel.php:72
+#: inc/vc/modules/stm_courses_searchbox.php:20
+#: inc/vc/modules/stm_lms_courses_categories.php:49
+#: inc/vc/modules/stm_lms_featured_teacher.php:51
+#: inc/vc/modules/stm_lms_courses_carousel.php:110
+msgid "Design options"
+msgstr "Tasarım opsiyonları"
+
+#: inc/visual_composer.php:64
+msgid "Responsiveness"
+msgstr "Yanıt Verebilirlik"
+
+#: inc/visual_composer.php:66
+msgid "Width & Responsiveness"
+msgstr "Genişlik & Yanıt Verilebilirlik"
+
+#: inc/visual_composer.php:67
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+"Farklı ekran boyutları için sütun ayarlayın. Kontrol genişliği, ofset ve "
+"görünürlük ayarları."
+
+#: inc/visual_composer.php:74 inc/tgm/tgm-plugin-activation.php:2445
+msgid "Type"
+msgstr "Tür"
+
+#: inc/visual_composer.php:77
+msgid "Type 1"
+msgstr "Tür 1"
+
+#: inc/visual_composer.php:78
+msgid "Type 2"
+msgstr "Tür 2"
+
+#: inc/visual_composer.php:92
+msgid "Iframe Link"
+msgstr "Iframe Linki"
+
+#: inc/visual_composer.php:97
+msgid "Preview Image"
+msgstr "Önizleme Görseli"
+
+#: inc/visual_composer.php:114
+msgid "Background position"
+msgstr "Arkaplan pozisyonu"
+
+#: inc/visual_composer.php:116
+msgid "Enter background-position in CSS like format"
+msgstr "Arkaplan pozisyonunu CSS benzeri bir formatta girin"
+
+#: inc/visual_composer.php:120
+msgid "Remove Background on mobile"
+msgstr "Mobilde Arkaplanı kaldır"
+
+#: inc/visual_composer.php:123
+msgid "No"
+msgstr "Hayır"
+
+#: inc/visual_composer.php:124
+msgid "Yes"
+msgstr "Evet"
+
+#: inc/visual_composer.php:129
+msgid "MasterStudy Animations"
+msgstr "MasterStudy Animasyonları"
+
+#: inc/visual_composer.php:132 inc/visual_composer.php:499
+msgid "None"
+msgstr "Hiçbiri"
+
+#: inc/visual_composer.php:133
+msgid "Flying Students"
+msgstr "Uçan Öğrenciler"
+
+#: inc/visual_composer.php:136 inc/visual_composer.php:142
+#: inc/visual_composer.php:152 inc/visual_composer.php:1473
+msgid "Design Options"
+msgstr "Tasarım Opsiyonları"
+
+#: inc/visual_composer.php:140
+msgid "Animation position on Desktop"
+msgstr "Masaüstünde animasyon pozisyonu"
+
+#: inc/visual_composer.php:150
+msgid "Animation position on Laptop"
+msgstr "Laptop'da animasyon pozisyonu"
+
+#: inc/visual_composer.php:163
+msgid "Laptop Height"
+msgstr ""
+
+#: inc/visual_composer.php:165 inc/visual_composer.php:171
+#: inc/visual_composer.php:177
+msgid "Enter empty space height (Note: CSS measurement units allowed)."
+msgstr "Boşluk yükseliğini girin ( Not: CSS ölçü birimlerini kullanmalısınız.)"
+
+#: inc/visual_composer.php:169
+msgid "Tablet Height"
+msgstr "Tablet Yüksekliği"
+
+#: inc/visual_composer.php:175
+msgid "Mobile Height"
+msgstr "Mobil Yüksekliği"
+
+#: inc/visual_composer.php:184 inc/visual_composer.php:299
+#: inc/visual_composer.php:371 inc/widgets/woo_popular_courses.php:41
+#: inc/vc/modules/stm_lms_recent_courses.php:23
+#: inc/vc/modules/stm_image_box.php:43
+#: inc/vc/modules/stm_lms_courses_categories.php:35
+msgid "Style"
+msgstr "Stil"
+
+#: inc/visual_composer.php:185
+msgid "Select button display style."
+msgstr "Buton gösterim stili seçin."
+
+#: inc/visual_composer.php:189
+msgid "Modern"
+msgstr "Modern"
+
+#: inc/visual_composer.php:190
+msgid "Classic"
+msgstr "Klasik"
+
+#: inc/visual_composer.php:191
+msgid "Flat"
+msgstr "Düz"
+
+#: inc/visual_composer.php:192
+msgid "Outline"
+msgstr "Özet"
+
+#: inc/visual_composer.php:193
+msgid "3d"
+msgstr "3d"
+
+#: inc/visual_composer.php:194
+msgid "Custom"
+msgstr "Özel"
+
+#: inc/visual_composer.php:195
+msgid "Outline custom"
+msgstr "Özel özet"
+
+#: inc/visual_composer.php:196
+msgid "Gradient"
+msgstr "Eğimli"
+
+#: inc/visual_composer.php:197
+msgid "Gradient Custom"
+msgstr "Eğimli Özel"
+
+#: inc/visual_composer.php:198
+msgid "Theme Button"
+msgstr "Tema Butonu"
+
+#: inc/visual_composer.php:206
+msgid "Gap"
+msgstr "Boşluk"
+
+#: inc/visual_composer.php:209
+msgid "0px"
+msgstr "0px"
+
+#: inc/visual_composer.php:210
+msgid "1px"
+msgstr "1px"
+
+#: inc/visual_composer.php:211
+msgid "2px"
+msgstr "2px"
+
+#: inc/visual_composer.php:212
+msgid "3px"
+msgstr "3px"
+
+#: inc/visual_composer.php:213
+msgid "4px"
+msgstr "4px"
+
+#: inc/visual_composer.php:214
+msgid "5px"
+msgstr "5px"
+
+#: inc/visual_composer.php:215 inc/visual_composer.php:782
+msgid "10px"
+msgstr "10px"
+
+#: inc/visual_composer.php:216 inc/visual_composer.php:787
+msgid "15px"
+msgstr "15px"
+
+#: inc/visual_composer.php:217 inc/visual_composer.php:792
+msgid "20px"
+msgstr "20px"
+
+#: inc/visual_composer.php:218
+msgid "25px"
+msgstr "25px"
+
+#: inc/visual_composer.php:219
+msgid "30px"
+msgstr "30px"
+
+#: inc/visual_composer.php:220
+msgid "35px"
+msgstr "35px"
+
+#: inc/visual_composer.php:221
+msgid "40px"
+msgstr "40px"
+
+#: inc/visual_composer.php:222
+msgid "45px"
+msgstr "45px"
+
+#: inc/visual_composer.php:223
+msgid "50px"
+msgstr "50px"
+
+#: inc/visual_composer.php:224
+msgid "55px"
+msgstr "55px"
+
+#: inc/visual_composer.php:225
+msgid "60px"
+msgstr "60px"
+
+#: inc/visual_composer.php:228
+msgid "Select gap between grid elements."
+msgstr "Tablo görünümü öğeleri için boşluk seç."
+
+#: inc/visual_composer.php:263
+msgid "Date"
+msgstr "Tarih"
+
+#: inc/visual_composer.php:264
+msgid "ID"
+msgstr "ID"
+
+#: inc/visual_composer.php:265
+msgid "Author"
+msgstr "Yazar"
+
+#: inc/visual_composer.php:266 inc/visual_composer.php:473
+#: inc/visual_composer.php:611 inc/visual_composer.php:1098
+#: inc/visual_composer.php:1163 inc/visual_composer.php:1218
+#: inc/visual_composer.php:1536 inc/widgets/woo_popular_courses.php:32
+#: inc/vc/modules/stm_lms_instructors_carousel.php:19
+#: inc/vc/modules/stm_image_box.php:23
+#: inc/vc/modules/stm_lms_courses_grid.php:31
+#: inc/vc/modules/stm_lms_courses_carousel.php:21
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/visual_composer.php:267
+msgid "Modified"
+msgstr "Modifiye edildi"
+
+#: inc/visual_composer.php:268
+msgid "Random"
+msgstr "Rastgele"
+
+#: inc/visual_composer.php:269
+msgid "Comment count"
+msgstr "Yorum sayısı"
+
+#: inc/visual_composer.php:270
+msgid "Menu order"
+msgstr "Menü sırası"
+
+#: inc/visual_composer.php:275
+msgid "Descending"
+msgstr "Azalan"
+
+#: inc/visual_composer.php:276
+msgid "Ascending"
+msgstr "Artan"
+
+#: inc/visual_composer.php:279
+msgid "STM Teachers"
+msgstr "STM Öğretmenleri"
+
+#: inc/visual_composer.php:286 inc/visual_composer.php:353
+msgid "Section title"
+msgstr "Bölüm başlığı"
+
+#: inc/visual_composer.php:288 inc/visual_composer.php:355
+msgid "Title will be shown on the top of section"
+msgstr "Başlık bölümün en üstünden gösterilecek"
+
+#: inc/visual_composer.php:293
+msgid "Number of Teachers to output"
+msgstr "Çıktı için Öğretmen Sayısı"
+
+#: inc/visual_composer.php:295 inc/visual_composer.php:361
+#: inc/visual_composer.php:415
+msgid "Fill field with number only"
+msgstr "Alanı lütfen sadece rakamlarla doldurun"
+
+#: inc/visual_composer.php:308
+msgid "All teachers"
+msgstr "Tüm öğretmenler"
+
+#: inc/visual_composer.php:318
+msgid "Number of Teachers per row"
+msgstr "Satır başına Öğretmen sayısı"
+
+#: inc/visual_composer.php:330
+msgid "STM Teacher Details"
+msgstr "STM Öğretmen Detayları"
+
+#: inc/visual_composer.php:333 inc/visual_composer.php:468
+#: inc/visual_composer.php:606 inc/visual_composer.php:701
+#: inc/visual_composer.php:809 inc/visual_composer.php:830
+#: inc/visual_composer.php:951 inc/visual_composer.php:1094
+#: inc/visual_composer.php:1124 inc/visual_composer.php:1159
+#: inc/visual_composer.php:1186 inc/visual_composer.php:1200
+#: inc/visual_composer.php:1214 inc/visual_composer.php:1243
+#: inc/visual_composer.php:1258 inc/visual_composer.php:1273
+#: inc/visual_composer.php:1288 inc/visual_composer.php:1336
+#: inc/visual_composer.php:1358 inc/visual_composer.php:1433
+#: inc/visual_composer.php:1481 inc/visual_composer.php:1532
+#: inc/visual_composer.php:1560 inc/visual_composer.php:1585
+#: inc/visual_composer.php:1599 inc/visual_composer.php:1620
+#: inc/visual_composer.php:1641 inc/visual_composer.php:1669
+msgid "STM"
+msgstr "STM"
+
+#: inc/visual_composer.php:334
+msgid "Only on expert page"
+msgstr "Sadece eksper sayfasında"
+
+#: inc/visual_composer.php:346
+msgid "STM Testimonials"
+msgstr "STM Yorumları"
+
+#: inc/visual_composer.php:359
+msgid "Number of testimonials to output"
+msgstr "Gösterilecek yorum sayısı"
+
+#: inc/visual_composer.php:365
+msgid "Text Color"
+msgstr "Metin Rengi"
+
+#: inc/visual_composer.php:381
+msgid "Number of testimonials per row"
+msgstr "Satır başına yorum sayısı"
+
+#: inc/visual_composer.php:400
+msgid "STM Post List"
+msgstr "STM Post listesi"
+
+#: inc/visual_composer.php:406
+msgid "Post Data"
+msgstr "Post Verisi"
+
+#: inc/visual_composer.php:408
+msgid "Choose post type"
+msgstr "Post Türü Seç"
+
+#: inc/visual_composer.php:413 inc/visual_composer.php:849
+#: inc/visual_composer.php:1017
+msgid "Number of items to output"
+msgstr "Gösterilecek ürün sayısı"
+
+#: inc/visual_composer.php:419
+msgid "Number of items to output per row"
+msgstr "Her satırdaki çıktı için ürün sayısı"
+
+#: inc/visual_composer.php:429
+msgid "List design"
+msgstr "Liste tasarımı"
+
+#: inc/visual_composer.php:433
+msgid "Show post date"
+msgstr "Post tarihini göster"
+
+#: inc/visual_composer.php:435 inc/visual_composer.php:441
+#: inc/visual_composer.php:447 inc/visual_composer.php:453
+msgid "Item design"
+msgstr "Ürün tasarımı"
+
+#: inc/visual_composer.php:439
+msgid "Show post categories"
+msgstr "Post kategorilerini göster"
+
+#: inc/visual_composer.php:445
+msgid "Show post tags"
+msgstr "Post taglerini göster"
+
+#: inc/visual_composer.php:451
+msgid "Show comments tags"
+msgstr "Yorum taglerini göster"
+
+#: inc/visual_composer.php:465
+msgid "Icon Box"
+msgstr "İkon Kutusu"
+
+#: inc/visual_composer.php:478 inc/visual_composer.php:705
+msgid "Link"
+msgstr "Link"
+
+#: inc/visual_composer.php:483
+msgid "Title Holder"
+msgstr "Başlık Tutucu"
+
+#: inc/visual_composer.php:496
+msgid "Hover position"
+msgstr "İmleç pozisyonu"
+
+#: inc/visual_composer.php:500
+msgid "Top"
+msgstr "En Üst"
+
+#: inc/visual_composer.php:501
+msgid "Right"
+msgstr "Sağ"
+
+#: inc/visual_composer.php:502
+msgid "Left"
+msgstr "Sol"
+
+#: inc/visual_composer.php:503
+msgid "Bottom"
+msgstr "Alt"
+
+#: inc/visual_composer.php:509
+msgid "Box background color"
+msgstr "Kutu arkaplan rengi"
+
+#: inc/visual_composer.php:515
+msgid "Box text color"
+msgstr "Kutu metin rengi"
+
+#: inc/visual_composer.php:521
+msgid "Link color style"
+msgstr "Link renk stili"
+
+#: inc/visual_composer.php:527 inc/visual_composer.php:540
+#: inc/visual_composer.php:551 inc/visual_composer.php:637
+msgid "Enter icon size in px"
+msgstr "px olarak ikon boyutunu girin"
+
+#: inc/visual_composer.php:531 inc/visual_composer.php:628
+#: inc/visual_composer.php:773 inc/visual_composer.php:1373
+msgid "Icon"
+msgstr "İkon"
+
+#: inc/visual_composer.php:537 inc/visual_composer.php:634
+msgid "Icon Size"
+msgstr "İkon Boyutu"
+
+#: inc/visual_composer.php:544
+msgid "Icon Align"
+msgstr "İkon Hizalama"
+
+#: inc/visual_composer.php:555 inc/visual_composer.php:641
+msgid "Icon Height"
+msgstr "İkon Yüksekliği"
+
+#: inc/visual_composer.php:562 inc/visual_composer.php:573
+#: inc/visual_composer.php:644
+msgid "Enter icon height in px"
+msgstr "Px olarak ikon yüksekliğini girin"
+
+#: inc/visual_composer.php:566
+msgid "Icon Width"
+msgstr "İkon Genişliği"
+
+#: inc/visual_composer.php:577
+msgid "Icon Color"
+msgstr "İkon Rengi"
+
+#: inc/visual_composer.php:584
+msgid "Text"
+msgstr "Metin"
+
+#: inc/visual_composer.php:589
+msgid "Icon Css"
+msgstr "İkon Css"
+
+#: inc/visual_composer.php:591
+msgid "Icon Design options"
+msgstr "İkon Tasarım opsiyonu"
+
+#: inc/visual_composer.php:603
+msgid "Stats Counter"
+msgstr "İstatistik Sayacı"
+
+#: inc/visual_composer.php:616
+msgid "Counter Value"
+msgstr "Sayaç Değeri"
+
+#: inc/visual_composer.php:622 paid-memberships-pro/pages/billing.php:59
+msgid "Duration"
+msgstr "Süre"
+
+#: inc/visual_composer.php:648
+msgid "Text alignment"
+msgstr "Metin hizalama"
+
+#: inc/visual_composer.php:655
+msgid "Text alignment in block"
+msgstr "Bloktaki metin hizalama"
+
+#: inc/visual_composer.php:659
+msgid "Text color"
+msgstr "Metin rengi"
+
+#: inc/visual_composer.php:661
+msgid "Text color(white - default)"
+msgstr "Metin rengi( beyaz- varsayılan)"
+
+#: inc/visual_composer.php:665
+msgid "Text font size (px)"
+msgstr "Metin font boyutu (px)"
+
+#: inc/visual_composer.php:670
+msgid "Counter text color"
+msgstr "Saya. metin rengi"
+
+#: inc/visual_composer.php:672
+msgid "Counter Text color(yellow - default)"
+msgstr "Sayaç Metin rengi( sarı- varsayılan)"
+
+#: inc/visual_composer.php:676
+msgid "Counter text font size (px)"
+msgstr "Sayaç metin font büyüklüğü (px)"
+
+#: inc/visual_composer.php:681
+msgid "Include Border"
+msgstr "Sınırı Dahil Et"
+
+#: inc/visual_composer.php:698
+msgid "Icon Button"
+msgstr "İkon Butonu"
+
+#: inc/visual_composer.php:710
+msgid "Link tooltip (title)"
+msgstr "Link ipucu (başlık)"
+
+#: inc/visual_composer.php:716
+msgid "Button alignment"
+msgstr "Buton hizalama"
+
+#: inc/visual_composer.php:727
+msgid "Button Size"
+msgstr "Buton Boyutu"
+
+#: inc/visual_composer.php:737
+msgid "Button Text Color"
+msgstr "Buton Metin Rengi"
+
+#: inc/visual_composer.php:743
+msgid "Button Text Color Hover"
+msgstr "Buton Metin Rengi İmleci"
+
+#: inc/visual_composer.php:749
+msgid "Button Background Color"
+msgstr "Buton Arkaplan Rengi"
+
+#: inc/visual_composer.php:755
+msgid "Button Background Color Hover"
+msgstr "Buton Arkaplan Renk İmleci"
+
+#: inc/visual_composer.php:761
+msgid "Button Border Color"
+msgstr "Buton Sınır Rengi"
+
+#: inc/visual_composer.php:767
+msgid "Button Border Color Hover"
+msgstr "Buton Sınır Renk İmleci"
+
+#: inc/visual_composer.php:783
+msgid "11px"
+msgstr "11px"
+
+#: inc/visual_composer.php:784
+msgid "12px"
+msgstr "12px"
+
+#: inc/visual_composer.php:785
+msgid "13px"
+msgstr "13px"
+
+#: inc/visual_composer.php:786
+msgid "14px"
+msgstr "14px"
+
+#: inc/visual_composer.php:788
+msgid "16px"
+msgstr "16px"
+
+#: inc/visual_composer.php:789
+msgid "17px"
+msgstr "17px"
+
+#: inc/visual_composer.php:790
+msgid "18px"
+msgstr "18px"
+
+#: inc/visual_composer.php:791
+msgid "19px"
+msgstr "19px"
+
+#: inc/visual_composer.php:806
+msgid "Colored Separator"
+msgstr "Renkli Ayraç"
+
+#: inc/visual_composer.php:813
+msgid "Separator Color"
+msgstr "Ayraç Rengi"
+
+#: inc/visual_composer.php:827
+msgid "Product Categories"
+msgstr "Ürün Kategorileri"
+
+#: inc/visual_composer.php:834 inc/visual_composer.php:1003
+msgid "View type"
+msgstr "Türü görüntüle"
+
+#: inc/visual_composer.php:844 inc/visual_composer.php:1012
+msgid "Carousel Auto Scroll"
+msgstr "Karusel Otomatik Kaydırma"
+
+#: inc/visual_composer.php:855 inc/visual_composer.php:1023
+msgid "Number of items per row"
+msgstr "Satır başına ürün sayısı"
+
+#: inc/visual_composer.php:868
+msgid "Box text Color"
+msgstr "Kutu metin Rengi"
+
+#: inc/visual_composer.php:874
+msgid "Text box Align"
+msgstr "Metin kutu Hizalama"
+
+#: inc/visual_composer.php:885
+msgid "Icon size"
+msgstr "İkon boyutu"
+
+#: inc/visual_composer.php:893
+msgid "Icon height"
+msgstr "İkon yüksekliği"
+
+#: inc/visual_composer.php:948
+msgid "Products List (All, featured, teacher courses)"
+msgstr "Ürün Listeleri ( Hepsi, özel, öğretmen kursları)"
+
+#: inc/visual_composer.php:955
+msgid "Meta sorting key"
+msgstr "Meta sıralama anahtarı"
+
+#: inc/visual_composer.php:968
+msgid "Choose expert"
+msgstr "Eksper seçin"
+
+#: inc/visual_composer.php:980
+msgid "Choose tag"
+msgstr "Etiket seçin"
+
+#: inc/visual_composer.php:992
+msgid "Choose category"
+msgstr "Kategori seçin"
+
+#: inc/visual_composer.php:1019
+msgid "Leave empty to display all"
+msgstr "Hepsini görüntülemek için boş bırakın"
+
+#: inc/visual_composer.php:1035
+msgid "Order"
+msgstr "Sipariş"
+
+#: inc/visual_composer.php:1045
+msgid "Order by"
+msgstr "Sipariş sıralama"
+
+#: inc/visual_composer.php:1052
+msgid "Don't Show price"
+msgstr "Fiyatı gösterme"
+
+#: inc/visual_composer.php:1058
+msgid "Don't Show rating"
+msgstr "Puanlamayı gösterme"
+
+#: inc/visual_composer.php:1064
+msgid "Don't Show comments number"
+msgstr "Yorum sayısını gösterme"
+
+#: inc/visual_composer.php:1070
+msgid "Price Badge background color"
+msgstr "Fiyat Rozeti arka plan rengi"
+
+#: inc/visual_composer.php:1076
+msgid "Price Badge (Free) background color"
+msgstr "Fiyat Rozeti ( ücretsiz) arkaplan rengi"
+
+#: inc/visual_composer.php:1091
+msgid "Mailchimp"
+msgstr "MailChimp"
+
+#: inc/visual_composer.php:1103
+#: inc/vc/modules/stm_lms_instructors_carousel.php:24
+#: inc/vc/modules/stm_lms_courses_carousel.php:26
+msgid "Title color"
+msgstr "Başlık rengi"
+
+#: inc/visual_composer.php:1108
+msgid "Button color"
+msgstr "Buton rengi"
+
+#: inc/visual_composer.php:1121
+msgid "Countdown"
+msgstr "Geri sayım"
+
+#: inc/visual_composer.php:1128
+msgid "Count to date"
+msgstr "Bugüne kadar say"
+
+#: inc/visual_composer.php:1134
+msgid "Labels color"
+msgstr "Etiket rengi"
+
+#: inc/visual_composer.php:1156
+msgid "Sign Up Now"
+msgstr "Şimdi Üye Ol"
+
+#: inc/visual_composer.php:1168
+msgid "Choose form"
+msgstr "Buradan seç"
+
+#: inc/visual_composer.php:1182
+msgid "Post info"
+msgstr "Post bilgisi"
+
+#: inc/visual_composer.php:1185 inc/visual_composer.php:1201
+#: inc/visual_composer.php:1257 inc/visual_composer.php:1272
+msgid "Only on post page"
+msgstr "Sadece post sayfasında"
+
+#: inc/visual_composer.php:1197
+msgid "Post tags"
+msgstr "Post tagleri"
+
+#: inc/visual_composer.php:1212
+msgid "Share"
+msgstr "Paylaş"
+
+#: inc/visual_composer.php:1220
+msgid "Share:"
+msgstr "Paylaş:"
+
+#: inc/visual_composer.php:1224 inc/visual_composer.php:1673
+msgid "Code"
+msgstr "Kod"
+
+#: inc/visual_composer.php:1240
+msgid "Multiply separator"
+msgstr "Çoklayıcı ayracı"
+
+#: inc/visual_composer.php:1254
+msgid "Post author"
+msgstr "Post yazarı"
+
+#: inc/visual_composer.php:1269
+msgid "Post comments"
+msgstr "Post Yorumları"
+
+#: inc/visual_composer.php:1284
+msgid "Animation Block"
+msgstr "Animasyon Blok"
+
+#: inc/visual_composer.php:1292
+msgid "Select Animation type"
+msgstr "Animasyon türü seçin"
+
+#: inc/visual_composer.php:1318
+msgid "Duration (ms)"
+msgstr "Süre (ms)"
+
+#: inc/visual_composer.php:1324
+msgid "Delay (ms)"
+msgstr "Gecikme (ms)"
+
+#: inc/visual_composer.php:1333
+msgid "Course Lessons"
+msgstr "Kurs Dersleri"
+
+#: inc/visual_composer.php:1340
+msgid "Section Title"
+msgstr "Bölüm Başlığı"
+
+#: inc/visual_composer.php:1355
+msgid "Lesson"
+msgstr "Ders"
+
+#: inc/visual_composer.php:1362
+msgid "Lesson title"
+msgstr "Ders başlığı"
+
+#: inc/visual_composer.php:1368 vc_templates/stm_course_lesson.php:85
+msgid "Private"
+msgstr "Özel"
+
+#: inc/visual_composer.php:1385
+msgid "Lesson badge"
+msgstr "Ders etiketi"
+
+#: inc/visual_composer.php:1403
+msgid "Preview video"
+msgstr "Video önizleme"
+
+#: inc/visual_composer.php:1404
+msgid ""
+"This video will be opened in popup by clicking \"Preview\" button (just "
+"insert link to the video)"
+msgstr ""
+"Bu video, \"Önizleme\" düğmesini tıklayarak açılan pencerede açılır (sadece "
+"videoya bağlantı ekle)"
+
+#: inc/visual_composer.php:1409
+msgid "Private lesson content placeholder"
+msgstr "Özel ders içerik yer tutucusu"
+
+#: inc/visual_composer.php:1410
+msgid "You can change standart placeholder to your custom text"
+msgstr "Standart yer tutucuyu özel metninize dönüştürebilirsiniz"
+
+#: inc/visual_composer.php:1415
+msgid "Lesson meta"
+msgstr "Ders metası"
+
+#: inc/visual_composer.php:1422
+msgid "Lesson Icon"
+msgstr "Ders İkonu"
+
+#: inc/visual_composer.php:1430
+msgid "Pricing Plan"
+msgstr "Fiyatlandırma Planı"
+
+#: inc/visual_composer.php:1437
+msgid "Plan title"
+msgstr "Plan başlığı"
+
+#: inc/visual_composer.php:1443
+msgid "Plan Color"
+msgstr "Plan Rengi"
+
+#: inc/visual_composer.php:1448
+msgid "Plan price"
+msgstr "Plan fiyatı"
+
+#: inc/visual_composer.php:1454
+msgid "Plan payment period"
+msgstr "Plan ödeme periyodu"
+
+#: inc/visual_composer.php:1460
+msgid "Plan Text"
+msgstr "Plan Metni"
+
+#: inc/visual_composer.php:1466
+msgid "Plan Button"
+msgstr "Plan Butonu"
+
+#: inc/visual_composer.php:1479 inc/widgets/contacts.php:75
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/visual_composer.php:1490 inc/vc/modules/stm_image_box.php:18
+#: inc/vc/modules/stm_lms_featured_teacher.php:44
+msgid "Image"
+msgstr "Görsel"
+
+#: inc/visual_composer.php:1495 inc/vc/modules/stm_image_box.php:28
+msgid "Image Size"
+msgstr "Görsel Boyutu"
+
+#: inc/visual_composer.php:1497
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+"Görüntü boyutu girin. Örnek: küçük, orta, büyük, tam veya geçerli Tema "
+"tarafından tanımlanan diğer boyutları. Ayrıca görüntü boyutunu piksel "
+"cinsinden girin: 200 x 100 (genişlik x yükseklik). \"projects_gallery\" "
+"kullanmak için boş bırakın\"."
+
+#: inc/visual_composer.php:1501
+msgid "Job"
+msgstr "İş"
+
+#: inc/visual_composer.php:1506 partials/event-form.php:17
+#: paid-memberships-pro/pages/checkout.php:491
+#: paid-memberships-pro/pages/billing.php:221
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/visual_composer.php:1511
+msgid "Email"
+msgstr "Email"
+
+#: inc/visual_composer.php:1516
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/visual_composer.php:1529
+msgid "Gallery Grid"
+msgstr "Görsel galeri ızgarası"
+
+#: inc/visual_composer.php:1541
+msgid "Masonry Mode"
+msgstr "Duvarcılık modu"
+
+#: inc/visual_composer.php:1546
+msgid "Gallery per page"
+msgstr "Sayfa başına galeri"
+
+#: inc/visual_composer.php:1558
+msgid "Certificate"
+msgstr "Sertifika"
+
+#: inc/visual_composer.php:1564
+msgid "Certificate name"
+msgstr "Sertifika adı"
+
+#: inc/visual_composer.php:1569
+msgid "Certificate Print"
+msgstr "Sertifika Çıktı"
+
+#: inc/visual_composer.php:1581
+msgid "Event info"
+msgstr "Etkinlik bilgisi"
+
+#: inc/visual_composer.php:1584
+msgid "Only on event page"
+msgstr "Sadece etkinlik sayfasında"
+
+#: inc/visual_composer.php:1596 inc/visual_composer.php:1617
+msgid "Teachers Grid"
+msgstr "Öğretmenler Tablo Görünümü"
+
+#: inc/visual_composer.php:1603 inc/visual_composer.php:1624
+msgid "Teacher per page"
+msgstr "Sayfa başına Öğretmen"
+
+#: inc/visual_composer.php:1638
+msgid "Events Grid"
+msgstr "Etkinlikler Tablo Görünümü"
+
+#: inc/visual_composer.php:1645
+msgid "Events per page"
+msgstr "Sayfa başına Etkinlik"
+
+#: inc/visual_composer.php:1659
+msgid "Select"
+msgstr "Seç"
+
+#: inc/visual_composer.php:1667
+msgid "STM Sidebar"
+msgstr "STM Kenar Çubuğu"
+
+#: inc/visual_composer.php:1679
+msgid "Sidebar position"
+msgstr "Kenar çubuğu pozisyonu"
+
+#: inc/visual_composer.php:1770
+msgid "STM Teacher"
+msgstr "STM Öğretmen"
+
+#: inc/visual_composer.php:1771
+msgid "STM Category"
+msgstr "STM Kategori"
+
+#: inc/visual_composer.php:1772
+msgid "STM Film play"
+msgstr "STM Film oynatma"
+
+#: inc/visual_composer.php:1773
+msgid "STM Clock"
+msgstr "STM Saat"
+
+#: inc/visual_composer.php:1774
+msgid "STM Bullhorn"
+msgstr "STM Megafon"
+
+#: inc/visual_composer.php:1775
+msgid "STM Mail-o"
+msgstr "STM Mail-o"
+
+#: inc/visual_composer.php:1776
+msgid "STM Phone-o"
+msgstr "STM Telefon-o"
+
+#: inc/visual_composer.php:1777
+msgid "STM Pin-o"
+msgstr "STM Pin-o"
+
+#: inc/visual_composer.php:1778
+msgid "STM Skype-o"
+msgstr "STM Skype-o"
+
+#: inc/visual_composer.php:1779
+msgid "STM Book"
+msgstr "STM Kitap"
+
+#: inc/visual_composer.php:1780
+msgid "STM Alarm"
+msgstr "STM Alarm"
+
+#: inc/visual_composer.php:1781
+msgid "STM Briefcase"
+msgstr "STM Evrak Çantası"
+
+#: inc/visual_composer.php:1782
+msgid "STM Diamond"
+msgstr "STM Elmas"
+
+#: inc/visual_composer.php:1783
+msgid "STM Earth"
+msgstr "STM Dünya"
+
+#: inc/visual_composer.php:1784
+msgid "STM Graduation Hat"
+msgstr "STM Kep"
+
+#: inc/visual_composer.php:1785
+msgid "STM License"
+msgstr "STM Lisans"
+
+#: inc/visual_composer.php:1786
+msgid "STM Users"
+msgstr "STM Kullanıcıları"
+
+#: inc/visual_composer.php:1787
+msgid "STM Brain"
+msgstr "STM Beyin"
+
+#: inc/visual_composer.php:1788
+msgid "STM Handshake"
+msgstr "STM El Sıkışma"
+
+#: inc/visual_composer.php:1789
+msgid "STM Net"
+msgstr "STM Net"
+
+#: inc/visual_composer.php:1790
+msgid "STM LinkedIn"
+msgstr "STM Linkedin"
+
+#: inc/visual_composer.php:1791
+msgid "STM Pin"
+msgstr "STM Pin"
+
+#: inc/visual_composer.php:1792
+msgid "STM Market Researches"
+msgstr "STM Pazar Araştırma"
+
+#: inc/visual_composer.php:1793
+msgid "STM Champion Medal"
+msgstr "STM Şampiyon Madalyası"
+
+#: inc/visual_composer.php:1794
+msgid "STM Bike Riding"
+msgstr "STM Bisiklet Sürme"
+
+#: inc/visual_composer.php:1795
+msgid "STM Paint Palette"
+msgstr "STM Renk Paleti"
+
+#: inc/visual_composer.php:1796
+msgid "STM Phone"
+msgstr "STM Telefon"
+
+#: inc/visual_composer.php:1797
+msgid "STM Fax"
+msgstr "STM Faks"
+
+#: inc/visual_composer.php:1798
+msgid "STM SEO monitoring"
+msgstr "STM SEO görüntüleme"
+
+#: inc/visual_composer.php:1799
+msgid "STM SEO performance up"
+msgstr "STM SEO performans yükseltme"
+
+#: inc/visual_composer.php:1800
+msgid "STM User"
+msgstr "STM Kullanıcı"
+
+#: inc/visual_composer.php:1801
+msgid "STM Guitar"
+msgstr "STM Gitar"
+
+#: inc/visual_composer.php:1802
+msgid "STM Add User"
+msgstr "STM Kullanıcı Ekle"
+
+#: inc/visual_composer.php:1803
+msgid "STM Adope PhotoShop"
+msgstr "STM Adope PhotoShop"
+
+#: inc/visual_composer.php:1804
+msgid "STM Chevrone Right"
+msgstr "STM Sağ Rütbe"
+
+#: inc/visual_composer.php:1805
+msgid "STM Chevrone Left"
+msgstr "STM Sol Rütbe"
+
+#: inc/visual_composer.php:1806
+msgid "STM Viral Marketing"
+msgstr "STM Viral Pazarlama"
+
+#: inc/visual_composer.php:1807
+msgid "STM Yoga"
+msgstr "STM Yoga"
+
+#: inc/visual_composer.php:1808
+msgid "STM Youtube Play"
+msgstr "STM Youtube Play"
+
+#: inc/visual_composer.php:1809
+msgid "STM Book solid"
+msgstr "STM Bütün kitap"
+
+#: inc/visual_composer.php:1810
+msgid "STM Book stack"
+msgstr "STM Kitaplığı"
+
+#: inc/visual_composer.php:1811
+msgid "STM Ecommerce cart"
+msgstr "STM E-ticaret sepeti"
+
+#: inc/visual_composer.php:1812
+msgid "STM Certificate"
+msgstr "STM Sertifika"
+
+#: inc/visual_composer.php:1813
+msgid "STM Mountain Climbing"
+msgstr "STM Dağa Tırmanma"
+
+#: inc/visual_composer.php:1814
+msgid "STM Comment solid"
+msgstr "STM Yorum bütünü"
+
+#: inc/visual_composer.php:1815
+msgid "STM Circle Drawer"
+msgstr "STM Yuvarlak Çizer"
+
+#: inc/visual_composer.php:1816
+msgid "STM Diploma Paper"
+msgstr "STM Diploma Kağıdı"
+
+#: inc/visual_composer.php:1817
+msgid "STM Point Drawer"
+msgstr "STM Nokta Çizer"
+
+#: inc/visual_composer.php:1818
+msgid "STM Dribble"
+msgstr "STM Zıplama"
+
+#: inc/visual_composer.php:1819
+msgid "STM Document Edit"
+msgstr "STM Doküman Düzenle"
+
+#: inc/visual_composer.php:1820
+msgid "STM Users group"
+msgstr "STM Kullanıcı grubu"
+
+#: inc/visual_composer.php:1821
+msgid "STM Small logo"
+msgstr "STM Küçük logo"
+
+#: inc/visual_composer.php:2006
+msgid "Content with Right sidebar"
+msgstr "Sağ kenar çubuğu ile içerik"
+
+#: inc/visual_composer.php:2019
+msgid "Content with left sidebar"
+msgstr "Sol kenar çubuğu ile içerik"
+
+#: vc_templates/stm_lms_recent_courses.php:35
+msgid "All Categories"
+msgstr "Tüm Kategoriler"
+
+#: vc_templates/stm_lms_recent_courses.php:51
+msgid "Show all"
+msgstr "Hepsini göster"
+
+#: vc_templates/stm_post_list.php:36
+msgid "View post details"
+msgstr "Post detaylarını görüntüle"
+
+#: vc_templates/stm_post_list.php:56 partials/loop-grid.php:41
+#: partials/loop-list.php:15
+msgid "Sticky Post"
+msgstr "Notlar"
+
+#: vc_templates/stm_post_list.php:72 partials/loop-grid.php:58
+#: partials/loop-list.php:40
+msgid "Posted in:"
+msgstr "Yayınlayan:"
+
+#: vc_templates/stm_post_list.php:87 partials/loop-grid.php:70
+#: partials/loop-list.php:52
+msgid "Tags:"
+msgstr "Tagler:"
+
+#: vc_templates/stm_lms_instructors_carousel.php:53
+#: vc_templates/stm_experts.php:51 vc_templates/stm_lms_courses_carousel.php:81
+msgid "View all"
+msgstr "Hepsini göster"
+
+#: vc_templates/stm_lms_instructors_carousel.php:109
+msgid "No instructors found"
+msgstr "Öğretmen bulunaması"
+
+#: vc_templates/stm_events_grid.php:23 partials/loop-events.php:27
+#: partials/loop-list.php:4
+msgid "View full"
+msgstr "Hepsini görüntüle"
+
+#: vc_templates/vc_wp_archives.php:4
+msgid "Archives"
+msgstr "Arşivler"
+
+#: vc_templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr "Tagler"
+
+#: vc_templates/stm_post_author.php:11 partials/content.php:161
+msgid "Author:"
+msgstr "Yazar:"
+
+#: vc_templates/stm_post_info.php:15 partials/content.php:87
+msgid "Posted by:"
+msgstr "Yayınlayan:"
+
+#: vc_templates/vc_wp_categories.php:4
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: vc_templates/stm_countdown.php:23
+msgid "Time is up, sorry!"
+msgstr "Süre doldu, üzgünüz!"
+
+#: vc_templates/stm_lms_courses_grid.php:41
+#, php-format
+msgid "Found: <strong>%s Courses</strong>"
+msgstr "Bulundu: <strong>%s Kurslar</strong>"
+
+#: vc_templates/stm_lms_courses_grid.php:46
+msgid "Release date (newest first)"
+msgstr "Yayın tarihi ( önce en yeni)"
+
+#: vc_templates/stm_lms_courses_grid.php:47
+msgid "Release date (oldest first)"
+msgstr "Yayın tarihi ( önce en eski)"
+
+#: vc_templates/stm_lms_courses_grid.php:48
+msgid "Overall Rating"
+msgstr "Toplam Puan"
+
+#: vc_templates/stm_lms_courses_grid.php:49
+msgid "Popular (most viewed)"
+msgstr "Popüler ( en çok görüntülenen)"
+
+#: vc_templates/stm_gallery_grid.php:70 partials/loop-gallery.php:10
+msgid "Watch full image"
+msgstr "Tüm görseli izle"
+
+#: vc_templates/stm_course_lesson.php:57
+#, php-format
+msgctxt "Course Badge (masterstudy Offline courses via WooCommerce)"
+msgid "%s"
+msgstr "%s"
+
+#: vc_templates/stm_course_lesson.php:69
+msgid "Preview"
+msgstr "Önizleme"
+
+#: vc_templates/stm_course_lesson.php:120
+msgid ""
+"The content of this lesson is locked. To unlock it, you need to Buy this "
+"Course."
+msgstr ""
+"Bu dersin içeriği kilitlidir. Kilidi açmak için bu Kursu Satın almanız "
+"gerekir."
+
+#: vc_templates/stm_teachers_grid.php:33 vc_templates/stm_teachers_grid.php:50
+#: partials/loop-teacher.php:15 partials/loop-teacher.php:34
+msgid "Watch teacher page"
+msgstr "Öğretmen sayfasını izle"
+
+#: vc_templates/stm_courses_searchbox.php:12
+msgid "Search Courses..."
+msgstr "Kursları Ara..."
+
+#: vc_templates/stm_event_info.php:33 partials/content-event.php:91
+msgid "Start:"
+msgstr "Başlangıç:"
+
+#: vc_templates/stm_event_info.php:40 partials/content-event.php:94
+msgid "End:"
+msgstr "Bitiş:"
+
+#: vc_templates/stm_event_info.php:47 partials/content-event.php:98
+msgid "Location:"
+msgstr "Lokasyon:"
+
+#: vc_templates/stm_event_info.php:56 partials/content-event.php:105
+msgid "Join!"
+msgstr "Katıl!"
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr "Bölüm"
+
+#: vc_templates/vc_accordion_tab.php:13
+msgid "Empty section. Edit page to add content here."
+msgstr "Boş bölüm. Buraya içerik eklemek için sayfayı düzenleyin."
+
+#: vc_templates/vc_cta_button2.php:11
+msgid "Text on the button"
+msgstr "Butondaki metin"
+
+#: vc_templates/stm_experts.php:37
+#: partials/vc_parts/testimonials/style_1.php:24
+msgid "Scroll Carousel left"
+msgstr "Karusel sol kaydırma"
+
+#: vc_templates/stm_experts.php:41
+#: partials/vc_parts/testimonials/style_1.php:27
+msgid "Scroll Carousel right"
+msgstr "Karusel sağ kaydırma"
+
+#: vc_templates/stm_experts.php:50
+msgid "View all teachers"
+msgstr "Tüm öğretmenleri görüntüle"
+
+#: vc_templates/stm_experts.php:99
+msgid "View teacher page"
+msgstr "Öğretmen sayfasını görüntüle"
+
+#: vc_templates/stm_experts.php:110
+msgid "Certified by"
+msgstr "Sertifika veren"
+
+#: vc_templates/stm_product_categories.php:84
+msgid "Category image"
+msgstr "Kategori görseli"
+
+#: vc_templates/vc_wp_posts.php:4
+msgid "Recent Posts"
+msgstr "Yeni Postlar"
+
+#: vc_templates/stm_lms_featured_teacher.php:32
+msgid "Teacher of month"
+msgstr "Ayın öğretmeni"
+
+#: vc_templates/stm_lms_featured_teacher.php:54
+msgid "Teacher Courses:"
+msgstr "Öğretmen Kursları:"
+
+#: vc_templates/stm_contact.php:40
+msgid "Phone: "
+msgstr "Telefon: "
+
+#: vc_templates/stm_contact.php:44
+msgid "Email: "
+msgstr "Email: "
+
+#: vc_templates/stm_contact.php:50
+msgid "Skype: "
+msgstr "Skype: "
+
+#: vc_templates/stm_lms_courses_carousel.php:71
+msgid "All categories"
+msgstr "Tüm kategoriler"
+
+#: partials/frontend_customizer.php:4
+msgid "Header type"
+msgstr "Başlık türü"
+
+#: partials/frontend_customizer.php:7
+msgid "Static"
+msgstr "Statik"
+
+#: partials/frontend_customizer.php:9
+msgid "Sticky"
+msgstr "Yapışkan"
+
+#: partials/frontend_customizer.php:14
+msgid "Header transparency"
+msgstr "Başlık transparanlığı"
+
+#: partials/frontend_customizer.php:17
+msgid "On"
+msgstr "Açık"
+
+#: partials/frontend_customizer.php:19
+msgid "Off"
+msgstr "Kapalı"
+
+#: partials/frontend_customizer.php:24
+msgid "Color Scheme"
+msgstr "Renk Şeması"
+
+#: partials/frontend_customizer.php:27
+msgid "Default skin"
+msgstr "Varsayılan ten"
+
+#: partials/frontend_customizer.php:28
+msgid "Red skin"
+msgstr "Kırmızı ten"
+
+#: partials/frontend_customizer.php:29
+msgid "Blue skin"
+msgstr "Mavi ten"
+
+#: partials/title_box.php:30 inc/widgets/recent_posts.php:25
+msgid "News"
+msgstr "Haberler"
+
+#: partials/title_box.php:39
+msgid "Events"
+msgstr "Etkinlikler"
+
+#: partials/title_box.php:47 partials/searchform.php:6
+#: partials/headers/mobile/search.php:6
+msgid "Search"
+msgstr "Ara"
+
+#: partials/title_box.php:56
+msgid "News & Events"
+msgstr "Haberler & Etkinlikler"
+
+#: partials/loop-grid.php:25
+msgid "Watch full"
+msgstr "Hepsini izle"
+
+#: partials/loop-grid.php:48
+msgid "No title"
+msgstr "Başlık yok"
+
+#: partials/loop-list.php:60
+msgid "Read more"
+msgstr "Daha fazla oku"
+
+#: partials/event-form.php:5
+msgid "Sign up for event"
+msgstr "Etkinliğe kayıt ol"
+
+#: partials/event-form.php:29
+msgid "Message"
+msgstr "Mesaj"
+
+#: partials/event-form.php:34 partials/headers/parts/sign-up.php:4
+msgid "Sign Up"
+msgstr "Üye Ol"
+
+#: partials/searchform.php:9
+msgid "Start typing here..."
+msgstr "Buraya yazın..."
+
+#: woocommerce/checkout/payment.php:23
+msgid "Payment"
+msgstr "Ödeme"
+
+#: woocommerce/notices/error.php:31
+msgid "Error"
+msgstr "Hata"
+
+#: woocommerce/notices/success.php:31
+msgid "Success"
+msgstr "Başarılı"
+
+#: woocommerce/notices/notice.php:31
+msgid "Informational"
+msgstr "Bilgi için"
+
+#: woocommerce/single-product/price.php:28
+msgid "Price"
+msgstr "Fiyat"
+
+#: woocommerce/global/helpbar.php:51
+msgid "All courses"
+msgstr "Tüm kurslar"
+
+#: inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri Yükle"
+
+#: inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Eklentileri Yükle"
+
+#: inc/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Eklenti yükleniyor :%s"
+
+#: inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'yla ilgili bir hata alındı."
+
+#: inc/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema için uygun eklenti: %1$s."
+msgstr[1] "Bu tema için uygun eklenti: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema şu eklentiyi öneriyor: %1$s."
+msgstr[1] "Bu tema şu eklentileri öneriyor: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "Üzgünüz, ama %1$s eklentisini yüklemek için izniniz yok."
+msgstr[1] "Üzgünüz, ama %1$s eklentisini yüklemek için izniniz yok."
+
+#: inc/tgm/tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Bu temadan maksimum verim almak için bu eklentinin güncellenmesi "
+"gerekmektedir: %1$s."
+msgstr[1] ""
+"Bu temadan maksimum verim almak için bu eklentilerin güncellenmesi "
+"gerekmektedir: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Şunun için bir güncelleme bulunmaktadır: %1$s."
+msgstr[1] "Şunun için bir güncellemeler bulunmaktadır: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:362
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "Üzgünüz, ama %1$s eklentisini güncellemek için izniniz yok."
+msgstr[1] "Üzgünüz, ama %1$s eklentisini güncellemek için izniniz yok."
+
+#: inc/tgm/tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Gerekli olan şu eklenti inaktiftir: %1$s."
+msgstr[1] "Gerekli olan şu eklentiler inaktiftir: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Gerekli olan şu eklenti inaktiftir: %1$s."
+msgstr[1] "Gerekli olan şu eklentiler inaktiftir: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "Üzgünüz, ama %1$s eklentisini aktive etmek için izniniz yok."
+msgstr[1] "Üzgünüz, ama %1$s eklentisini aktive etmek için izniniz yok."
+
+#: inc/tgm/tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi yüklemeye başla"
+msgstr[1] "Eklentileri yüklemeye başla"
+
+#: inc/tgm/tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Eklentiyi güncellemeye başla"
+msgstr[1] "Eklentileri güncellemeye başla"
+
+#: inc/tgm/tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi aktifleştirmeye başla"
+msgstr[1] "Eklentileri aktifleştirmeye başla"
+
+#: inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli Eklenti Yükleyiciye Geri Dön"
+
+#: inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Dashboard'a geri dön"
+
+#: inc/tgm/tgm-plugin-activation.php:399 inc/tgm/tgm-plugin-activation.php:3037
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla aktive edildi."
+
+#: inc/tgm/tgm-plugin-activation.php:400 inc/tgm/tgm-plugin-activation.php:2839
+msgid "The following plugin was activated successfully:"
+msgstr "Şuradaki eklenti başarıyla aktive edildi:"
+
+#: inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aksiyon alınmadı. %1$s eklentisi zaten aktif."
+
+#: inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Eklenti aktive edilmedi. %s daha yüksek bir versiyonu bu tema için gerekiyor."
+" Lütfen eklentiyi güncelleyin."
+
+#: inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla yüklendi ve aktive edildi. %1$s"
+
+#: inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Bu notu dikkate almayın"
+
+#: inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Yardım için lütfen site yöneticinize danışın."
+
+#: inc/tgm/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Temanızla uyum sağlayabilmesi için eklentinin güncellenmesi gerekiyor."
+
+#: inc/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Güncelleme Gerekiyor"
+
+#: inc/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Onun yerine bir parent_slug config değişkeni kur."
+
+#: inc/tgm/tgm-plugin-activation.php:825 inc/tgm/tgm-plugin-activation.php:3446
+msgid "Return to the Dashboard"
+msgstr "Dashboard'a geri dön"
+
+#: inc/tgm/tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Uzaktan eklenti paketi gerekli olan dosyayı içermiyor ve geri kalanı da "
+"çalışmıyor."
+
+#: inc/tgm/tgm-plugin-activation.php:932 inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Lütfen eklenti sağlayıcınızla iletişime geçin ve eklentileri Wordpress'e "
+"uygun olarak paketlemelerini iletin."
+
+#: inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Uzaktan eklenti için olan pakette birden fazla dosya vardır ama bu bu "
+"dosyalar tek bir klasör içinde değildir."
+
+#: inc/tgm/tgm-plugin-activation.php:1113
+#: inc/tgm/tgm-plugin-activation.php:2835
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "ve"
+
+#: inc/tgm/tgm-plugin-activation.php:1888
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/tgm-plugin-activation.php:2174
+msgid "Required"
+msgstr "Gerekli"
+
+#: inc/tgm/tgm-plugin-activation.php:2177
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: inc/tgm/tgm-plugin-activation.php:2193
+msgid "WordPress Repository"
+msgstr "Wordpress Deposu"
+
+#: inc/tgm/tgm-plugin-activation.php:2196
+msgid "External Source"
+msgstr "Dış Kaynak"
+
+#: inc/tgm/tgm-plugin-activation.php:2199
+msgid "Pre-Packaged"
+msgstr "Önceden paketlendi"
+
+#: inc/tgm/tgm-plugin-activation.php:2216
+msgid "Not Installed"
+msgstr "Yüklenmedi"
+
+#: inc/tgm/tgm-plugin-activation.php:2220
+msgid "Installed But Not Activated"
+msgstr "Yüklendi Ama Aktive Edilmedi"
+
+#: inc/tgm/tgm-plugin-activation.php:2222
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/tgm/tgm-plugin-activation.php:2228
+msgid "Required Update not Available"
+msgstr "Gerekli Güncelleme Mevcut Değil"
+
+#: inc/tgm/tgm-plugin-activation.php:2231
+msgid "Requires Update"
+msgstr "Güncelleme Gerekiyor"
+
+#: inc/tgm/tgm-plugin-activation.php:2234
+msgid "Update recommended"
+msgstr "Güncelleme öneriliyor"
+
+#: inc/tgm/tgm-plugin-activation.php:2242
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2287
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tüm <span class=\"count\">(%s)</span>"
+msgstr[1] "Tüm <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2290
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Yüklemek için <span class=\"count\">(%s)</span>"
+msgstr[1] "Yüklemek için <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2293
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Güncellemek için <span class=\"count\">(%s)</span>"
+msgstr[1] "Güncellemek için <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2296
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktive etmek için <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktive etmek için <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2378
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "bilinmeyen"
+
+#: inc/tgm/tgm-plugin-activation.php:2386
+msgid "Installed version:"
+msgstr "Yüklenmiş versiyon:"
+
+#: inc/tgm/tgm-plugin-activation.php:2394
+msgid "Minimum required version:"
+msgstr "Minimum gerekli versiyon:"
+
+#: inc/tgm/tgm-plugin-activation.php:2406
+msgid "Available version:"
+msgstr "Mevcut versiyon:"
+
+#: inc/tgm/tgm-plugin-activation.php:2429
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Yüklenebilecek veya güncellenebilecek eklenti yok. <a href=\"%1$s\">"
+"Dashboard'a geri dönün</a>"
+
+#: inc/tgm/tgm-plugin-activation.php:2443
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: inc/tgm/tgm-plugin-activation.php:2444
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/tgm/tgm-plugin-activation.php:2449
+msgid "Version"
+msgstr "Versiyon"
+
+#: inc/tgm/tgm-plugin-activation.php:2450
+msgid "Status"
+msgstr "Statü"
+
+#: inc/tgm/tgm-plugin-activation.php:2498
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Yükle %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2502
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Güncelle %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2507
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Aktive Et %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2577
+msgid "Upgrade message from the plugin author:"
+msgstr "Eklenti yazarından yükseltme mesajı:"
+
+#: inc/tgm/tgm-plugin-activation.php:2610
+msgid "Install"
+msgstr "Yükle"
+
+#: inc/tgm/tgm-plugin-activation.php:2616
+#: paid-memberships-pro/pages/billing.php:362
+msgid "Update"
+msgstr "Güncelle"
+
+#: inc/tgm/tgm-plugin-activation.php:2619
+msgid "Activate"
+msgstr "Aktive Et"
+
+#: inc/tgm/tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Yükleme için bir eklenti seçilmedi. Aksiyon alınmıyor."
+
+#: inc/tgm/tgm-plugin-activation.php:2652
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Güncelleme için bir eklenti seçilmedi. Aksiyon alınmıyor."
+
+#: inc/tgm/tgm-plugin-activation.php:2688
+msgid "No plugins are available to be installed at this time."
+msgstr "Şu an yükleme için uygun bir eklenti yok."
+
+#: inc/tgm/tgm-plugin-activation.php:2690
+msgid "No plugins are available to be updated at this time."
+msgstr "Şu an güncelleme için uygun bir eklenti yok."
+
+#: inc/tgm/tgm-plugin-activation.php:2795
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aktive edilecek bir eklenti bulunamadı. Aksiyon alınmıyor."
+
+#: inc/tgm/tgm-plugin-activation.php:2821
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Şu an yükleme için uygun bir eklenti yok."
+msgstr[1] "Şu eklentiler başarıyla aktive edildi:"
+
+#: inc/tgm/tgm-plugin-activation.php:3036
+msgid "Plugin activation failed."
+msgstr "Eklenti aktivasyonu başarısız."
+
+#: inc/tgm/tgm-plugin-activation.php:3370
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti Güncelleniyor %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:3372
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Yükleme sırasında bir hata oluştu%1$s: <strong>%2$s</strong>."
+
+#: inc/tgm/tgm-plugin-activation.php:3373
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s yüklemesi başarısız."
+
+#: inc/tgm/tgm-plugin-activation.php:3377
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Yükleme ve aktifleştirme işlemi başladı. Bu biraz zaman alabilir, lütfen "
+"sabırlı olun."
+
+#: inc/tgm/tgm-plugin-activation.php:3378
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla yüklendi ve aktive edildi."
+
+#: inc/tgm/tgm-plugin-activation.php:3379
+msgid "All installations and activations have been completed."
+msgstr "Tüm yüklemeler ve aktifleştirmeler tamamlandı."
+
+#: inc/tgm/tgm-plugin-activation.php:3380
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti yükleniyor ve aktifleştiriliyor %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:3383
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Yükleme işlemi başladı. Bu bazı kaynaklarda biraz zaman alabilir, lütfen "
+"sabırlı olun."
+
+#: inc/tgm/tgm-plugin-activation.php:3384
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla yüklendi."
+
+#: inc/tgm/tgm-plugin-activation.php:3385
+msgid "All installations have been completed."
+msgstr "Tüm yüklemeler tamamlandı."
+
+#: inc/tgm/tgm-plugin-activation.php:3386
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti yükleniyor %1$s (%2$d/%3$d)"
+
+#. Base ID
+#: inc/widgets/mailchimp.php:11
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: inc/widgets/mailchimp.php:12
+msgid "MailChimp widget"
+msgstr "MailChimp arayüzü"
+
+#: inc/widgets/mailchimp.php:43
+msgid "Enter your E-mail"
+msgstr "E-mailinizi girin"
+
+#: inc/widgets/mailchimp.php:45
+msgid "Subscribe"
+msgstr "Abone Ol"
+
+#: inc/widgets/mailchimp.php:46
+msgid "Please wait..."
+msgstr "Lütfen bekleyin.."
+
+#: inc/widgets/mailchimp.php:78
+msgid "Error API"
+msgstr "Hata API"
+
+#: inc/widgets/mailchimp.php:99
+msgid "Newsletter"
+msgstr "Bülten"
+
+#: inc/widgets/mailchimp.php:105 inc/widgets/working_hours.php:116
+#: inc/widgets/socials.php:76 inc/widgets/contacts.php:105
+#: inc/widgets/recent_posts.php:77 inc/widgets/text.php:69
+#: inc/widgets/pages.php:89
+msgid "Title:"
+msgstr "Başlık:"
+
+#: inc/widgets/mailchimp.php:109
+#, php-format
+msgid "To setup this widget please follow this <a href=\"%s\">link</a>"
+msgstr ""
+"Bu listelemeyi kurmak için lütfen şu <a href=\"%s\">linki</a> takip edin"
+
+#. Base ID
+#: inc/widgets/working_hours.php:11 inc/widgets/working_hours.php:25
+msgid "Working Hours"
+msgstr "Çalışma Saatleri"
+
+#: inc/widgets/working_hours.php:12
+msgid "Office working hours"
+msgstr "Ofis çalışma saatleri"
+
+#: inc/widgets/working_hours.php:34 inc/widgets/working_hours.php:120
+msgid "Monday"
+msgstr "Pazartesi"
+
+#: inc/widgets/working_hours.php:35 inc/widgets/working_hours.php:124
+msgid "Tuesday"
+msgstr "Salı"
+
+#: inc/widgets/working_hours.php:36 inc/widgets/working_hours.php:128
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+#: inc/widgets/working_hours.php:37 inc/widgets/working_hours.php:132
+msgid "Thursday"
+msgstr "Perşembe"
+
+#: inc/widgets/working_hours.php:38 inc/widgets/working_hours.php:136
+msgid "Friday"
+msgstr "Cuma"
+
+#: inc/widgets/working_hours.php:39 inc/widgets/working_hours.php:140
+msgid "Saturday"
+msgstr "Cumartesi"
+
+#: inc/widgets/working_hours.php:40 inc/widgets/working_hours.php:144
+msgid "Sunday"
+msgstr "Pazar"
+
+#: inc/widgets/working_hours.php:53
+msgid "Closed"
+msgstr "Kapalı"
+
+#: inc/widgets/working_hours.php:83
+msgid "Working hours"
+msgstr "Çalışma saatleri"
+
+#. Base ID
+#: inc/widgets/socials.php:11
+msgid "Socials"
+msgstr "Topluluklar"
+
+#: inc/widgets/socials.php:12
+msgid ""
+"Socials widget(customize order from theme options -> Social Media section -> "
+"Social Widget subsection )"
+msgstr ""
+"Grup listelemeleri ( tema opsiyonlarından özelleştir -> Sosyal Medya Bölümü >"
+" Sosyal Listeleme Alt Bölümü)"
+
+#: inc/widgets/socials.php:71
+msgid "Social Network"
+msgstr "Sosyal Ağlar"
+
+#. Base ID
+#: inc/widgets/contacts.php:11 inc/widgets/contacts.php:25
+msgid "Contacts"
+msgstr "Kontaktlar"
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr "Kontakt widgetları"
+
+#: inc/widgets/contacts.php:98 inc/widgets/recent_posts.php:81
+#: inc/widgets/pages.php:91
+msgid "Style:"
+msgstr "Stil:"
+
+#: inc/widgets/contacts.php:100 inc/widgets/recent_posts.php:83
+#: inc/widgets/pages.php:93
+msgid "Style 1"
+msgstr "Stil 1"
+
+#: inc/widgets/contacts.php:101 inc/widgets/recent_posts.php:84
+#: inc/widgets/pages.php:94
+msgid "Style 2"
+msgstr "Stil 2"
+
+#: inc/widgets/contacts.php:109
+msgid "Address:"
+msgstr "Adres:"
+
+#: inc/widgets/contacts.php:113
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: inc/widgets/contacts.php:117
+msgid "Fax:"
+msgstr "Faks:"
+
+#: inc/widgets/contacts.php:121
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#. Base ID
+#: inc/widgets/recent_posts.php:11
+msgid "STM Recent posts"
+msgstr "STM Yeni Postlar"
+
+#: inc/widgets/recent_posts.php:12
+msgid "Theme recent posts widget"
+msgstr "Tema yeni postlar listemele"
+
+#: inc/widgets/recent_posts.php:64
+msgid "Recent posts"
+msgstr "Yeni Postlar"
+
+#: inc/widgets/recent_posts.php:70
+msgid "3"
+msgstr "3"
+
+#: inc/widgets/recent_posts.php:88
+msgid "Output number:"
+msgstr "Çıktı sayısı:"
+
+#: inc/widgets/woo_popular_courses.php:25
+msgid ""
+"Display a list of your top rated products on your site with course expert."
+msgstr "Kurs eksperi ile sitenizde en yüksek puanlı ürünleri gösterin."
+
+#: inc/widgets/woo_popular_courses.php:27
+msgid "STM WooCommerce Top Rated Products"
+msgstr "STM WooCommerce En İyi Ürünler"
+
+#: inc/widgets/woo_popular_courses.php:31
+msgid "Popular courses"
+msgstr "Popüler kurslar"
+
+#: inc/widgets/woo_popular_courses.php:36
+msgid "style_1"
+msgstr "stil_1"
+
+#: inc/widgets/woo_popular_courses.php:49
+msgid "Number of products to show"
+msgstr "Gösterilecek ürün sayısı"
+
+#: inc/widgets/woo_popular_courses.php:113
+#: inc/widgets/woo_popular_courses.php:119
+msgid "By"
+msgstr "Tarafından"
+
+#: inc/widgets/text.php:10
+msgid "STM Arbitrary text or HTML."
+msgstr "STM Opsiyonel metni veya HTML."
+
+#: inc/widgets/text.php:13
+msgid "STM Text"
+msgstr "STM Metni"
+
+#: inc/widgets/text.php:75
+msgid "Content:"
+msgstr "İçerik:"
+
+#: inc/widgets/text.php:83
+msgid "Automatically add paragraphs"
+msgstr "Otomatik olarak paragraf ekle"
+
+#: inc/widgets/text.php:88
+msgid "Add Socials Widget"
+msgstr "Sosyal Listeleme ekle"
+
+#: inc/widgets/pages.php:6
+msgid "A list of your site&#8217;s Pages."
+msgstr "Sitenizin&#8217;s Sayfalar listesi."
+
+#: inc/widgets/pages.php:7
+msgid "STM Pages"
+msgstr "STM Sayfaları"
+
+#: inc/widgets/pages.php:21
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: inc/widgets/pages.php:98
+msgid "Sort by:"
+msgstr "Sırala:"
+
+#: inc/widgets/pages.php:100
+msgid "Page title"
+msgstr "Sayfa başlığı"
+
+#: inc/widgets/pages.php:101
+msgid "Page order"
+msgstr "Sayfa sırası"
+
+#: inc/widgets/pages.php:102
+msgid "Page ID"
+msgstr "Sayfa ID"
+
+#: inc/widgets/pages.php:106
+msgid "Include:"
+msgstr "Dahil:"
+
+#: inc/widgets/pages.php:108
+msgid "Page IDs, separated by commas."
+msgstr "Sayfa IDleri, virgül ile ayrılmış."
+
+#: paid-memberships-pro/pages/levels.php:27
+msgid "Membership plans"
+msgstr "Üyelik planları"
+
+#: paid-memberships-pro/pages/levels.php:38
+msgid "Get now"
+msgstr "Şimdi al"
+
+#: paid-memberships-pro/pages/levels.php:42
+msgid "Renew"
+msgstr "Yenile"
+
+#: paid-memberships-pro/pages/levels.php:45
+msgid "Your Level"
+msgstr "Seviyeniz"
+
+#: paid-memberships-pro/pages/levels.php:78
+#, php-format
+msgid "per %s"
+msgstr "%s başına"
+
+#: paid-memberships-pro/pages/levels.php:86
+#, php-format
+msgid "Courses included: %s"
+msgstr "Kurslar dahil: %s"
+
+#: paid-memberships-pro/pages/confirmation.php:12
+msgid ""
+"Your payment has been submitted. Your membership will be activated shortly."
+msgstr ""
+"Ödemeniz alınmıştır. En kısa zamanda üyeliğiniz aktif hale getirilecektir."
+
+#: paid-memberships-pro/pages/confirmation.php:14
+#, php-format
+msgid "Thank you for your membership to %s. Your %s membership is now active."
+msgstr "%s üyeliğiniz için teşekkür ederiz. %s üyeliğiniz şu an aktif."
+
+#: paid-memberships-pro/pages/confirmation.php:28
+#, php-format
+msgid ""
+"Below are details about your membership account and a receipt for your "
+"initial membership invoice. A welcome email with a copy of your initial "
+"membership invoice has been sent to %s."
+msgstr ""
+"Üyelik hesabınız hakkında bilgileri ve ilk üyelik faturanızı aşağıda "
+"bulabilirsiniz. Hoşgeldiniz maili ilk üyelik faturanız ile birlikte %s "
+"adresine gönderilmiştir."
+
+#: paid-memberships-pro/pages/confirmation.php:47
+#, php-format
+msgid "Invoice #%s on %s"
+msgstr "Fatura #%s on %s"
+
+#: paid-memberships-pro/pages/confirmation.php:49
+msgid "Print"
+msgstr "Yazdır"
+
+#: paid-memberships-pro/pages/confirmation.php:52
+#: paid-memberships-pro/pages/confirmation.php:124
+msgid "Account"
+msgstr "Hesap"
+
+#: paid-memberships-pro/pages/confirmation.php:53
+#: paid-memberships-pro/pages/confirmation.php:127
+#: paid-memberships-pro/pages/checkout.php:40
+msgid "Membership Level"
+msgstr "Üyelik Seviyesi"
+
+#: paid-memberships-pro/pages/confirmation.php:55
+msgid "Membership Expires"
+msgstr "Üyelik Sona Erme"
+
+#: paid-memberships-pro/pages/confirmation.php:58
+#: paid-memberships-pro/pages/checkout.php:80
+#: paid-memberships-pro/pages/checkout.php:106
+#: paid-memberships-pro/pages/checkout.php:705
+msgid "Discount Code"
+msgstr "İndirim Kodu"
+
+#: paid-memberships-pro/pages/confirmation.php:66
+#: paid-memberships-pro/pages/checkout.php:357
+#: paid-memberships-pro/pages/billing.php:100
+msgid "Billing Address"
+msgstr "Fatura Adresi"
+
+#: paid-memberships-pro/pages/confirmation.php:79
+msgid "Payment Method"
+msgstr "Ödeme Yöntemi"
+
+#: paid-memberships-pro/pages/confirmation.php:80
+msgid "ending in"
+msgstr "bitişi"
+
+#: paid-memberships-pro/pages/confirmation.php:81
+msgid "Expiration"
+msgstr "Son Kullanma Tarihi"
+
+#: paid-memberships-pro/pages/confirmation.php:88
+msgid "Total Billed"
+msgstr "Toplam Faturalanan"
+
+#: paid-memberships-pro/pages/confirmation.php:91
+msgid "Subtotal"
+msgstr "Ara toplam"
+
+#: paid-memberships-pro/pages/confirmation.php:92
+msgid "Tax"
+msgstr "Vergi"
+
+#: paid-memberships-pro/pages/confirmation.php:94
+msgid "Coupon"
+msgstr "Kupon"
+
+#: paid-memberships-pro/pages/confirmation.php:96
+msgid "Total"
+msgstr "Toplam"
+
+#: paid-memberships-pro/pages/confirmation.php:111
+#, php-format
+msgid ""
+"Below are details about your membership account. A welcome email has been "
+"sent to %s."
+msgstr ""
+"Aşağıda üyelik detaylarını bulabilirsiniz. Hoş geldin maili %s adresine "
+"gönderilmiştir."
+
+#: paid-memberships-pro/pages/confirmation.php:128
+msgid "Pending"
+msgstr "Bekliyor"
+
+#: paid-memberships-pro/pages/confirmation.php:138
+msgid "View Your Account"
+msgstr "Hesabını Görüntüle"
+
+#: paid-memberships-pro/pages/confirmation.php:140
+msgid ""
+"If your account is not activated within a few minutes, please contact the "
+"site owner."
+msgstr ""
+"Eğer hesabınız birkaç dakika içinde aktive edilmezse lütfen site "
+"yöneticisine danışınız."
+
+#: paid-memberships-pro/pages/checkout.php:33
+msgid ""
+"Almost done. Review the membership information and pricing below then "
+"<strong>click the \"Complete Payment\" button</strong> to finish your order."
+msgstr ""
+"Neredeyse oldu. Üyelik bilgilerinizi vie ücretleri gözden geçirin, sonra "
+"<strong>\"Ödemeyi Tamamla\" butonuna tıklayın</strong> ve siparişinizi "
+"tamamlayın."
+
+#: paid-memberships-pro/pages/checkout.php:42
+msgid "Change level"
+msgstr "Seviye değiştir"
+
+#: paid-memberships-pro/pages/checkout.php:54
+msgid "Membership level:"
+msgstr "Üyelik seviyesi:"
+
+#: paid-memberships-pro/pages/checkout.php:57
+#, php-format
+msgid ""
+"<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code has "
+"been applied to your order.</p>"
+msgstr ""
+"<p class=\"pmpro_level_discount_applied\"><strong>%s</strong>Kod "
+"siparişinize uygulanmıştır.</p>"
+
+#: paid-memberships-pro/pages/checkout.php:59
+msgid "Price:"
+msgstr "Fiyat:"
+
+#: paid-memberships-pro/pages/checkout.php:61
+msgid "Expires after:"
+msgstr "Süresi doluyor:"
+
+#: paid-memberships-pro/pages/checkout.php:61
+#, php-format
+msgid "%d %s"
+msgstr "%d %s"
+
+#: paid-memberships-pro/pages/checkout.php:70
+msgid "Click here to change your discount code"
+msgstr "İndirim kodunuzu değiştirmek için buraya tıklayın"
+
+#: paid-memberships-pro/pages/checkout.php:74
+msgid "Do you have a discount code?"
+msgstr "İndirim kodunuz var mı?"
+
+#: paid-memberships-pro/pages/checkout.php:76
+msgid "Click here to enter your discount code"
+msgstr "İndirim kodunuzu girmek için tıklayın"
+
+#: paid-memberships-pro/pages/checkout.php:97
+msgid "Description:"
+msgstr "Tanım:"
+
+#: paid-memberships-pro/pages/checkout.php:111
+#: paid-memberships-pro/pages/checkout.php:710
+msgid "Apply"
+msgstr "Uygula"
+
+#: paid-memberships-pro/pages/checkout.php:198
+msgid "Account Information"
+msgstr "Hesap Bilgisi"
+
+#: paid-memberships-pro/pages/checkout.php:199
+msgid "Already have an account?"
+msgstr "Zaten hesabınız var mı?"
+
+#: paid-memberships-pro/pages/checkout.php:200
+msgid "Login here"
+msgstr "Buradan giriş yapın"
+
+#: paid-memberships-pro/pages/checkout.php:209
+msgid "Username"
+msgstr "Kullanıcı adı"
+
+#: paid-memberships-pro/pages/checkout.php:220
+msgid "Password"
+msgstr "Şifre"
+
+#: paid-memberships-pro/pages/checkout.php:230
+msgid "Confirm Password"
+msgstr "Yeni Şifreyi Onayla"
+
+#: paid-memberships-pro/pages/checkout.php:248
+#: paid-memberships-pro/pages/checkout.php:506
+#: paid-memberships-pro/pages/billing.php:232
+msgid "E-mail Address"
+msgstr "E-mail Adresi"
+
+#: paid-memberships-pro/pages/checkout.php:259
+msgid "Confirm E-mail Address"
+msgstr "E-mail Adresini Onayla"
+
+#: paid-memberships-pro/pages/checkout.php:279
+msgid "Full Name"
+msgstr "Ad Soyad"
+
+#: paid-memberships-pro/pages/checkout.php:282
+msgid "LEAVE THIS BLANK"
+msgstr "BURAYI BOŞ BIRAKIN"
+
+#: paid-memberships-pro/pages/checkout.php:305
+#, php-format
+msgid ""
+"You are logged in as <strong>%s</strong>. If you would like to use a "
+"different account for this membership, <a href=\"%s\">log out now</a>."
+msgstr ""
+"<strong>%s</strong> olarak giriş yaptınız. Bu üyelik için farklı bir hesap "
+"kullanmak istiyorsanız, <a href=\"%s\">şimdi çıkış yapın</a>."
+
+#: paid-memberships-pro/pages/checkout.php:322
+msgid "Choose your Payment Method"
+msgstr "Ödeme Yönteminizi seçin"
+
+#: paid-memberships-pro/pages/checkout.php:333
+msgid "Check Out with a Credit Card Here"
+msgstr "Kredi Kartı ile Burada Öde"
+
+#: paid-memberships-pro/pages/checkout.php:339
+msgid "Check Out with PayPal"
+msgstr "PayPal ile Öde"
+
+#: paid-memberships-pro/pages/checkout.php:365
+#: paid-memberships-pro/pages/billing.php:104
+msgid "First Name"
+msgstr "Ad"
+
+#: paid-memberships-pro/pages/checkout.php:371
+#: paid-memberships-pro/pages/billing.php:108
+msgid "Last Name"
+msgstr "Soyad"
+
+#: paid-memberships-pro/pages/checkout.php:377
+#: paid-memberships-pro/pages/billing.php:112
+msgid "Address 1"
+msgstr "Adres 1"
+
+#: paid-memberships-pro/pages/checkout.php:383
+#: paid-memberships-pro/pages/billing.php:116
+msgid "Address 2"
+msgstr "Adres 2"
+
+#: paid-memberships-pro/pages/checkout.php:394
+#: paid-memberships-pro/pages/billing.php:126
+msgid "City"
+msgstr "Şehir"
+
+#: paid-memberships-pro/pages/checkout.php:400
+#: paid-memberships-pro/pages/billing.php:130
+msgid "State"
+msgstr "Eyalet"
+
+#: paid-memberships-pro/pages/checkout.php:406
+#: paid-memberships-pro/pages/billing.php:134
+msgid "Postal Code"
+msgstr "Posta Kodu"
+
+#: paid-memberships-pro/pages/checkout.php:415
+#: paid-memberships-pro/pages/billing.php:143
+msgid "City, State Zip"
+msgstr "Şehir, Eyalet Kodu"
+
+#: paid-memberships-pro/pages/checkout.php:468
+#: paid-memberships-pro/pages/billing.php:196
+msgid "Country"
+msgstr "Ülke"
+
+#: paid-memberships-pro/pages/checkout.php:517
+#: paid-memberships-pro/pages/billing.php:236
+msgid "Confirm E-mail"
+msgstr "E-mail Adresini Onayla"
+
+#: paid-memberships-pro/pages/checkout.php:558
+msgid "Payment Information"
+msgstr "Ödeme Bilgileri"
+
+#: paid-memberships-pro/pages/checkout.php:559
+#, php-format
+msgid "We Accept %s"
+msgstr "%s Kabul Ediyoruz"
+
+#: paid-memberships-pro/pages/checkout.php:581
+#: paid-memberships-pro/pages/billing.php:271
+msgid "Card Type"
+msgstr "Kart Türü"
+
+#: paid-memberships-pro/pages/checkout.php:627
+#: paid-memberships-pro/pages/billing.php:309
+msgid "Card Number"
+msgstr "Kart Numarası"
+
+#: paid-memberships-pro/pages/checkout.php:636
+#: paid-memberships-pro/pages/billing.php:313
+msgid "Expiration Date"
+msgstr "Son Kullanma Tarihi"
+
+#: paid-memberships-pro/pages/checkout.php:692
+#: paid-memberships-pro/pages/billing.php:348
+msgid "CVV"
+msgstr "CVV"
+
+#: paid-memberships-pro/pages/checkout.php:698
+#: paid-memberships-pro/pages/billing.php:349
+msgid "what's this?"
+msgstr "bu nedir?"
+
+#: paid-memberships-pro/pages/checkout.php:783
+#, php-format
+msgid "I agree to the %s"
+msgstr "%s maddelerini kabul ediyorum"
+
+#: paid-memberships-pro/pages/checkout.php:804
+msgid "Complete Payment"
+msgstr "Ödemeyi Tamamla"
+
+#: paid-memberships-pro/pages/checkout.php:816
+msgid "Submit and Check Out"
+msgstr "Gönder ve Öde"
+
+#: paid-memberships-pro/pages/checkout.php:818
+msgid "Submit and Confirm"
+msgstr "Gönder ve Onayla"
+
+#: paid-memberships-pro/pages/checkout.php:829
+msgid "Processing..."
+msgstr "İşleniyor..."
+
+#: paid-memberships-pro/pages/billing.php:23
+#, php-format
+msgid "Logged in as <strong>%s</strong>."
+msgstr "<strong>%s</strong> olarak giriş yapıldı."
+
+#: paid-memberships-pro/pages/billing.php:23
+msgid "logout"
+msgstr "çıkış"
+
+#: paid-memberships-pro/pages/billing.php:41
+msgid "Level"
+msgstr "Seviye"
+
+#: paid-memberships-pro/pages/billing.php:43
+msgid "Membership Fee"
+msgstr "Üyelik Ücreti"
+
+#: paid-memberships-pro/pages/billing.php:47
+#, php-format
+msgid "%s every %d %s."
+msgstr "%s her %d %s."
+
+#: paid-memberships-pro/pages/billing.php:49
+#, php-format
+msgid "%s per %s."
+msgstr "%s başına %s."
+
+#: paid-memberships-pro/pages/billing.php:77
+msgid ""
+"Your payment subscription is managed by PayPal. Please <a href=\"http://www."
+"paypal.com\">login to PayPal here</a> to update your billing information."
+msgstr ""
+"Ödeme aboneliğinizi PayPal yönetiyor. Lütfen <a href=\"http://www.paypal."
+"com\"> PayPal'a buradan giriş yapıp</a> fatura bilgilerinizi güncelleyin."
+
+#: paid-memberships-pro/pages/billing.php:117
+msgid "optional"
+msgstr "opsiyonel"
+
+#: paid-memberships-pro/pages/billing.php:259
+msgid "Credit Card Information"
+msgstr "Kredi Kartı Bilgisi"
+
+#: paid-memberships-pro/pages/billing.php:260
+#, php-format
+msgid "We accept %s"
+msgstr "%s kabul ediyoruz"
+
+#: paid-memberships-pro/pages/billing.php:363
+msgid "Cancel"
+msgstr "İptal"
+
+#: paid-memberships-pro/pages/billing.php:378
+msgid ""
+"This subscription is not recurring. So you don't need to update your billing "
+"information."
+msgstr ""
+"Abonelik yenilenmiyor. Bu nedenle fatura bilgilerinizi güncellemenize gerek "
+"yok."
+
+#: partials/footers/copyright.php:16 partials/footers/copyright.php:18
+msgid "Footer logo"
+msgstr "Alt bilgi logosu"
+
+#: partials/footers/copyright.php:23
+#, php-format
+msgctxt "Footer Copyright text"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/header_default.php:36
+msgid "Search..."
+msgstr "Arama..."
+
+#: inc/vc/modules/stm_lms_recent_courses.php:8
+msgid "STM LMS Recent Courses"
+msgstr "STM LMS Yeni Kurslar"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:11
+#: inc/vc/modules/stm_lms_courses_grid.php:14
+msgid "Show Recent Courses"
+msgstr "Güncel Kursları Göster"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:13
+#: inc/vc/modules/stm_lms_instructors_carousel.php:14
+#: inc/vc/modules/stm_image_box.php:13 inc/vc/modules/stm_image_box.php:33
+#: inc/vc/modules/stm_lms_courses_grid.php:16
+#: inc/vc/modules/stm_lms_single_course_carousel.php:16
+#: inc/vc/modules/stm_courses_searchbox.php:13
+#: inc/vc/modules/stm_lms_courses_categories.php:16
+#: inc/vc/modules/stm_lms_featured_teacher.php:23
+#: inc/vc/modules/stm_lms_courses_carousel.php:16
+msgid "Content"
+msgstr "İçerik"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:18
+#: inc/vc/modules/stm_lms_courses_grid.php:88
+msgid "Number of courses to show"
+msgstr "Gösterilecek kurs sayısı"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:9
+msgid "STM LMS Instructors Carousel"
+msgstr "STM LMS Öğretmen Karuseli"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:12
+msgid "Display Instructors in Styled Carousel"
+msgstr "Stil Karuselinde Gösterim Yönergeleri"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:29
+msgid "Sort By"
+msgstr "Sırala"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:38
+#: inc/vc/modules/stm_lms_single_course_carousel.php:32
+#: inc/vc/modules/stm_lms_courses_carousel.php:42
+msgid "Prev/Next Buttons"
+msgstr "Önceki/ Sonraki Butonları"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:48
+#: inc/vc/modules/stm_lms_single_course_carousel.php:42
+#: inc/vc/modules/stm_lms_courses_carousel.php:52
+msgid "Pagination"
+msgstr "Sayfalandırma"
+
+#: inc/vc/modules/stm_image_box.php:8
+msgid "STM Image box"
+msgstr "STM Görsel kutusu"
+
+#: inc/vc/modules/stm_image_box.php:11
+msgid "Image box"
+msgstr "Görsel kutusu"
+
+#: inc/vc/modules/stm_image_box.php:38
+msgid "Button"
+msgstr "Buton"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:11
+msgid "STM LMS Courses Grid"
+msgstr "STM LMS Kurslar Izgara Görünümü"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:21
+msgid "Hide Top bar"
+msgstr "Üst menüyü sakla"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:40
+msgid "Load more"
+msgstr "Daha fazla yükle"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:50
+#: inc/vc/modules/stm_lms_single_course_carousel.php:21
+#: inc/vc/modules/stm_lms_courses_carousel.php:31
+msgid "Sort"
+msgstr "Sırala"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:60
+msgid "Courses Per Row"
+msgstr "Satır Başına Kurs"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:70
+#: inc/vc/modules/stm_lms_courses_carousel.php:90
+msgid "Show Courses From categories:"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_single_course_carousel.php:11
+msgid "STM LMS Single Course Carousel"
+msgstr "STM LMS Tek Kurs Karuseli"
+
+#: inc/vc/modules/stm_lms_single_course_carousel.php:14
+msgid "Display Signle Course in Styled Carousel"
+msgstr "Stil Karuselinde Tek Kurs Göster"
+
+#: inc/vc/modules/stm_lms_single_course_carousel.php:52
+#: inc/vc/modules/stm_lms_courses_categories.php:21
+#: inc/vc/modules/stm_lms_courses_carousel.php:72
+msgid "Select taxonomy"
+msgstr "Bölümlendirme seç"
+
+#: inc/vc/modules/stm_courses_searchbox.php:8
+msgid "STM Courses Search box"
+msgstr "STM Kurs Arama kutusu"
+
+#: inc/vc/modules/stm_courses_searchbox.php:11
+msgid "Search in LMS Courses"
+msgstr "LMS Kurslarında Ara"
+
+#: inc/vc/modules/stm_lms_courses_categories.php:11
+msgid "STM LMS Courses Categories"
+msgstr "STM LMS Kurs Kategorileri"
+
+#: inc/vc/modules/stm_lms_courses_categories.php:14
+msgid "Show Courses Categories"
+msgstr "Kurs Kategorilerini Göster"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:18
+msgid "STM LMS Featured Teacher"
+msgstr "STM LMS Özel Öğretmen"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:21
+msgid "Place Single Teacher"
+msgstr "Tek Öğretmen Yerleştir"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:28
+msgid "Instructor"
+msgstr "Öğretmenden"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:34
+msgid "Instructor Position"
+msgstr "Öğretmen Pozisyonu"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:39
+msgid "Instructor Bio"
+msgstr "Öğretmen Özgeçmiş"
+
+#: inc/vc/modules/stm_lms_courses_carousel.php:11
+msgid "STM LMS Courses Carousel"
+msgstr "STM LMS Kurs Karuseli"
+
+#: inc/vc/modules/stm_lms_courses_carousel.php:14
+msgid "Display Courses in Styled Carousel"
+msgstr "Kursları Stil Karuseli ile Göster"
+
+#: inc/vc/modules/stm_lms_courses_carousel.php:62
+msgid "Show categories"
+msgstr "Kategorileri göster"
+
+#: partials/vc_parts/courses_categories/style_1.php:58
+#: partials/vc_parts/courses_categories/style_2.php:58
+#, php-format
+msgid "%s Courses"
+msgstr "%s Kurslar"
+
+#: partials/headers/mobile/account.php:29
+msgid "My Profile"
+msgstr "Profilim"
+
+#: partials/headers/mobile/account.php:37
+msgid "Login/Sign Up"
+msgstr "Giriş Yap / Üye Ol"
+
+#: partials/headers/mobile/account.php:46
+msgid "My Courses"
+msgstr "Kurslarım"
+
+#: partials/headers/mobile/account.php:50
+msgid "Checkout"
+msgstr "Ödeme sayfası"
+
+#: partials/headers/mobile/account.php:54
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: partials/headers/mobile/account.php:61
+msgid "Favorites"
+msgstr "Favoriler"
+
+#: partials/headers/mobile/account.php:66
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: partials/headers/mobile/account.php:72 partials/headers/parts/links.php:22
+#: partials/headers/parts/links.php:29
+msgid "Become an Instructor"
+msgstr "Öğretmen Ol"
+
+#: partials/headers/mobile/account.php:78 partials/headers/parts/links.php:36
+msgid "For Enterprise"
+msgstr "Girişimler İçin"
+
+#: partials/headers/mobile/menu.php:6 partials/headers/parts/menu.php:13
+msgid "Menu"
+msgstr "Menü"
+
+#: partials/headers/parts/data_info.php:16
+#, php-format
+msgctxt "Top bar Working hours"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/parts/data_info.php:21
+#, php-format
+msgctxt "Top bar address"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/parts/data_info.php:26
+#, php-format
+msgctxt "Top bar phone"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/parts/wpml_switcher.php:41
+msgid "English"
+msgstr "İngilizce"
+
+#: partials/headers/parts/log-in.php:15
+#: partials/headers/parts/woocommerce_login.php:19
+#: partials/headers/parts/woocommerce_login.php:44
+msgid "Login"
+msgstr "Giriş"
+
+#: partials/headers/parts/log-in.php:19
+msgid "Log in"
+msgstr "Giriş"
+
+#: partials/headers/parts/courses-search.php:22
+msgid "Search courses"
+msgstr "Kursları ara"
+
+#: partials/headers/parts/woocommerce_login.php:14
+#: partials/headers/parts/woocommerce_login.php:15
+#: partials/headers/parts/woocommerce_login.php:39
+#: partials/headers/parts/woocommerce_login.php:40
+msgid "Log out"
+msgstr "Çıkış"
+
+#: partials/headers/parts/woocommerce_login.php:22
+#: partials/headers/parts/woocommerce_login.php:47
+msgid "Register"
+msgstr "Kayıt ol"
+
+#: partials/headers/parts/courses_categories_with_search.php:41
+msgid "Search Courses"
+msgstr "Kursları Ara"
+
+#: partials/headers/parts/categories.php:12
+msgid "Category"
+msgstr "Kategori"
+
+#: partials/headers/parts/sign-up.php:3
+msgid "Sign in"
+msgstr "Giriş yap"
+
+#: inc/admin/product_registration/includes/theme.php:182
+msgid "Error occured"
+msgstr "Hata oluştu"
+
+#: inc/admin/product_registration/includes/admin_screens.php:34
+#: inc/admin/product_registration/includes/admin_screens.php:35
+msgid "Install demos"
+msgstr "Demoları yükle"
+
+#: inc/admin/product_registration/includes/admin_screens.php:44
+#: inc/admin/product_registration/includes/admin_screens.php:45
+#: inc/admin/product_registration/includes/admin_screens.php:146
+msgid "Support"
+msgstr "Destek"
+
+#: inc/admin/product_registration/includes/admin_screens.php:54
+#: inc/admin/product_registration/includes/admin_screens.php:55
+msgid "System status"
+msgstr "Sistem statüsü"
+
+#: inc/admin/product_registration/includes/admin_screens.php:63
+#: inc/admin/product_registration/includes/admin_screens.php:64
+#: inc/admin/product_registration/includes/admin_screens.php:150
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: inc/admin/product_registration/includes/admin_screens.php:133
+#, php-format
+msgid "Welcome to %s"
+msgstr "%s'e Hoşgeldiniz"
+
+#: inc/admin/product_registration/includes/admin_screens.php:136
+#, php-format
+msgid ""
+"%s is now installed and ready to use! Get ready to build something beautiful."
+" Please register your purchase to get automatic theme updates, import %1$s "
+"demos and install premium plugins. Read below for additional information. We "
+"hope you enjoy it! %s"
+msgstr ""
+"%s yüklendi ve kullanıma hazır. Güzel bir şey yaratmaya hazır olun. Lütfen "
+"satın almanızı kayıt ettirin; bu sayede otomatik güncellemeleri alıp, %1$s "
+"demolarını deneyebilir ve premium eklentileri indirebilirsiniz. Detaylı "
+"bilgi için aşağıdaki ek bilgileri okuyun. Umarız seversiniz! %s"
+
+#: inc/admin/product_registration/includes/admin_screens.php:136
+msgid "Watch Our Quick Guided Tour!"
+msgstr "Hızlı Turumuzu İzle!"
+
+#: inc/admin/product_registration/includes/admin_screens.php:144
+msgid "Registration"
+msgstr "Kayıt"
+
+#: inc/admin/product_registration/includes/admin_screens.php:145
+#: inc/admin/product_registration/includes/admin_screens.php:151
+msgid "Install Demos"
+msgstr "Demoları Yükle"
+
+#: inc/admin/product_registration/includes/admin_screens.php:148
+msgid "System Status"
+msgstr "Sistem Statüsü"
+
+#: inc/admin/product_registration/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+"Aldığınız her lisans için %s kadarı 6 aylık ücretsiz destek ile birlikte "
+"gelir. Bu destek ThemeForest araçlığıyla yapılan üyeliklerle uzatılabilir."
+
+#: inc/admin/product_registration/screens/support.php:16
+msgid "Create A Support Account"
+msgstr "Bir Yardım Hesabı Oluşturun"
+
+#: inc/admin/product_registration/screens/support.php:30
+msgid "Ticket System"
+msgstr "Bilet Sistemi"
+
+#: inc/admin/product_registration/screens/support.php:33
+msgid ""
+"We offer excellent 24/7 support through our advanced ticket system. To "
+"access the ticket system dashboard, please register with your purchase code."
+msgstr ""
+"Size gelişmiş talep sistemi ile muhteşem bir 7/24 destek sunuyoruz. Talep "
+"sistem dashaboard'una ulaşmak için lütfen alışveriş numaranızı girin."
+
+#: inc/admin/product_registration/screens/support.php:36
+msgid "Submit a ticket"
+msgstr "Bilet gönder"
+
+#: inc/admin/product_registration/screens/support.php:47
+msgid "Documentation"
+msgstr "Dokümentasyon"
+
+#: inc/admin/product_registration/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+"Online dokümentasyonumuz  %s'in tüm özelliklerini öğrenmek için oldukça "
+"faydalı bir kaynak."
+
+#: inc/admin/product_registration/screens/support.php:53
+msgid "Learn more"
+msgstr "Daha fazla öğren"
+
+#: inc/admin/product_registration/screens/support.php:67
+msgid "Video Tutorials"
+msgstr "Video Eğitimleri"
+
+#: inc/admin/product_registration/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+"Tema oluşturmadan önce eğitim videolarını izlemenizi tavsiye ederiz. Eğitim "
+"videolarımız %s'in farklı yönlerini öğrenmeniz için size yardımcı olacak."
+
+#: inc/admin/product_registration/screens/support.php:73
+msgid "Watch Videos"
+msgstr "Videoları İzle"
+
+#: inc/admin/product_registration/screens/support.php:84
+msgid "Community Forum"
+msgstr "Komünite Forumu"
+
+#: inc/admin/product_registration/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+"Kullanıcı etkileşimi için forumlarımız doğru adresler. Başka bir %s "
+"kullanıcısına deneyimlerini paylaşması için forumdan ulaşabilirsiniz."
+
+#: inc/admin/product_registration/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr "Forumumuzu ziyaret edin"
+
+#: inc/admin/product_registration/screens/install_demo.php:10
+msgid "Classic LMS"
+msgstr "Klasik LMS"
+
+#: inc/admin/product_registration/screens/install_demo.php:13
+msgid "LMS Light"
+msgstr "LMS Açık"
+
+#: inc/admin/product_registration/screens/install_demo.php:16
+msgid "Udemy Affiliate"
+msgstr ""
+
+#: inc/admin/product_registration/screens/install_demo.php:19
+msgid "Academy"
+msgstr "Akademi"
+
+#: inc/admin/product_registration/screens/install_demo.php:22
+msgid "LMS Dark"
+msgstr "LMS Koyu"
+
+#: inc/admin/product_registration/screens/install_demo.php:25
+msgid "Default"
+msgstr "Varsayılan"
+
+#: inc/admin/product_registration/screens/install_demo.php:28
+msgid "Course Hub"
+msgstr "Kurs Merkezi"
+
+#: inc/admin/product_registration/screens/install_demo.php:53
+msgid "Installed"
+msgstr "Yüklendi"
+
+#: inc/admin/product_registration/screens/install_demo.php:56
+msgid "Import"
+msgstr "İçe Aktar"
+
+#: inc/admin/product_registration/screens/install_demo.php:68
+msgid "Demo Installation"
+msgstr "Demo Yükleme"
+
+#: inc/admin/product_registration/screens/install_demo.php:73
+#: inc/admin/product_registration/screens/install_demo.php:165
+msgid "Installed & Activated"
+msgstr "Yüklendi & Aktive Edildi"
+
+#: inc/admin/product_registration/screens/install_demo.php:73
+msgid "Not installed"
+msgstr "Yüklenmedi"
+
+#: inc/admin/product_registration/screens/install_demo.php:94
+msgid "Demo content"
+msgstr "Demo içeriği"
+
+#: inc/admin/product_registration/screens/install_demo.php:100
+msgid "Setup Layout"
+msgstr "Sayfa Düzeni Kur"
+
+#: inc/admin/product_registration/screens/install_demo.php:105
+msgid "Please enter your Activation Token before running the MasterStudy."
+msgstr "Crypterio'uyu çalıştırmadan önce lütfen Aktivasyon Token'ını girin."
+
+#: inc/admin/product_registration/screens/install_demo.php:164
+msgid "Installing"
+msgstr "Yükleniyor"
+
+#: inc/admin/product_registration/screens/install_demo.php:216
+msgid "Importing Demo"
+msgstr "İçe Aktarma Demosu"
+
+#: inc/admin/product_registration/screens/install_demo.php:217
+msgid "Imported"
+msgstr "İçe Aktarıldı"
+
+#: inc/admin/product_registration/screens/system_status.php:11
+#: inc/admin/product_registration/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr "Wordpress Dünyası"
+
+#: inc/admin/product_registration/screens/system_status.php:20
+msgid "Home URL:"
+msgstr "Ana Sayfa URL:"
+
+#: inc/admin/product_registration/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr "Sitenizin ana sayfa URL'i."
+
+#: inc/admin/product_registration/screens/system_status.php:25
+msgid "Site URL:"
+msgstr "Site URL'si:"
+
+#: inc/admin/product_registration/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr "Sitenizin kaynak URL'i."
+
+#: inc/admin/product_registration/screens/system_status.php:30
+msgid "WP Version:"
+msgstr "WP versiyonu:"
+
+#: inc/admin/product_registration/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr "Sitenize yüklenmiş Wordpress versiyonu."
+
+#: inc/admin/product_registration/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr "WP Multi Sitesi:"
+
+#: inc/admin/product_registration/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "WordPress Multi Site aktive mi değil mi."
+
+#: inc/admin/product_registration/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr "WP Hafıza Limiti:"
+
+#: inc/admin/product_registration/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "Sitenizin bir seferde kullanabileceği maksimum hafıza (RAM)"
+
+#: inc/admin/product_registration/screens/system_status.php:46
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least <strong>128MB</strong>. <br />"
+" To import classic demo data, <strong>256MB</strong> of memory limit is "
+"required. <br /> Please define memory limit in <strong>wp-config.php</strong>"
+" file. To learn how, see: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Increasing memory allocated to PHP.</a>"
+msgstr ""
+"%s - Bizim tavsiyemiz olan minimum bellek ayarı <strong>128 MB</strong>.<br>"
+"Klasik demo veri almak için <strong>256 MB</strong> -in bellek sınırı "
+"gereklidir.<br>Lütfen bellek sınırı içinde <strong>wp-config.php</strong> "
+"dosya tanımlayın. Öğrenmek için buraya bakın: <a href=\"%s\" "
+"target=\"_blank\">PHP'ye ayrılan bellek arttırılıyor.</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+"Geçerli bellek sınırınız yeterlidir, ancak klasik demo içeriğini aktarmanız "
+"gerekiyorsa, gereken bellek sınırı <strong> 256MB'dir. </Strong>"
+
+#: inc/admin/product_registration/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr "WP Hata Ayıklama Modu:"
+
+#: inc/admin/product_registration/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "WordPress'in Hata Ayıklama Modunda olup olmadığını görüntüler."
+
+#: inc/admin/product_registration/screens/system_status.php:68
+msgid "Language:"
+msgstr "Dil:"
+
+#: inc/admin/product_registration/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr "WordPress tarafından kullanılan geçerli dil. Varsayılan = İngilizce"
+
+#: inc/admin/product_registration/screens/system_status.php:75
+#: inc/admin/product_registration/screens/system_status.php:79
+msgid "Server Environment"
+msgstr "Sunucu Ortamı"
+
+#: inc/admin/product_registration/screens/system_status.php:84
+msgid "Server Info:"
+msgstr "Sunucu Bilgisi:"
+
+#: inc/admin/product_registration/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Şu anda sitenizin kayıtlı olduğu web sunucusu hakkında bilgi."
+
+#: inc/admin/product_registration/screens/system_status.php:89
+msgid "PHP Version:"
+msgstr "PHP Versiyonu:"
+
+#: inc/admin/product_registration/screens/system_status.php:90
+msgid "The version of PHP installed on your hosting server."
+msgstr "PHP versiyonu sunucunuza yüklenmiştir."
+
+#: inc/admin/product_registration/screens/system_status.php:95
+msgid "PHP Post Max Size:"
+msgstr "PHP Post Maksimum Boyutu:"
+
+#: inc/admin/product_registration/screens/system_status.php:96
+msgid "The largest file size that can be contained in one post."
+msgstr "Bir postun içerebileceği maksimum dosya boyutu."
+
+#: inc/admin/product_registration/screens/system_status.php:100
+msgid "PHP Time Limit:"
+msgstr "PHP Zaman Limiti:"
+
+#: inc/admin/product_registration/screens/system_status.php:101
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"Zaman hatası vermeden önce (Sunucu aramalarından kaçınmak için) sitenizin "
+"tek bir operasyonda harcayacağı zaman ( saniye cinsinden)"
+
+#: inc/admin/product_registration/screens/system_status.php:107
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+"%1$s - Maksimum çalışma süresini 180'e ayarlamanızı tavsiye ederiz. <br /> "
+"Klasik bir veri içeriği almak için, <strong>300</strong> saniye maksimum "
+"işlem süresi gerekmektedir.<br />Şuna bakın: <a href=\"%2$s\" "
+"target=\"_blank\" rel=\"noopener noreferrer\">Maksimum PHP'ye yükseltin</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:111
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+"Mevcut zaman limiti yeterli değil, eğer demo içerik eklemeniz gerekiyorsa, "
+"gerekli zaman <strong>300</strong>."
+
+#: inc/admin/product_registration/screens/system_status.php:118
+msgid "PHP Max Input Vars:"
+msgstr "PHP Maksimum Giriş Var:"
+
+#: inc/admin/product_registration/screens/system_status.php:119
+#: inc/admin/product_registration/screens/system_status.php:155
+#: inc/admin/product_registration/screens/system_status.php:184
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"Tekrar yüklemeyi engellemek için sunucunuzun kullanabileceği maksimum "
+"sayıdaki değişken."
+
+#: inc/admin/product_registration/screens/system_status.php:139
+#: inc/admin/product_registration/screens/system_status.php:175
+#: inc/admin/product_registration/screens/system_status.php:204
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+"%1$s - Önerilen Değer:%2$s.<br />POST verisi menüler gibimaksimum değer "
+"limitleri kesilecek. Şuna bakın:<a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Maksimum artan giriş artıyor. </a>"
+
+#: inc/admin/product_registration/screens/system_status.php:147
+msgid "SUHOSIN Installed:"
+msgstr "SUHOSIN Yüklendi:"
+
+#: inc/admin/product_registration/screens/system_status.php:148
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+"Suhosin PHP yüklemeleri için gelişmiş bir koruma sistemidir. Bir yandan "
+"sunucularınızı PHP uygulamaları içinde iyi bilinen hatalara karşı korurken "
+"bir yandan bilinmeyen ama öngörülen zayıf noktalar PHP'in kendisi için de "
+"korur. Eğer sunucunuzu aktive ederseniz, Suhosin data limit gönderimlerini "
+"arttırabilmek için kurulum başlatır."
+
+#: inc/admin/product_registration/screens/system_status.php:154
+msgid "Suhosin Post Max Vars:"
+msgstr "Suhosin Maksimum Post Var:"
+
+#: inc/admin/product_registration/screens/system_status.php:183
+msgid "Suhosin Request Max Vars:"
+msgstr "Suhosin Maksimum Talep Var:"
+
+#: inc/admin/product_registration/screens/system_status.php:212
+msgid "Suhosin Post Max Value Length:"
+msgstr "Suhoin Maksimum Post Uzunluk Değeri:"
+
+#: inc/admin/product_registration/screens/system_status.php:213
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr "POST isteğiyle kaydedilen bir değişkenin maksimum uzunluğunu tanımlar."
+
+#: inc/admin/product_registration/screens/system_status.php:219
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+
+#: inc/admin/product_registration/screens/system_status.php:228
+msgid "ZipArchive:"
+msgstr "Zip Arşiv:"
+
+#: inc/admin/product_registration/screens/system_status.php:229
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+"ZipArşiv demoları alabilmek için gereklidir. Zip dosyalarını almak ve "
+"çıkarmak için özellikler silder'lar için kullanılır."
+
+#: inc/admin/product_registration/screens/system_status.php:233
+msgid "MySQL Version:"
+msgstr "MySQL Versiyonu:"
+
+#: inc/admin/product_registration/screens/system_status.php:234
+msgid "The version of MySQL installed on your hosting server."
+msgstr "Sunucunuzda yüklü olan MySQL versiyonu."
+
+#: inc/admin/product_registration/screens/system_status.php:244
+msgid "Max Upload Size:"
+msgstr "Maks Yükleme Boyutu:"
+
+#: inc/admin/product_registration/screens/system_status.php:245
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr "Wordpress yapınıza yüklenebilecek maksimum dosya boyutu."
+
+#: inc/admin/product_registration/screens/system_status.php:251
+#: inc/admin/product_registration/screens/system_status.php:255
+msgid "Active Plugins"
+msgstr "Aktif Eklentiler"
+
+#: inc/admin/product_registration/screens/system_status.php:279
+msgid "Visit plugin homepage"
+msgstr "Eklenti ana sayfayı ziyaret et"
+
+#: inc/admin/product_registration/screens/system_status.php:285
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "%s tarafıdan"
+
+#: inc/admin/product_registration/screens/startup.php:23
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+"Lütfen kayıt yaptırdığınız hesabın mevcut token'ı üzerinden temayı satın "
+"aldığınıza emin olun"
+
+#: inc/admin/product_registration/screens/startup.php:39
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+"%s 'i seçtiğiniz için teşekkürler! %1$s demolara erişmek ve otomatik tema "
+"güncellemeleri için lütfen kayıt olun. Aşağıdaki adımları takip "
+"edebilirsiniz."
+
+#: inc/admin/product_registration/screens/startup.php:59
+msgid "Submit"
+msgstr "Gönder"
+
+#: inc/admin/product_registration/screens/startup.php:67
+msgid "Instructions For Generating A Token"
+msgstr "Bir Token Üretmek İçin Yönergeler"
+
+#: inc/admin/product_registration/screens/startup.php:69
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+"Buna tıklayın<a href=\"%s\" target=\"_blank\">Kişisel bir token linki "
+"üretin</a>. <strong>ÖNEMLİ:</strong> %s'i aldığınız hesapla ThemeForest'a "
+"giriş yapmış olmalısınız. Eğer zaten giriş yaptıysanız yukarıdaki menüden "
+"doğru hesap olup olmadığını kontrol edin. Eğer giriş yapmadıysanız, Bir "
+"Token Üret sayfasına yönlendirileceksiniz."
+
+#: inc/admin/product_registration/screens/startup.php:70
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+"<strong> için kutucukları işaretleyin ve token'ınıza bir isim verin. Envato "
+"kullanıcı adınızı görüntüleyip satın aldığını ürünleri yükleyin ve </strong> "
+"ve <strong> alışverişini onaylayın. Yaptığınız alışverişleri</strong> "
+"buradan izin alınması gereken bölümler için listeleyin. Kapsam ve Kullanım "
+"Koşulları'nı kabul etmek için kutuyu işaretleyin ve <strong> tıklayıp bir "
+"token butonu yaratın</strong>"
+
+#: inc/admin/product_registration/screens/startup.php:71
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+"Yeni sayfa kutudaki bir token numarası ile yüklenecek. Bu token numarasını "
+"kopyalayın ve kayıt sayfasına geri dönüp buradaki alana yapıştırın ve "
+"<strong> Gönder</strong> butonunu tıklayın."
+
+#: inc/admin/product_registration/screens/startup.php:72
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+"Başarılı işlem için yeşil bir işaret, eğer bir şeyler yanlış ise de bir hata "
+"mesajı göreceksiniz. Eğer hata varsa, adımları takip ettiğinizden emin olun."
+
+#. Name of the theme
+msgid "Master Study"
+msgstr "Master Study"
+
+#. Description of the theme
+msgid ""
+"MasterStudy is the best WordPress theme for the Education &amp; Learning "
+"Center - for educational organizations, who sell courses and organize "
+"classes locally. Using Masterstudy you can easily setup a WordPress site for "
+"your education company."
+msgstr ""
+"MasterStudy, eğitim ve Öğrenim Merkezi için en iyi WordPress temasıdır -"
+"özellikle eğitim kurumları, kurs satışı yapanlar ve yerel sınıfları "
+"oluşturanlar için. Masterstudy'yi kullanarak eğitim şirketiniz için kolayca "
+"bir WordPress sitesi oluşturabilirsiniz."
+
+#. URI of the theme
+msgid "https://stylemixthemes.com/masterstudy/"
+msgstr "https://stylemixthemes.com/masterstudy/"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr "http://stylemixthemes.com/"

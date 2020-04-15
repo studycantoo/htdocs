@@ -1,0 +1,3936 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Master Study\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-20 12:22+0000\n"
+"PO-Revision-Date: 2018-11-29 05:21+0000\n"
+"Language-Team: Italian\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: StylemixThemes <timur@stylemix.net>\n"
+"Language: it_IT\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: 404.php:9
+msgid "The page you are looking for does not exist."
+msgstr "La pagina che stai cercando non esiste."
+
+#: 404.php:11
+msgid "GO BACK TO HOMEPAGE"
+msgstr "TORNA ALLA HOMEPAGE"
+
+#: index.php:89 archive-gallery.php:92 archive-events.php:66
+#: vc_templates/stm_events_grid.php:54 vc_templates/stm_gallery_grid.php:97
+#: vc_templates/stm_teachers_grid.php:69
+msgid "Previous"
+msgstr "Precedente"
+
+#: index.php:90 archive-gallery.php:93 archive-events.php:67
+#: vc_templates/stm_events_grid.php:55 vc_templates/stm_gallery_grid.php:98
+#: vc_templates/stm_teachers_grid.php:70
+msgid "Next"
+msgstr "Successivo"
+
+#: index.php:107
+msgid "No result has been found. Please check for correctness."
+msgstr ""
+"Non è stato trovato nessun risultato. Ti preghiamo di verificare la "
+"correttezza."
+
+#: comments.php:29
+msgid "Comment navigation"
+msgstr "Navigazione nei commenti"
+
+#: comments.php:32
+msgid "Older Comments"
+msgstr "Commenti più vecchi"
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr "Commenti più recenti"
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: footer.php:20
+msgid "Days"
+msgstr "Giorni"
+
+#: footer.php:21
+msgid "Hours"
+msgstr "Ore"
+
+#: footer.php:22
+msgid "Minutes"
+msgstr "Minuti"
+
+#: footer.php:23
+msgid "Seconds"
+msgstr "Secondi"
+
+#: archive-gallery.php:58
+msgid "Gallery"
+msgstr "Galleria"
+
+#: archive-gallery.php:68 vc_templates/stm_gallery_grid.php:44
+msgid "All images"
+msgstr "Tutte le immagini"
+
+#: page.php:13 partials/content-event.php:9 partials/content-event.php:121
+#: partials/content.php:13 partials/content.php:122
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: page.php:17 partials/content-event.php:13 partials/content.php:17
+msgid "Page"
+msgstr "Pagina"
+
+#: woocommerce/content-product-list.php:80 woocommerce/content-product.php:76
+#: vc_templates/stm_featured_products.php:127
+#: inc/widgets/woo_popular_courses.php:143
+#: paid-memberships-pro/pages/levels.php:50
+msgid "Free"
+msgstr "Gratis"
+
+#: woocommerce/content-product-list.php:101 woocommerce/content-product.php:97
+#: woocommerce/content-product.php:109
+#: vc_templates/stm_featured_products.php:150
+#: vc_templates/stm_featured_products.php:159
+#: vc_templates/stm_product_categories.php:77
+msgid "View course"
+msgstr "Visualizza corso"
+
+#: woocommerce/content-product-list.php:115
+#, php-format
+msgctxt "Course status"
+msgid "%s"
+msgstr "%s"
+
+#: woocommerce/content-product-list.php:142
+#: woocommerce/content-product-list.php:158
+#: woocommerce/content-single-product.php:59
+msgid "Teacher"
+msgstr "Insegnante"
+
+#: woocommerce/content-product-list.php:170
+#: woocommerce/content-product-list.php:177
+msgid "Available"
+msgstr "Disponibile"
+
+#: woocommerce/content-product-list.php:170
+#: woocommerce/content-product-list.php:177
+msgid "seats"
+msgstr "posti"
+
+#: woocommerce/content-product-list.php:186
+msgid "See more"
+msgstr "Mostra altro"
+
+#: woocommerce/content-product.php:160
+#: vc_templates/stm_featured_products.php:213
+#: vc_templates/stm_featured_products.php:213
+msgid "View more"
+msgstr "Visualizza altro"
+
+#: woocommerce/content-single-product-meta-side.php:37
+msgid "Students"
+msgstr "Studenti"
+
+#: woocommerce/content-single-product-meta-side.php:48
+msgid "Duration:"
+msgstr "Durata:"
+
+#: woocommerce/content-single-product-meta-side.php:59
+msgid "Lectures:"
+msgstr "Lezioni:"
+
+#: woocommerce/content-single-product-meta-side.php:70
+msgid "Video:"
+msgstr "Video:"
+
+#: woocommerce/content-single-product.php:50 partials/title_box.php:37
+msgid "Teachers"
+msgstr "Insegnanti"
+
+#: woocommerce/content-single-product.php:82 vc_templates/stm_post_info.php:19
+#: partials/content.php:91
+msgid "Category:"
+msgstr "Categoria:"
+
+#: woocommerce/content-single-product.php:100
+#: woocommerce/content-single-product.php:235
+msgid "Reviews"
+msgstr "Recensioni"
+
+#: woocommerce/content-single-product.php:127
+msgid "About Instructors"
+msgstr "Informazioni sugli istruttori"
+
+#: woocommerce/content-single-product.php:142
+#: woocommerce/content-single-product.php:192
+msgid "Watch Expert Page"
+msgstr "Guarda pagina dell'esperto"
+
+#: woocommerce/content-single-product.php:159
+#: woocommerce/content-single-product.php:208
+#: vc_templates/stm_teacher_detail.php:29 vc_templates/stm_teachers_grid.php:41
+#: vc_templates/stm_experts.php:89 partials/loop-teacher.php:25
+msgid "View expert on"
+msgstr "Visualizza esperto in "
+
+#: woocommerce/content-single-product.php:189
+msgid "About Instructor"
+msgstr "Informazioni sull'insegnante"
+
+#: woocommerce/content-single-product.php:239
+msgid "Average Rating"
+msgstr "Valutazione media"
+
+#: woocommerce/content-single-product.php:246
+msgid "Ratings"
+msgstr "Valutazioni"
+
+#: woocommerce/content-single-product.php:292
+msgid "Detailed Rating"
+msgstr "Valutazione dettagliata"
+
+#: woocommerce/content-single-product.php:303
+msgid "Stars"
+msgstr "Stelle"
+
+#: woocommerce/product-searchform.php:26
+msgid "Search the Courses"
+msgstr "Cerca i corsi"
+
+#: inc/woocommerce_setups.php:11 inc/woocommerce_setups.php:94
+#: inc/woocommerce_setups.php:101
+msgid "Category Background Color"
+msgstr "Colore sfondo categoria"
+
+#: inc/woocommerce_setups.php:13 inc/woocommerce_setups.php:97
+msgid "Enter a value for this field"
+msgstr "Inserisci un valore per questo campo"
+
+#: inc/woocommerce_setups.php:14
+msgid "Category Background font"
+msgstr "Font sfondo categoria"
+
+#: inc/woocommerce_setups.php:18 inc/woocommerce_setups.php:106
+msgid "Choose icons from Font Awesome Pack"
+msgstr "Scegli icone dal pacchetto Font Awesome"
+
+#: inc/woocommerce_setups.php:34 inc/woocommerce_setups.php:126
+msgid "Choose from Master Study Icons Pack"
+msgstr "Scegli dal pacchetto Master Study Icons"
+
+#: inc/woocommerce_setups.php:50
+msgid "Click on button, then choose icon, which will be held for this category"
+msgstr ""
+"Clicca sul pulsante, poi scegli l'icona, che verrà mantenuta per questa "
+"categoria"
+
+#: inc/woocommerce_setups.php:51
+msgid "If none of this icons suits you, upload thumbnail (130*120)"
+msgstr "Se nessuna delle icone ti piace, carica anteprima (130x120)"
+
+#: inc/woocommerce_setups.php:142
+msgid "Remove icon"
+msgstr "Rimuovi icona"
+
+#: inc/woocommerce_setups.php:262
+msgid "Enroll this Course"
+msgstr "Iscriviti a questo corso"
+
+#: inc/custom.php:90
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a %2$s"
+
+#: inc/custom.php:92
+msgid ""
+"<span class=\"vertical_divider\"></span>Reply <i class=\"fa fa-reply\"></i>"
+msgstr ""
+"<span class=\"vertical_divider\"></span>Rispondi <i class=\"fa fa-reply\">"
+"</i>"
+
+#: inc/custom.php:93
+msgid ""
+"<span class=\"vertical_divider\"></span>Edit <i class=\"fa fa-pencil-square-"
+"o\"></i>"
+msgstr ""
+"<span class=\"vertical_divider\"></span>Modifica <i class=\"fa fa-pencil-"
+"square-o\"></i>"
+
+#: inc/custom.php:96
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: inc/custom.php:123 inc/visual_composer.php:1485 partials/event-form.php:13
+msgid "Name"
+msgstr "Nome"
+
+#: inc/custom.php:128 partials/event-form.php:23
+msgid "E-mail"
+msgstr "E-mail"
+
+#: inc/custom.php:144
+msgctxt "noun"
+msgid "Message"
+msgstr "Messaggio"
+
+#: inc/custom.php:246
+msgid "Your application has been successfully sent"
+msgstr "La tua richiesta è stata inviata con successo"
+
+#: inc/custom.php:741
+msgid "No Status"
+msgstr "Nessuno status"
+
+#: inc/custom.php:742
+msgid "Hot"
+msgstr "Popolari"
+
+#: inc/custom.php:743
+msgid "Special"
+msgstr "Speciali"
+
+#: inc/custom.php:744
+msgid "New"
+msgstr "Nuovi"
+
+#: inc/setup.php:41
+msgid "Top primary menu"
+msgstr "Menu primario superiore"
+
+#: inc/setup.php:42
+msgid "Secondary menu in the footer"
+msgstr "Menu secondario a piè di pagina"
+
+#: inc/setup.php:46
+msgid "Primary Sidebar"
+msgstr "Barra primaria"
+
+#: inc/setup.php:48
+msgid "Main sidebar that appears on the right or left."
+msgstr "Barra principale che appare a destra o sinistra."
+
+#: inc/setup.php:56
+msgid "Footer Top"
+msgstr "Piè di pagina alto"
+
+#: inc/setup.php:58
+msgid "Footer Top Widgets Area"
+msgstr "Area widget piè di pagina alto"
+
+#: inc/setup.php:66
+msgid "Footer Bottom"
+msgstr "Piè di pagina basso"
+
+#: inc/setup.php:68
+msgid "Footer Bottom Widgets Area"
+msgstr "Area widget piè di pagina basso"
+
+#: inc/setup.php:77
+msgid "Shop"
+msgstr "Negozio"
+
+#: inc/setup.php:79
+msgid "Woocommerce pages sidebar"
+msgstr "Barra laterale pagine Woocommerce"
+
+#: inc/visual_composer.php:36
+msgid "Gallery type"
+msgstr "Tipo di galleria"
+
+#: inc/visual_composer.php:39
+msgid "Image grid"
+msgstr "Griglia immagine"
+
+#: inc/visual_composer.php:40
+msgid "Slick slider"
+msgstr "Slick slider"
+
+#: inc/visual_composer.php:41
+msgid "Slick slider 2"
+msgstr "Slick slider 2"
+
+#: inc/visual_composer.php:46
+msgid "Thumbnail size"
+msgstr "Dimensioni anteprima"
+
+#: inc/visual_composer.php:55 inc/visual_composer.php:83
+#: inc/visual_composer.php:105 inc/visual_composer.php:338
+#: inc/visual_composer.php:457 inc/visual_composer.php:595
+#: inc/visual_composer.php:690 inc/visual_composer.php:798
+#: inc/visual_composer.php:818 inc/visual_composer.php:901
+#: inc/visual_composer.php:1082 inc/visual_composer.php:1113
+#: inc/visual_composer.php:1139 inc/visual_composer.php:1174
+#: inc/visual_composer.php:1190 inc/visual_composer.php:1205
+#: inc/visual_composer.php:1232 inc/visual_composer.php:1247
+#: inc/visual_composer.php:1262 inc/visual_composer.php:1277
+#: inc/visual_composer.php:1346 inc/visual_composer.php:1471
+#: inc/visual_composer.php:1521 inc/visual_composer.php:1551
+#: inc/visual_composer.php:1574 inc/visual_composer.php:1589
+#: inc/visual_composer.php:1610 inc/visual_composer.php:1631
+#: inc/visual_composer.php:1652 inc/visual_composer.php:1688
+#: inc/vc/modules/stm_lms_recent_courses.php:33
+#: inc/vc/modules/stm_lms_instructors_carousel.php:58
+#: inc/vc/modules/stm_image_box.php:53
+#: inc/vc/modules/stm_lms_courses_grid.php:93
+#: inc/vc/modules/stm_lms_single_course_carousel.php:70
+#: inc/vc/modules/stm_courses_searchbox.php:18
+#: inc/vc/modules/stm_lms_courses_categories.php:47
+#: inc/vc/modules/stm_lms_featured_teacher.php:49
+#: inc/vc/modules/stm_lms_courses_carousel.php:108
+msgid "Css"
+msgstr "Css"
+
+#: inc/visual_composer.php:57 inc/visual_composer.php:85
+#: inc/visual_composer.php:107 inc/visual_composer.php:459
+#: inc/visual_composer.php:597 inc/visual_composer.php:692
+#: inc/visual_composer.php:800 inc/visual_composer.php:820
+#: inc/visual_composer.php:903 inc/visual_composer.php:1084
+#: inc/visual_composer.php:1115 inc/visual_composer.php:1141
+#: inc/visual_composer.php:1176 inc/visual_composer.php:1234
+#: inc/visual_composer.php:1348 inc/visual_composer.php:1523
+#: inc/visual_composer.php:1690 inc/vc/modules/stm_lms_recent_courses.php:35
+#: inc/vc/modules/stm_lms_instructors_carousel.php:60
+#: inc/vc/modules/stm_image_box.php:55
+#: inc/vc/modules/stm_lms_courses_grid.php:95
+#: inc/vc/modules/stm_lms_single_course_carousel.php:72
+#: inc/vc/modules/stm_courses_searchbox.php:20
+#: inc/vc/modules/stm_lms_courses_categories.php:49
+#: inc/vc/modules/stm_lms_featured_teacher.php:51
+#: inc/vc/modules/stm_lms_courses_carousel.php:110
+msgid "Design options"
+msgstr "Opzioni design"
+
+#: inc/visual_composer.php:64
+msgid "Responsiveness"
+msgstr "Reattività"
+
+#: inc/visual_composer.php:66
+msgid "Width & Responsiveness"
+msgstr "Ampiezza e reattività"
+
+#: inc/visual_composer.php:67
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+"Adatta colonna per diverse dimensioni dello schermo. Controlla larghezza, "
+"offset e impostazioni visibilità."
+
+#: inc/visual_composer.php:74 inc/tgm/tgm-plugin-activation.php:2445
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/visual_composer.php:77
+msgid "Type 1"
+msgstr "Tipo 1"
+
+#: inc/visual_composer.php:78
+msgid "Type 2"
+msgstr "Tipo 2"
+
+#: inc/visual_composer.php:92
+msgid "Iframe Link"
+msgstr "Link Iframe"
+
+#: inc/visual_composer.php:97
+msgid "Preview Image"
+msgstr "Anteprima immagine"
+
+#: inc/visual_composer.php:114
+msgid "Background position"
+msgstr "Posizione sfondo"
+
+#: inc/visual_composer.php:116
+msgid "Enter background-position in CSS like format"
+msgstr "Inserisci posizione sfondo in formato CSS"
+
+#: inc/visual_composer.php:120
+msgid "Remove Background on mobile"
+msgstr "Rimuovi sfondo su dispositivo mobile"
+
+#: inc/visual_composer.php:123
+msgid "No"
+msgstr "No"
+
+#: inc/visual_composer.php:124
+msgid "Yes"
+msgstr "Sì"
+
+#: inc/visual_composer.php:129
+msgid "MasterStudy Animations"
+msgstr "Animazioni MasterStudy"
+
+#: inc/visual_composer.php:132 inc/visual_composer.php:499
+msgid "None"
+msgstr "Nessuno"
+
+#: inc/visual_composer.php:133
+msgid "Flying Students"
+msgstr "Studenti volanti"
+
+#: inc/visual_composer.php:136 inc/visual_composer.php:142
+#: inc/visual_composer.php:152 inc/visual_composer.php:1473
+msgid "Design Options"
+msgstr "Opzioni design"
+
+#: inc/visual_composer.php:140
+msgid "Animation position on Desktop"
+msgstr "Posizione animazione su desktop"
+
+#: inc/visual_composer.php:150
+msgid "Animation position on Laptop"
+msgstr "Posizione animazione su laptop"
+
+#: inc/visual_composer.php:163
+msgid "Laptop Height"
+msgstr ""
+
+#: inc/visual_composer.php:165 inc/visual_composer.php:171
+#: inc/visual_composer.php:177
+msgid "Enter empty space height (Note: CSS measurement units allowed)."
+msgstr ""
+"Inserisci l'altezza dello spazio vuoto (Nota: sono consentite le unità di "
+"misura CSS)."
+
+#: inc/visual_composer.php:169
+msgid "Tablet Height"
+msgstr "Altezza tablet"
+
+#: inc/visual_composer.php:175
+msgid "Mobile Height"
+msgstr "Altezza dispositivo mobile"
+
+#: inc/visual_composer.php:184 inc/visual_composer.php:299
+#: inc/visual_composer.php:371 inc/widgets/woo_popular_courses.php:41
+#: inc/vc/modules/stm_lms_recent_courses.php:23
+#: inc/vc/modules/stm_image_box.php:43
+#: inc/vc/modules/stm_lms_courses_categories.php:35
+msgid "Style"
+msgstr "Stile"
+
+#: inc/visual_composer.php:185
+msgid "Select button display style."
+msgstr "Seleziona uno stile per l'aspetto del pulsante."
+
+#: inc/visual_composer.php:189
+msgid "Modern"
+msgstr "Moderno"
+
+#: inc/visual_composer.php:190
+msgid "Classic"
+msgstr "Classico"
+
+#: inc/visual_composer.php:191
+msgid "Flat"
+msgstr "Piatto"
+
+#: inc/visual_composer.php:192
+msgid "Outline"
+msgstr "Contornato"
+
+#: inc/visual_composer.php:193
+msgid "3d"
+msgstr "3D"
+
+#: inc/visual_composer.php:194
+msgid "Custom"
+msgstr "Personalizza"
+
+#: inc/visual_composer.php:195
+msgid "Outline custom"
+msgstr "Personalizza online"
+
+#: inc/visual_composer.php:196
+msgid "Gradient"
+msgstr "Gradiente"
+
+#: inc/visual_composer.php:197
+msgid "Gradient Custom"
+msgstr "Personalizza gradiente"
+
+#: inc/visual_composer.php:198
+msgid "Theme Button"
+msgstr "Pulsante tema"
+
+#: inc/visual_composer.php:206
+msgid "Gap"
+msgstr "Gap"
+
+#: inc/visual_composer.php:209
+msgid "0px"
+msgstr "0px"
+
+#: inc/visual_composer.php:210
+msgid "1px"
+msgstr "1px"
+
+#: inc/visual_composer.php:211
+msgid "2px"
+msgstr "2px"
+
+#: inc/visual_composer.php:212
+msgid "3px"
+msgstr "3px"
+
+#: inc/visual_composer.php:213
+msgid "4px"
+msgstr "4px"
+
+#: inc/visual_composer.php:214
+msgid "5px"
+msgstr "5px"
+
+#: inc/visual_composer.php:215 inc/visual_composer.php:782
+msgid "10px"
+msgstr "10px"
+
+#: inc/visual_composer.php:216 inc/visual_composer.php:787
+msgid "15px"
+msgstr "15 px"
+
+#: inc/visual_composer.php:217 inc/visual_composer.php:792
+msgid "20px"
+msgstr "20px"
+
+#: inc/visual_composer.php:218
+msgid "25px"
+msgstr "25 px"
+
+#: inc/visual_composer.php:219
+msgid "30px"
+msgstr "30px"
+
+#: inc/visual_composer.php:220
+msgid "35px"
+msgstr "35px"
+
+#: inc/visual_composer.php:221
+msgid "40px"
+msgstr "40px"
+
+#: inc/visual_composer.php:222
+msgid "45px"
+msgstr "45px"
+
+#: inc/visual_composer.php:223
+msgid "50px"
+msgstr "50px"
+
+#: inc/visual_composer.php:224
+msgid "55px"
+msgstr "55px"
+
+#: inc/visual_composer.php:225
+msgid "60px"
+msgstr "60px"
+
+#: inc/visual_composer.php:228
+msgid "Select gap between grid elements."
+msgstr "Seleziona distanza tra gli elementi della griglia."
+
+#: inc/visual_composer.php:263
+msgid "Date"
+msgstr "Data"
+
+#: inc/visual_composer.php:264
+msgid "ID"
+msgstr "ID"
+
+#: inc/visual_composer.php:265
+msgid "Author"
+msgstr "Autore"
+
+#: inc/visual_composer.php:266 inc/visual_composer.php:473
+#: inc/visual_composer.php:611 inc/visual_composer.php:1098
+#: inc/visual_composer.php:1163 inc/visual_composer.php:1218
+#: inc/visual_composer.php:1536 inc/widgets/woo_popular_courses.php:32
+#: inc/vc/modules/stm_lms_instructors_carousel.php:19
+#: inc/vc/modules/stm_image_box.php:23
+#: inc/vc/modules/stm_lms_courses_grid.php:31
+#: inc/vc/modules/stm_lms_courses_carousel.php:21
+msgid "Title"
+msgstr "﻿Titolo"
+
+#: inc/visual_composer.php:267
+msgid "Modified"
+msgstr "Modificato"
+
+#: inc/visual_composer.php:268
+msgid "Random"
+msgstr "Casuale"
+
+#: inc/visual_composer.php:269
+msgid "Comment count"
+msgstr "Conteggio commenti"
+
+#: inc/visual_composer.php:270
+msgid "Menu order"
+msgstr "Ordine menu"
+
+#: inc/visual_composer.php:275
+msgid "Descending"
+msgstr "Decrescente"
+
+#: inc/visual_composer.php:276
+msgid "Ascending"
+msgstr "Crescente"
+
+#: inc/visual_composer.php:279
+msgid "STM Teachers"
+msgstr "STM Insegnanti"
+
+#: inc/visual_composer.php:286 inc/visual_composer.php:353
+msgid "Section title"
+msgstr "Titolo sezione "
+
+#: inc/visual_composer.php:288 inc/visual_composer.php:355
+msgid "Title will be shown on the top of section"
+msgstr "Il titolo verrà mostrato in cima alla sezione"
+
+#: inc/visual_composer.php:293
+msgid "Number of Teachers to output"
+msgstr "Numero di insegnanti da presentare"
+
+#: inc/visual_composer.php:295 inc/visual_composer.php:361
+#: inc/visual_composer.php:415
+msgid "Fill field with number only"
+msgstr "Compila il campo soltanto con numeri"
+
+#: inc/visual_composer.php:308
+msgid "All teachers"
+msgstr "Tutti gli insegnanti"
+
+#: inc/visual_composer.php:318
+msgid "Number of Teachers per row"
+msgstr "Numero di insegnanti per riga"
+
+#: inc/visual_composer.php:330
+msgid "STM Teacher Details"
+msgstr "STM Dettagli insegnanti"
+
+#: inc/visual_composer.php:333 inc/visual_composer.php:468
+#: inc/visual_composer.php:606 inc/visual_composer.php:701
+#: inc/visual_composer.php:809 inc/visual_composer.php:830
+#: inc/visual_composer.php:951 inc/visual_composer.php:1094
+#: inc/visual_composer.php:1124 inc/visual_composer.php:1159
+#: inc/visual_composer.php:1186 inc/visual_composer.php:1200
+#: inc/visual_composer.php:1214 inc/visual_composer.php:1243
+#: inc/visual_composer.php:1258 inc/visual_composer.php:1273
+#: inc/visual_composer.php:1288 inc/visual_composer.php:1336
+#: inc/visual_composer.php:1358 inc/visual_composer.php:1433
+#: inc/visual_composer.php:1481 inc/visual_composer.php:1532
+#: inc/visual_composer.php:1560 inc/visual_composer.php:1585
+#: inc/visual_composer.php:1599 inc/visual_composer.php:1620
+#: inc/visual_composer.php:1641 inc/visual_composer.php:1669
+msgid "STM"
+msgstr "STM"
+
+#: inc/visual_composer.php:334
+msgid "Only on expert page"
+msgstr "Solo su pagina esperto"
+
+#: inc/visual_composer.php:346
+msgid "STM Testimonials"
+msgstr "STM Testimonial"
+
+#: inc/visual_composer.php:359
+msgid "Number of testimonials to output"
+msgstr "Numero di testimonial da presentare"
+
+#: inc/visual_composer.php:365
+msgid "Text Color"
+msgstr "Colore testo"
+
+#: inc/visual_composer.php:381
+msgid "Number of testimonials per row"
+msgstr "Numero di testimonial per riga"
+
+#: inc/visual_composer.php:400
+msgid "STM Post List"
+msgstr "STM Elenco post"
+
+#: inc/visual_composer.php:406
+msgid "Post Data"
+msgstr "Data post"
+
+#: inc/visual_composer.php:408
+msgid "Choose post type"
+msgstr "Scegli tipo di post"
+
+#: inc/visual_composer.php:413 inc/visual_composer.php:849
+#: inc/visual_composer.php:1017
+msgid "Number of items to output"
+msgstr "Numero di elementi da presentare"
+
+#: inc/visual_composer.php:419
+msgid "Number of items to output per row"
+msgstr "Numero di elementi da presentare per riga"
+
+#: inc/visual_composer.php:429
+msgid "List design"
+msgstr "Design elenco"
+
+#: inc/visual_composer.php:433
+msgid "Show post date"
+msgstr "Visualizza data del post"
+
+#: inc/visual_composer.php:435 inc/visual_composer.php:441
+#: inc/visual_composer.php:447 inc/visual_composer.php:453
+msgid "Item design"
+msgstr "Design elemento"
+
+#: inc/visual_composer.php:439
+msgid "Show post categories"
+msgstr "Visualizza categorie post"
+
+#: inc/visual_composer.php:445
+msgid "Show post tags"
+msgstr "Visualizza tag post"
+
+#: inc/visual_composer.php:451
+msgid "Show comments tags"
+msgstr "Visualizza tag commenti"
+
+#: inc/visual_composer.php:465
+msgid "Icon Box"
+msgstr "Riquadro icona"
+
+#: inc/visual_composer.php:478 inc/visual_composer.php:705
+msgid "Link"
+msgstr "Link"
+
+#: inc/visual_composer.php:483
+msgid "Title Holder"
+msgstr "Titolare"
+
+#: inc/visual_composer.php:496
+msgid "Hover position"
+msgstr "Posizione hover"
+
+#: inc/visual_composer.php:500
+msgid "Top"
+msgstr "In alto"
+
+#: inc/visual_composer.php:501
+msgid "Right"
+msgstr "Destra"
+
+#: inc/visual_composer.php:502
+msgid "Left"
+msgstr "Sinistra"
+
+#: inc/visual_composer.php:503
+msgid "Bottom"
+msgstr "In basso"
+
+#: inc/visual_composer.php:509
+msgid "Box background color"
+msgstr "Colore sfondo riquadro"
+
+#: inc/visual_composer.php:515
+msgid "Box text color"
+msgstr "Colore testo riquadro"
+
+#: inc/visual_composer.php:521
+msgid "Link color style"
+msgstr "Stile colore link"
+
+#: inc/visual_composer.php:527 inc/visual_composer.php:540
+#: inc/visual_composer.php:551 inc/visual_composer.php:637
+msgid "Enter icon size in px"
+msgstr "Inserisci la dimensione dell'icona in px"
+
+#: inc/visual_composer.php:531 inc/visual_composer.php:628
+#: inc/visual_composer.php:773 inc/visual_composer.php:1373
+msgid "Icon"
+msgstr "Icona"
+
+#: inc/visual_composer.php:537 inc/visual_composer.php:634
+msgid "Icon Size"
+msgstr "Dimensioni icona"
+
+#: inc/visual_composer.php:544
+msgid "Icon Align"
+msgstr "Allineamento icona"
+
+#: inc/visual_composer.php:555 inc/visual_composer.php:641
+msgid "Icon Height"
+msgstr "Altezza icona"
+
+#: inc/visual_composer.php:562 inc/visual_composer.php:573
+#: inc/visual_composer.php:644
+msgid "Enter icon height in px"
+msgstr "Inserisci l'altezza dell'icona in px"
+
+#: inc/visual_composer.php:566
+msgid "Icon Width"
+msgstr "Larghezza icona"
+
+#: inc/visual_composer.php:577
+msgid "Icon Color"
+msgstr "Colore icona"
+
+#: inc/visual_composer.php:584
+msgid "Text"
+msgstr "Testo"
+
+#: inc/visual_composer.php:589
+msgid "Icon Css"
+msgstr "CSS icona"
+
+#: inc/visual_composer.php:591
+msgid "Icon Design options"
+msgstr "Opzioni design icona"
+
+#: inc/visual_composer.php:603
+msgid "Stats Counter"
+msgstr "Contatore statistiche"
+
+#: inc/visual_composer.php:616
+msgid "Counter Value"
+msgstr "Valore contatore"
+
+#: inc/visual_composer.php:622 paid-memberships-pro/pages/billing.php:59
+msgid "Duration"
+msgstr "Durata"
+
+#: inc/visual_composer.php:648
+msgid "Text alignment"
+msgstr "Allineamento testo"
+
+#: inc/visual_composer.php:655
+msgid "Text alignment in block"
+msgstr "Allineamento testo nel riquadro"
+
+#: inc/visual_composer.php:659
+msgid "Text color"
+msgstr "Colore testo"
+
+#: inc/visual_composer.php:661
+msgid "Text color(white - default)"
+msgstr "Colore testo(bianco - predefinito)"
+
+#: inc/visual_composer.php:665
+msgid "Text font size (px)"
+msgstr "Dimensione font testo (px)"
+
+#: inc/visual_composer.php:670
+msgid "Counter text color"
+msgstr "Colore testo contatore"
+
+#: inc/visual_composer.php:672
+msgid "Counter Text color(yellow - default)"
+msgstr "Colore testo contatore(giallo - predefinito)"
+
+#: inc/visual_composer.php:676
+msgid "Counter text font size (px)"
+msgstr "Dimensione font testo contatore (px)"
+
+#: inc/visual_composer.php:681
+msgid "Include Border"
+msgstr "Includi bordo"
+
+#: inc/visual_composer.php:698
+msgid "Icon Button"
+msgstr "Pulsante icona"
+
+#: inc/visual_composer.php:710
+msgid "Link tooltip (title)"
+msgstr "Link tooltip (titolo)"
+
+#: inc/visual_composer.php:716
+msgid "Button alignment"
+msgstr "Allineamento pulsante"
+
+#: inc/visual_composer.php:727
+msgid "Button Size"
+msgstr "Dimensioni pulsante"
+
+#: inc/visual_composer.php:737
+msgid "Button Text Color"
+msgstr "Colore testo pulsante"
+
+#: inc/visual_composer.php:743
+msgid "Button Text Color Hover"
+msgstr "Colore testo pulsante hover"
+
+#: inc/visual_composer.php:749
+msgid "Button Background Color"
+msgstr "Colore sfondo pulsante"
+
+#: inc/visual_composer.php:755
+msgid "Button Background Color Hover"
+msgstr "Colore sfondo pulsante hover"
+
+#: inc/visual_composer.php:761
+msgid "Button Border Color"
+msgstr "Colore bordo pulsante"
+
+#: inc/visual_composer.php:767
+msgid "Button Border Color Hover"
+msgstr "Colore bordo pulsante hover"
+
+#: inc/visual_composer.php:783
+msgid "11px"
+msgstr "11px"
+
+#: inc/visual_composer.php:784
+msgid "12px"
+msgstr "12px"
+
+#: inc/visual_composer.php:785
+msgid "13px"
+msgstr "13px"
+
+#: inc/visual_composer.php:786
+msgid "14px"
+msgstr "14px"
+
+#: inc/visual_composer.php:788
+msgid "16px"
+msgstr "16px"
+
+#: inc/visual_composer.php:789
+msgid "17px"
+msgstr "17px"
+
+#: inc/visual_composer.php:790
+msgid "18px"
+msgstr "18px"
+
+#: inc/visual_composer.php:791
+msgid "19px"
+msgstr "19px"
+
+#: inc/visual_composer.php:806
+msgid "Colored Separator"
+msgstr "Separatore colorato"
+
+#: inc/visual_composer.php:813
+msgid "Separator Color"
+msgstr "Colore separatore"
+
+#: inc/visual_composer.php:827
+msgid "Product Categories"
+msgstr "Categorie prodotto"
+
+#: inc/visual_composer.php:834 inc/visual_composer.php:1003
+msgid "View type"
+msgstr "Visualizza tipo"
+
+#: inc/visual_composer.php:844 inc/visual_composer.php:1012
+msgid "Carousel Auto Scroll"
+msgstr "Scorrimento automatico carousel"
+
+#: inc/visual_composer.php:855 inc/visual_composer.php:1023
+msgid "Number of items per row"
+msgstr "Numero di elementi per riga"
+
+#: inc/visual_composer.php:868
+msgid "Box text Color"
+msgstr "Colore testo riquadro"
+
+#: inc/visual_composer.php:874
+msgid "Text box Align"
+msgstr "Allineamento riquadro di testo"
+
+#: inc/visual_composer.php:885
+msgid "Icon size"
+msgstr "Dimensioni icona"
+
+#: inc/visual_composer.php:893
+msgid "Icon height"
+msgstr "Altezza icona"
+
+#: inc/visual_composer.php:948
+msgid "Products List (All, featured, teacher courses)"
+msgstr "Elenco prodotti (Tutti i corsi, in primo piano, per insegnante)"
+
+#: inc/visual_composer.php:955
+msgid "Meta sorting key"
+msgstr "Chiave scelta metadati"
+
+#: inc/visual_composer.php:968
+msgid "Choose expert"
+msgstr "Scegli esperto"
+
+#: inc/visual_composer.php:980
+msgid "Choose tag"
+msgstr "Scegli tag"
+
+#: inc/visual_composer.php:992
+msgid "Choose category"
+msgstr "Scegli categoria"
+
+#: inc/visual_composer.php:1019
+msgid "Leave empty to display all"
+msgstr "Lascia vuoto per mostrare tutto"
+
+#: inc/visual_composer.php:1035
+msgid "Order"
+msgstr "Ordine"
+
+#: inc/visual_composer.php:1045
+msgid "Order by"
+msgstr "Ordine per"
+
+#: inc/visual_composer.php:1052
+msgid "Don't Show price"
+msgstr "Non mostrare il prezzo"
+
+#: inc/visual_composer.php:1058
+msgid "Don't Show rating"
+msgstr "Non mostrare la valutazione"
+
+#: inc/visual_composer.php:1064
+msgid "Don't Show comments number"
+msgstr "Non mostrare numero di commenti"
+
+#: inc/visual_composer.php:1070
+msgid "Price Badge background color"
+msgstr "Colore sfondo badge prezzo"
+
+#: inc/visual_composer.php:1076
+msgid "Price Badge (Free) background color"
+msgstr "Colore sfondo badge prezzo (gratis)"
+
+#: inc/visual_composer.php:1091
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: inc/visual_composer.php:1103
+#: inc/vc/modules/stm_lms_instructors_carousel.php:24
+#: inc/vc/modules/stm_lms_courses_carousel.php:26
+msgid "Title color"
+msgstr "Colore titolo"
+
+#: inc/visual_composer.php:1108
+msgid "Button color"
+msgstr "Colore pulsante"
+
+#: inc/visual_composer.php:1121
+msgid "Countdown"
+msgstr "Conto alla rovescia"
+
+#: inc/visual_composer.php:1128
+msgid "Count to date"
+msgstr "Conteggio aggiornato"
+
+#: inc/visual_composer.php:1134
+msgid "Labels color"
+msgstr "Colore etichette"
+
+#: inc/visual_composer.php:1156
+msgid "Sign Up Now"
+msgstr "Registrati ora"
+
+#: inc/visual_composer.php:1168
+msgid "Choose form"
+msgstr "Scegli modulo"
+
+#: inc/visual_composer.php:1182
+msgid "Post info"
+msgstr "Info post"
+
+#: inc/visual_composer.php:1185 inc/visual_composer.php:1201
+#: inc/visual_composer.php:1257 inc/visual_composer.php:1272
+msgid "Only on post page"
+msgstr "Solo su pagina post"
+
+#: inc/visual_composer.php:1197
+msgid "Post tags"
+msgstr "Tag post"
+
+#: inc/visual_composer.php:1212
+msgid "Share"
+msgstr "Condividi"
+
+#: inc/visual_composer.php:1220
+msgid "Share:"
+msgstr "Condividi:"
+
+#: inc/visual_composer.php:1224 inc/visual_composer.php:1673
+msgid "Code"
+msgstr "Codice"
+
+#: inc/visual_composer.php:1240
+msgid "Multiply separator"
+msgstr "Moltiplica separatore"
+
+#: inc/visual_composer.php:1254
+msgid "Post author"
+msgstr "Autore post"
+
+#: inc/visual_composer.php:1269
+msgid "Post comments"
+msgstr "Commenti post"
+
+#: inc/visual_composer.php:1284
+msgid "Animation Block"
+msgstr "Blocco animazione"
+
+#: inc/visual_composer.php:1292
+msgid "Select Animation type"
+msgstr "Seleziona tipo di animazione"
+
+#: inc/visual_composer.php:1318
+msgid "Duration (ms)"
+msgstr "Durata (ms)"
+
+#: inc/visual_composer.php:1324
+msgid "Delay (ms)"
+msgstr "Ritardo (ms)"
+
+#: inc/visual_composer.php:1333
+msgid "Course Lessons"
+msgstr "Lezioni del corso"
+
+#: inc/visual_composer.php:1340
+msgid "Section Title"
+msgstr "Titolo sezione "
+
+#: inc/visual_composer.php:1355
+msgid "Lesson"
+msgstr "Lezione"
+
+#: inc/visual_composer.php:1362
+msgid "Lesson title"
+msgstr "Titolo lezione"
+
+#: inc/visual_composer.php:1368 vc_templates/stm_course_lesson.php:85
+msgid "Private"
+msgstr "Privata"
+
+#: inc/visual_composer.php:1385
+msgid "Lesson badge"
+msgstr "Badge lezione"
+
+#: inc/visual_composer.php:1403
+msgid "Preview video"
+msgstr "Anteprima video"
+
+#: inc/visual_composer.php:1404
+msgid ""
+"This video will be opened in popup by clicking \"Preview\" button (just "
+"insert link to the video)"
+msgstr ""
+"Questo video si aprirà in pop-up cliccando il pulsante \"Anteprima\" "
+"(inserisci link al video)"
+
+#: inc/visual_composer.php:1409
+msgid "Private lesson content placeholder"
+msgstr "Placeholder contenuto lezione privata"
+
+#: inc/visual_composer.php:1410
+msgid "You can change standart placeholder to your custom text"
+msgstr "Puoi cambiare il placeholder standard nel tuo testo personalizzato"
+
+#: inc/visual_composer.php:1415
+msgid "Lesson meta"
+msgstr "Metadati lezione"
+
+#: inc/visual_composer.php:1422
+msgid "Lesson Icon"
+msgstr "Icona lezione"
+
+#: inc/visual_composer.php:1430
+msgid "Pricing Plan"
+msgstr "Piano tariffario"
+
+#: inc/visual_composer.php:1437
+msgid "Plan title"
+msgstr "Titolo piano"
+
+#: inc/visual_composer.php:1443
+msgid "Plan Color"
+msgstr "Colore piano"
+
+#: inc/visual_composer.php:1448
+msgid "Plan price"
+msgstr "Prezzo piano"
+
+#: inc/visual_composer.php:1454
+msgid "Plan payment period"
+msgstr "Periodo di pagamento piano"
+
+#: inc/visual_composer.php:1460
+msgid "Plan Text"
+msgstr "Testo piano"
+
+#: inc/visual_composer.php:1466
+msgid "Plan Button"
+msgstr "Pulsante piano"
+
+#: inc/visual_composer.php:1479 inc/widgets/contacts.php:75
+msgid "Contact"
+msgstr "Contatti"
+
+#: inc/visual_composer.php:1490 inc/vc/modules/stm_image_box.php:18
+#: inc/vc/modules/stm_lms_featured_teacher.php:44
+msgid "Image"
+msgstr "Immagine"
+
+#: inc/visual_composer.php:1495 inc/vc/modules/stm_image_box.php:28
+msgid "Image Size"
+msgstr "Dimensioni immagine"
+
+#: inc/visual_composer.php:1497
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+"Inserisci la dimensione dell'immagine. Esempio: \"miniatura\", \"media\", "
+"\"grande\", \"completa\" o altre dimensioni definite dal tema corrente. In "
+"alternativa, inserisci la dimensione dell'immagine in pixel: 200x100 "
+"(larghezza x altezza). Lascia lo spazio vuoto se vuoi usare il formato "
+"\"projects_gallery\"."
+
+#: inc/visual_composer.php:1501
+msgid "Job"
+msgstr "Occupazione"
+
+#: inc/visual_composer.php:1506 partials/event-form.php:17
+#: paid-memberships-pro/pages/checkout.php:491
+#: paid-memberships-pro/pages/billing.php:221
+msgid "Phone"
+msgstr "Telefono"
+
+#: inc/visual_composer.php:1511
+msgid "Email"
+msgstr "Indirizzo e-mail"
+
+#: inc/visual_composer.php:1516
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/visual_composer.php:1529
+msgid "Gallery Grid"
+msgstr "Griglia galleria"
+
+#: inc/visual_composer.php:1541
+msgid "Masonry Mode"
+msgstr "Modalità Masonry "
+
+#: inc/visual_composer.php:1546
+msgid "Gallery per page"
+msgstr "Galleria per pagina"
+
+#: inc/visual_composer.php:1558
+msgid "Certificate"
+msgstr "Certificato"
+
+#: inc/visual_composer.php:1564
+msgid "Certificate name"
+msgstr "Nome certificato"
+
+#: inc/visual_composer.php:1569
+msgid "Certificate Print"
+msgstr "Stampa certificato"
+
+#: inc/visual_composer.php:1581
+msgid "Event info"
+msgstr "Info evento"
+
+#: inc/visual_composer.php:1584
+msgid "Only on event page"
+msgstr "Solo su pagina evento"
+
+#: inc/visual_composer.php:1596 inc/visual_composer.php:1617
+msgid "Teachers Grid"
+msgstr "Griglia insegnanti"
+
+#: inc/visual_composer.php:1603 inc/visual_composer.php:1624
+msgid "Teacher per page"
+msgstr "Insegnanti per pagina"
+
+#: inc/visual_composer.php:1638
+msgid "Events Grid"
+msgstr "Griglia eventi"
+
+#: inc/visual_composer.php:1645
+msgid "Events per page"
+msgstr "Eventi per pagina"
+
+#: inc/visual_composer.php:1659
+msgid "Select"
+msgstr "Seleziona"
+
+#: inc/visual_composer.php:1667
+msgid "STM Sidebar"
+msgstr "Barra laterale STM"
+
+#: inc/visual_composer.php:1679
+msgid "Sidebar position"
+msgstr "Posizione barra laterale"
+
+#: inc/visual_composer.php:1770
+msgid "STM Teacher"
+msgstr "STM Insegnante"
+
+#: inc/visual_composer.php:1771
+msgid "STM Category"
+msgstr "STM Categoria"
+
+#: inc/visual_composer.php:1772
+msgid "STM Film play"
+msgstr "STM Film"
+
+#: inc/visual_composer.php:1773
+msgid "STM Clock"
+msgstr "STM Orologio"
+
+#: inc/visual_composer.php:1774
+msgid "STM Bullhorn"
+msgstr "STM Megafono"
+
+#: inc/visual_composer.php:1775
+msgid "STM Mail-o"
+msgstr "STM Posta-o"
+
+#: inc/visual_composer.php:1776
+msgid "STM Phone-o"
+msgstr "STM Telefono-o"
+
+#: inc/visual_composer.php:1777
+msgid "STM Pin-o"
+msgstr "STM Spillo-o"
+
+#: inc/visual_composer.php:1778
+msgid "STM Skype-o"
+msgstr "STM Skype-o"
+
+#: inc/visual_composer.php:1779
+msgid "STM Book"
+msgstr "STM Libro"
+
+#: inc/visual_composer.php:1780
+msgid "STM Alarm"
+msgstr "STM Sveglia"
+
+#: inc/visual_composer.php:1781
+msgid "STM Briefcase"
+msgstr "STM Valigetta "
+
+#: inc/visual_composer.php:1782
+msgid "STM Diamond"
+msgstr "STM Diamante"
+
+#: inc/visual_composer.php:1783
+msgid "STM Earth"
+msgstr "STM Terra"
+
+#: inc/visual_composer.php:1784
+msgid "STM Graduation Hat"
+msgstr "STM Tocco"
+
+#: inc/visual_composer.php:1785
+msgid "STM License"
+msgstr "STM Licenza"
+
+#: inc/visual_composer.php:1786
+msgid "STM Users"
+msgstr "STM Utenti"
+
+#: inc/visual_composer.php:1787
+msgid "STM Brain"
+msgstr "STM Cervello"
+
+#: inc/visual_composer.php:1788
+msgid "STM Handshake"
+msgstr "STM Stretta di mano"
+
+#: inc/visual_composer.php:1789
+msgid "STM Net"
+msgstr "STM Rete"
+
+#: inc/visual_composer.php:1790
+msgid "STM LinkedIn"
+msgstr "STM LinkedIn"
+
+#: inc/visual_composer.php:1791
+msgid "STM Pin"
+msgstr "STM Spillo"
+
+#: inc/visual_composer.php:1792
+msgid "STM Market Researches"
+msgstr "STM Ricerche di mercato"
+
+#: inc/visual_composer.php:1793
+msgid "STM Champion Medal"
+msgstr "STM Medaglia campione"
+
+#: inc/visual_composer.php:1794
+msgid "STM Bike Riding"
+msgstr "STM Bicicletta"
+
+#: inc/visual_composer.php:1795
+msgid "STM Paint Palette"
+msgstr "STM Tavolozza"
+
+#: inc/visual_composer.php:1796
+msgid "STM Phone"
+msgstr "STM Telefono"
+
+#: inc/visual_composer.php:1797
+msgid "STM Fax"
+msgstr "STM Fax"
+
+#: inc/visual_composer.php:1798
+msgid "STM SEO monitoring"
+msgstr "STM Controllo SEO"
+
+#: inc/visual_composer.php:1799
+msgid "STM SEO performance up"
+msgstr "STM Performance SEO"
+
+#: inc/visual_composer.php:1800
+msgid "STM User"
+msgstr "STM Utente"
+
+#: inc/visual_composer.php:1801
+msgid "STM Guitar"
+msgstr "STM Chitarra"
+
+#: inc/visual_composer.php:1802
+msgid "STM Add User"
+msgstr "STM Aggiungi utente"
+
+#: inc/visual_composer.php:1803
+msgid "STM Adope PhotoShop"
+msgstr "STM Adobe Photoshop"
+
+#: inc/visual_composer.php:1804
+msgid "STM Chevrone Right"
+msgstr "STM Chevron destra"
+
+#: inc/visual_composer.php:1805
+msgid "STM Chevrone Left"
+msgstr "STM Chevron sinistra"
+
+#: inc/visual_composer.php:1806
+msgid "STM Viral Marketing"
+msgstr "STM Marketing virale"
+
+#: inc/visual_composer.php:1807
+msgid "STM Yoga"
+msgstr "STM Yoga"
+
+#: inc/visual_composer.php:1808
+msgid "STM Youtube Play"
+msgstr "STM YouTube Play"
+
+#: inc/visual_composer.php:1809
+msgid "STM Book solid"
+msgstr "STM Libro solido"
+
+#: inc/visual_composer.php:1810
+msgid "STM Book stack"
+msgstr "STM Pila di libri"
+
+#: inc/visual_composer.php:1811
+msgid "STM Ecommerce cart"
+msgstr "STM Carrello e-commerce"
+
+#: inc/visual_composer.php:1812
+msgid "STM Certificate"
+msgstr "STM Certificato"
+
+#: inc/visual_composer.php:1813
+msgid "STM Mountain Climbing"
+msgstr "STM Arrampicata"
+
+#: inc/visual_composer.php:1814
+msgid "STM Comment solid"
+msgstr "STM Commento solido"
+
+#: inc/visual_composer.php:1815
+msgid "STM Circle Drawer"
+msgstr "STM Disegnatore cerchi"
+
+#: inc/visual_composer.php:1816
+msgid "STM Diploma Paper"
+msgstr "STM Diploma"
+
+#: inc/visual_composer.php:1817
+msgid "STM Point Drawer"
+msgstr "STM Disegnatore punti"
+
+#: inc/visual_composer.php:1818
+msgid "STM Dribble"
+msgstr "STM Palleggio"
+
+#: inc/visual_composer.php:1819
+msgid "STM Document Edit"
+msgstr "STM Modifica documento"
+
+#: inc/visual_composer.php:1820
+msgid "STM Users group"
+msgstr "STM Gruppo utenti"
+
+#: inc/visual_composer.php:1821
+msgid "STM Small logo"
+msgstr "STM Piccolo logo"
+
+#: inc/visual_composer.php:2006
+msgid "Content with Right sidebar"
+msgstr "Contenuto con barra laterale destra"
+
+#: inc/visual_composer.php:2019
+msgid "Content with left sidebar"
+msgstr "Contenuto con barra laterale sinistra"
+
+#: vc_templates/stm_lms_recent_courses.php:35
+msgid "All Categories"
+msgstr "Tutte le categorie"
+
+#: vc_templates/stm_lms_recent_courses.php:51
+msgid "Show all"
+msgstr "Mostra tutto"
+
+#: vc_templates/stm_post_list.php:36
+msgid "View post details"
+msgstr "Visualizza dettagli post"
+
+#: vc_templates/stm_post_list.php:56 partials/loop-grid.php:41
+#: partials/loop-list.php:15
+msgid "Sticky Post"
+msgstr "Sticky Post"
+
+#: vc_templates/stm_post_list.php:72 partials/loop-grid.php:58
+#: partials/loop-list.php:40
+msgid "Posted in:"
+msgstr "Postato in:"
+
+#: vc_templates/stm_post_list.php:87 partials/loop-grid.php:70
+#: partials/loop-list.php:52
+msgid "Tags:"
+msgstr "Tag:"
+
+#: vc_templates/stm_lms_instructors_carousel.php:53
+#: vc_templates/stm_experts.php:51 vc_templates/stm_lms_courses_carousel.php:81
+msgid "View all"
+msgstr "Visualizza tutto"
+
+#: vc_templates/stm_lms_instructors_carousel.php:109
+msgid "No instructors found"
+msgstr "Nessun insegnante trovato"
+
+#: vc_templates/stm_events_grid.php:23 partials/loop-events.php:27
+#: partials/loop-list.php:4
+msgid "View full"
+msgstr "Visualizzazione completa"
+
+#: vc_templates/vc_wp_archives.php:4
+msgid "Archives"
+msgstr "Archivi "
+
+#: vc_templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr "Tag"
+
+#: vc_templates/stm_post_author.php:11 partials/content.php:161
+msgid "Author:"
+msgstr "Autore:"
+
+#: vc_templates/stm_post_info.php:15 partials/content.php:87
+msgid "Posted by:"
+msgstr "Pubblicato da:"
+
+#: vc_templates/vc_wp_categories.php:4
+msgid "Categories"
+msgstr "Categorie"
+
+#: vc_templates/stm_countdown.php:23
+msgid "Time is up, sorry!"
+msgstr "Spiacenti, il tempo è scaduto!"
+
+#: vc_templates/stm_lms_courses_grid.php:41
+#, php-format
+msgid "Found: <strong>%s Courses</strong>"
+msgstr "Trovati: <strong>%s Corsi</strong>"
+
+#: vc_templates/stm_lms_courses_grid.php:46
+msgid "Release date (newest first)"
+msgstr "Data di pubblicazione (prima i più recenti)"
+
+#: vc_templates/stm_lms_courses_grid.php:47
+msgid "Release date (oldest first)"
+msgstr "Data di pubblicazione (prima i più vecchi)"
+
+#: vc_templates/stm_lms_courses_grid.php:48
+msgid "Overall Rating"
+msgstr "Valutazione complessiva"
+
+#: vc_templates/stm_lms_courses_grid.php:49
+msgid "Popular (most viewed)"
+msgstr "Popolari (più visualizzati)"
+
+#: vc_templates/stm_gallery_grid.php:70 partials/loop-gallery.php:10
+msgid "Watch full image"
+msgstr "Guarda immagine completa"
+
+#: vc_templates/stm_course_lesson.php:57
+#, php-format
+msgctxt "Course Badge (masterstudy Offline courses via WooCommerce)"
+msgid "%s"
+msgstr "%s"
+
+#: vc_templates/stm_course_lesson.php:69
+msgid "Preview"
+msgstr "Anteprima"
+
+#: vc_templates/stm_course_lesson.php:120
+msgid ""
+"The content of this lesson is locked. To unlock it, you need to Buy this "
+"Course."
+msgstr ""
+"Il contenuto di questa lezione è bloccato. Per sbloccarlo, devi acquistare "
+"questo corso. "
+
+#: vc_templates/stm_teachers_grid.php:33 vc_templates/stm_teachers_grid.php:50
+#: partials/loop-teacher.php:15 partials/loop-teacher.php:34
+msgid "Watch teacher page"
+msgstr "Guarda pagina dell'insegnante"
+
+#: vc_templates/stm_courses_searchbox.php:12
+msgid "Search Courses..."
+msgstr "Cerca corsi..."
+
+#: vc_templates/stm_event_info.php:33 partials/content-event.php:91
+msgid "Start:"
+msgstr "Inizio:"
+
+#: vc_templates/stm_event_info.php:40 partials/content-event.php:94
+msgid "End:"
+msgstr "Fine:"
+
+#: vc_templates/stm_event_info.php:47 partials/content-event.php:98
+msgid "Location:"
+msgstr "Luogo:"
+
+#: vc_templates/stm_event_info.php:56 partials/content-event.php:105
+msgid "Join!"
+msgstr "Iscriviti!"
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr "Sezione"
+
+#: vc_templates/vc_accordion_tab.php:13
+msgid "Empty section. Edit page to add content here."
+msgstr "Sezione vuota. Modifica la pagina per aggiungere contenuti qui."
+
+#: vc_templates/vc_cta_button2.php:11
+msgid "Text on the button"
+msgstr "Testo sul pulsante"
+
+#: vc_templates/stm_experts.php:37
+#: partials/vc_parts/testimonials/style_1.php:24
+msgid "Scroll Carousel left"
+msgstr "Scorri carousel a sinistra"
+
+#: vc_templates/stm_experts.php:41
+#: partials/vc_parts/testimonials/style_1.php:27
+msgid "Scroll Carousel right"
+msgstr "Scorri carousel a destra"
+
+#: vc_templates/stm_experts.php:50
+msgid "View all teachers"
+msgstr "Visualizza tutti gli insegnanti"
+
+#: vc_templates/stm_experts.php:99
+msgid "View teacher page"
+msgstr "Visualizza pagina dell'insegnante"
+
+#: vc_templates/stm_experts.php:110
+msgid "Certified by"
+msgstr "Certificato da "
+
+#: vc_templates/stm_product_categories.php:84
+msgid "Category image"
+msgstr "Categoria immagine"
+
+#: vc_templates/vc_wp_posts.php:4
+msgid "Recent Posts"
+msgstr "Post recenti"
+
+#: vc_templates/stm_lms_featured_teacher.php:32
+msgid "Teacher of month"
+msgstr "Insegnante del mese"
+
+#: vc_templates/stm_lms_featured_teacher.php:54
+msgid "Teacher Courses:"
+msgstr "Corsi dell'insegnante:"
+
+#: vc_templates/stm_contact.php:40
+msgid "Phone: "
+msgstr "Telefono:"
+
+#: vc_templates/stm_contact.php:44
+msgid "Email: "
+msgstr "E-mail:"
+
+#: vc_templates/stm_contact.php:50
+msgid "Skype: "
+msgstr "Skype:"
+
+#: vc_templates/stm_lms_courses_carousel.php:71
+msgid "All categories"
+msgstr "Tutte le categorie"
+
+#: partials/frontend_customizer.php:4
+msgid "Header type"
+msgstr "Tipo intestazione"
+
+#: partials/frontend_customizer.php:7
+msgid "Static"
+msgstr "Statica"
+
+#: partials/frontend_customizer.php:9
+msgid "Sticky"
+msgstr "Sticky"
+
+#: partials/frontend_customizer.php:14
+msgid "Header transparency"
+msgstr "Trasparenza intestazione"
+
+#: partials/frontend_customizer.php:17
+msgid "On"
+msgstr "Attiva"
+
+#: partials/frontend_customizer.php:19
+msgid "Off"
+msgstr "Non attiva"
+
+#: partials/frontend_customizer.php:24
+msgid "Color Scheme"
+msgstr "Schema colori"
+
+#: partials/frontend_customizer.php:27
+msgid "Default skin"
+msgstr "Skin predefinita"
+
+#: partials/frontend_customizer.php:28
+msgid "Red skin"
+msgstr "Skin rossa"
+
+#: partials/frontend_customizer.php:29
+msgid "Blue skin"
+msgstr "Skin blu"
+
+#: partials/title_box.php:30 inc/widgets/recent_posts.php:25
+msgid "News"
+msgstr "Notizie"
+
+#: partials/title_box.php:39
+msgid "Events"
+msgstr "Eventi"
+
+#: partials/title_box.php:47 partials/searchform.php:6
+#: partials/headers/mobile/search.php:6
+msgid "Search"
+msgstr "Cerca"
+
+#: partials/title_box.php:56
+msgid "News & Events"
+msgstr "Notizie & Eventi"
+
+#: partials/loop-grid.php:25
+msgid "Watch full"
+msgstr "Guarda tutto"
+
+#: partials/loop-grid.php:48
+msgid "No title"
+msgstr "Nessun titolo"
+
+#: partials/loop-list.php:60
+msgid "Read more"
+msgstr "Leggi altro"
+
+#: partials/event-form.php:5
+msgid "Sign up for event"
+msgstr "Iscriviti all'evento"
+
+#: partials/event-form.php:29
+msgid "Message"
+msgstr "Messaggio"
+
+#: partials/event-form.php:34 partials/headers/parts/sign-up.php:4
+msgid "Sign Up"
+msgstr "Iscriviti"
+
+#: partials/searchform.php:9
+msgid "Start typing here..."
+msgstr "Inizia a digitare qui..."
+
+#: woocommerce/checkout/payment.php:23
+msgid "Payment"
+msgstr "Pagamento"
+
+#: woocommerce/notices/error.php:31
+msgid "Error"
+msgstr "Errore"
+
+#: woocommerce/notices/success.php:31
+msgid "Success"
+msgstr "Successo"
+
+#: woocommerce/notices/notice.php:31
+msgid "Informational"
+msgstr "Informativa"
+
+#: woocommerce/single-product/price.php:28
+msgid "Price"
+msgstr "Prezzo"
+
+#: woocommerce/global/helpbar.php:51
+msgid "All courses"
+msgstr "Tutti i corsi"
+
+#: inc/tgm/tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Installa i plugin richiesti"
+
+#: inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Installa plugin"
+
+#: inc/tgm/tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installazione plugin: %s"
+
+#: inc/tgm/tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Si è verificato un errore con il plugin API."
+
+#: inc/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Questo tema richiede il seguente plugin: %1$s."
+msgstr[1] "Questo tema richiede i seguenti plugin: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Questo tema raccomanda il seguente plugin: %1$s."
+msgstr[1] "Questo tema raccomanda i seguenti plugin: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+"Ci dispiace, ma non possiedi i permessi adeguati per installare il plugin "
+"%1$s."
+msgstr[1] ""
+"Ci dispiace, ma non possiedi i permessi adeguati per installare i plugin "
+"%1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Il seguente plugin deve essere aggiornato alla sua ultima versione per "
+"assicurare massima compatibilità con questo tema: %1$s."
+msgstr[1] ""
+"I seguenti plugin devono essere aggiornati alla loro ultima versione per "
+"assicurare massima compatibilità con questo tema: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "C'è un aggiornamento disponibile per: %1$s."
+msgstr[1] "Ci sono aggiornamenti disponibili per i seguenti plugin: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:362
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+"Ci dispiace, ma non hai i permessi adeguati per aggiornare il plugin %1$s. "
+msgstr[1] ""
+"Ci dispiace, ma non hai i permessi adeguati per aggiornare i plugin %1$s. "
+
+#: inc/tgm/tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Il seguente plugin richiesto non è attualmente attivo: %1$s."
+msgstr[1] "I seguenti plugin richiesti non sono attualmente attivi: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Il seguente plugin raccomandato non è attualmente attivo: %1$s."
+msgstr[1] "I seguenti plugin raccomandati non sono attualmente attivi: %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+"Ci dispiace, ma non hai i permessi adeguati per attivare il plugin %1$s."
+msgstr[1] ""
+"Ci dispiace, ma non hai i permessi adeguati per attivare i plugin %1$s."
+
+#: inc/tgm/tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Inizia ad installare il plugin"
+msgstr[1] "Inizia ad installare i plugin"
+
+#: inc/tgm/tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Inizia ad aggiornare il plugin"
+msgstr[1] "Inizia ad aggiornare i plugin"
+
+#: inc/tgm/tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Inizia ad attivare il plugin"
+msgstr[1] "Inizia ad attivare i plugin"
+
+#: inc/tgm/tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Torna all'Installer plugin richiesti"
+
+#: inc/tgm/tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Ritorna alla dashboard"
+
+#: inc/tgm/tgm-plugin-activation.php:399 inc/tgm/tgm-plugin-activation.php:3037
+msgid "Plugin activated successfully."
+msgstr "Plugin attivato con successo."
+
+#: inc/tgm/tgm-plugin-activation.php:400 inc/tgm/tgm-plugin-activation.php:2839
+msgid "The following plugin was activated successfully:"
+msgstr "Il seguente plugin è stato attivato con successo:"
+
+#: inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nessuna azione intrapresa. Il plugin %1$s era già attivo."
+
+#: inc/tgm/tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin non attivato. Per questo tema è necessaria una nuova versione di %s. "
+"Per favore aggiorna il plugin."
+
+#: inc/tgm/tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tutti i plugin sono stati installati e attivati con successo. %1$s"
+
+#: inc/tgm/tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Ignora questo avviso"
+
+#: inc/tgm/tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Ti preghiamo di contattare l'amministratore del sito per avere supporto."
+
+#: inc/tgm/tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+"Questo plugin deve essere aggiornato per poter essere compatibile con il tuo "
+"tema."
+
+#: inc/tgm/tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Aggiornamento richiesto"
+
+#: inc/tgm/tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Imposta la variabile di configurazione parent_slug."
+
+#: inc/tgm/tgm-plugin-activation.php:825 inc/tgm/tgm-plugin-activation.php:3446
+msgid "Return to the Dashboard"
+msgstr "Ritorna alla dashboard"
+
+#: inc/tgm/tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Il pacchetto plugin remoto non contiene una cartella con lo slug desiderato "
+"e la rinominazione non ha funzionato."
+
+#: inc/tgm/tgm-plugin-activation.php:932 inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Si prega di contattare il fornitore del plugin e richiedere di strutturare "
+"il plugin secondo le linee guida di WordPress."
+
+#: inc/tgm/tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Il pacchetto remoto del plugin consiste in più di un file, ma tali file non "
+"sono contenuti in una cartella."
+
+#: inc/tgm/tgm-plugin-activation.php:1113
+#: inc/tgm/tgm-plugin-activation.php:2835
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "e"
+
+#: inc/tgm/tgm-plugin-activation.php:1888
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/tgm-plugin-activation.php:2174
+msgid "Required"
+msgstr "Richiesto"
+
+#: inc/tgm/tgm-plugin-activation.php:2177
+msgid "Recommended"
+msgstr "Raccomandato"
+
+#: inc/tgm/tgm-plugin-activation.php:2193
+msgid "WordPress Repository"
+msgstr "Archivio WordPress"
+
+#: inc/tgm/tgm-plugin-activation.php:2196
+msgid "External Source"
+msgstr "Fonte esterna"
+
+#: inc/tgm/tgm-plugin-activation.php:2199
+msgid "Pre-Packaged"
+msgstr "Preconfezionato"
+
+#: inc/tgm/tgm-plugin-activation.php:2216
+msgid "Not Installed"
+msgstr "Non installato"
+
+#: inc/tgm/tgm-plugin-activation.php:2220
+msgid "Installed But Not Activated"
+msgstr "Installato ma non attivato"
+
+#: inc/tgm/tgm-plugin-activation.php:2222
+msgid "Active"
+msgstr "Attivo"
+
+#: inc/tgm/tgm-plugin-activation.php:2228
+msgid "Required Update not Available"
+msgstr "Aggiornamento richiesto non disponibile"
+
+#: inc/tgm/tgm-plugin-activation.php:2231
+msgid "Requires Update"
+msgstr "Richiede aggiornamento"
+
+#: inc/tgm/tgm-plugin-activation.php:2234
+msgid "Update recommended"
+msgstr "Aggiornamento raccomandato"
+
+#: inc/tgm/tgm-plugin-activation.php:2242
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2287
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tutto <span class=\"count\">(%s)</span>"
+msgstr[1] "Tutti <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2290
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Installare <span class=\"count\">(%s)</span>"
+msgstr[1] "Installare <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2293
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Aggiornamento disponibile <span class=\"count\">(%s)</span>"
+msgstr[1] "Aggiornamento disponibile <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2296
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Attivare <span class=\"count\">(%s)</span>"
+msgstr[1] "Attivare <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/tgm-plugin-activation.php:2378
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "sconosciuto"
+
+#: inc/tgm/tgm-plugin-activation.php:2386
+msgid "Installed version:"
+msgstr "Versione installata:"
+
+#: inc/tgm/tgm-plugin-activation.php:2394
+msgid "Minimum required version:"
+msgstr "Versione minima richiesta:"
+
+#: inc/tgm/tgm-plugin-activation.php:2406
+msgid "Available version:"
+msgstr "Versione disponibile:"
+
+#: inc/tgm/tgm-plugin-activation.php:2429
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Nessun plugin da installare, aggiornare o attivare. <a href=\"%1$s\">Ritorna "
+"alla dashboard</a>"
+
+#: inc/tgm/tgm-plugin-activation.php:2443
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/tgm-plugin-activation.php:2444
+msgid "Source"
+msgstr "Fonte"
+
+#: inc/tgm/tgm-plugin-activation.php:2449
+msgid "Version"
+msgstr "Versione"
+
+#: inc/tgm/tgm-plugin-activation.php:2450
+msgid "Status"
+msgstr "Stato"
+
+#: inc/tgm/tgm-plugin-activation.php:2498
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installa %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2502
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Aggiorna %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2507
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Attiva %2$s"
+
+#: inc/tgm/tgm-plugin-activation.php:2577
+msgid "Upgrade message from the plugin author:"
+msgstr "Aggiornamento messaggio da parte dell’autore del plugin:"
+
+#: inc/tgm/tgm-plugin-activation.php:2610
+msgid "Install"
+msgstr "Installa"
+
+#: inc/tgm/tgm-plugin-activation.php:2616
+#: paid-memberships-pro/pages/billing.php:362
+msgid "Update"
+msgstr "Aggiorna"
+
+#: inc/tgm/tgm-plugin-activation.php:2619
+msgid "Activate"
+msgstr "Attiva"
+
+#: inc/tgm/tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Nessun plugin è stato selezionato per essere installato. Nessuna azione "
+"intrapresa."
+
+#: inc/tgm/tgm-plugin-activation.php:2652
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Nessun plugin è stato selezionato per essere aggiornato. Nessuna azione "
+"intrapresa."
+
+#: inc/tgm/tgm-plugin-activation.php:2688
+msgid "No plugins are available to be installed at this time."
+msgstr "Nessun plugin disponibile per l'installazione, al momento."
+
+#: inc/tgm/tgm-plugin-activation.php:2690
+msgid "No plugins are available to be updated at this time."
+msgstr "Nessun plugin disponibile per l'aggiornamento, al momento."
+
+#: inc/tgm/tgm-plugin-activation.php:2795
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Nessun plugin selezionato per l'attivazione. Nessuna azione intrapresa."
+
+#: inc/tgm/tgm-plugin-activation.php:2821
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Nessun plugin disponibile per l'attivazione, al momento."
+msgstr[1] "I seguenti plugin sono stati attivati con successo:"
+
+#: inc/tgm/tgm-plugin-activation.php:3036
+msgid "Plugin activation failed."
+msgstr "Attivazione plugin non riuscita."
+
+#: inc/tgm/tgm-plugin-activation.php:3370
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aggiornamento plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:3372
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Si è verificato un errore durante l'installazione di %1$s: <strong>"
+"%2$s</strong>."
+
+#: inc/tgm/tgm-plugin-activation.php:3373
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Installazione di %1$s non riuscita."
+
+#: inc/tgm/tgm-plugin-activation.php:3377
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Il processo di installazione e attivazione sta iniziando. Questo processo "
+"potrebbe richiedere un po' di tempo su alcuni host, quindi ti preghiamo di "
+"pazientare."
+
+#: inc/tgm/tgm-plugin-activation.php:3378
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installato e attivato con successo."
+
+#: inc/tgm/tgm-plugin-activation.php:3379
+msgid "All installations and activations have been completed."
+msgstr "Tutte le installazioni ed attivazioni sono state completate."
+
+#: inc/tgm/tgm-plugin-activation.php:3380
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installando e attivando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm-plugin-activation.php:3383
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Il processo di installazione sta iniziando. Questo processo potrebbe "
+"richiedere un po' di tempo su alcuni host, quindi ti preghiamo di pazientare."
+
+#: inc/tgm/tgm-plugin-activation.php:3384
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installato con successo."
+
+#: inc/tgm/tgm-plugin-activation.php:3385
+msgid "All installations have been completed."
+msgstr "Tutte le installazioni sono state completate."
+
+#: inc/tgm/tgm-plugin-activation.php:3386
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installando plugin %1$s (%2$d/%3$d)"
+
+#. Base ID
+#: inc/widgets/mailchimp.php:11
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: inc/widgets/mailchimp.php:12
+msgid "MailChimp widget"
+msgstr "Widget MailChimp"
+
+#: inc/widgets/mailchimp.php:43
+msgid "Enter your E-mail"
+msgstr "Inserisci il tuo indirizzo e-mail"
+
+#: inc/widgets/mailchimp.php:45
+msgid "Subscribe"
+msgstr "Iscriviti"
+
+#: inc/widgets/mailchimp.php:46
+msgid "Please wait..."
+msgstr "Ti preghiamo di attendere..."
+
+#: inc/widgets/mailchimp.php:78
+msgid "Error API"
+msgstr "Errore API"
+
+#: inc/widgets/mailchimp.php:99
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: inc/widgets/mailchimp.php:105 inc/widgets/working_hours.php:116
+#: inc/widgets/socials.php:76 inc/widgets/contacts.php:105
+#: inc/widgets/recent_posts.php:77 inc/widgets/text.php:69
+#: inc/widgets/pages.php:89
+msgid "Title:"
+msgstr "﻿Titolo:"
+
+#: inc/widgets/mailchimp.php:109
+#, php-format
+msgid "To setup this widget please follow this <a href=\"%s\">link</a>"
+msgstr ""
+"Per configurare questo widget, ti preghiamo di seguire questo <a href=\"%s\">"
+"link</a>"
+
+#. Base ID
+#: inc/widgets/working_hours.php:11 inc/widgets/working_hours.php:25
+msgid "Working Hours"
+msgstr "Orario di lavoro"
+
+#: inc/widgets/working_hours.php:12
+msgid "Office working hours"
+msgstr "Orario di lavoro ufficio"
+
+#: inc/widgets/working_hours.php:34 inc/widgets/working_hours.php:120
+msgid "Monday"
+msgstr "Lunedì"
+
+#: inc/widgets/working_hours.php:35 inc/widgets/working_hours.php:124
+msgid "Tuesday"
+msgstr "Martedì"
+
+#: inc/widgets/working_hours.php:36 inc/widgets/working_hours.php:128
+msgid "Wednesday"
+msgstr "Mercoledì"
+
+#: inc/widgets/working_hours.php:37 inc/widgets/working_hours.php:132
+msgid "Thursday"
+msgstr "Giovedì"
+
+#: inc/widgets/working_hours.php:38 inc/widgets/working_hours.php:136
+msgid "Friday"
+msgstr "Venerdì"
+
+#: inc/widgets/working_hours.php:39 inc/widgets/working_hours.php:140
+msgid "Saturday"
+msgstr "Sabato"
+
+#: inc/widgets/working_hours.php:40 inc/widgets/working_hours.php:144
+msgid "Sunday"
+msgstr "Domenica"
+
+#: inc/widgets/working_hours.php:53
+msgid "Closed"
+msgstr "Chiuso"
+
+#: inc/widgets/working_hours.php:83
+msgid "Working hours"
+msgstr "Orario di lavoro"
+
+#. Base ID
+#: inc/widgets/socials.php:11
+msgid "Socials"
+msgstr "Social"
+
+#: inc/widgets/socials.php:12
+msgid ""
+"Socials widget(customize order from theme options -> Social Media section -> "
+"Social Widget subsection )"
+msgstr ""
+"Widget social(personalizza l'ordine da opzioni tema -> Sezione Social media -"
+"> Sottosezione Widget Social )"
+
+#: inc/widgets/socials.php:71
+msgid "Social Network"
+msgstr "Social network"
+
+#. Base ID
+#: inc/widgets/contacts.php:11 inc/widgets/contacts.php:25
+msgid "Contacts"
+msgstr "Contatti"
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr "Widget contatti"
+
+#: inc/widgets/contacts.php:98 inc/widgets/recent_posts.php:81
+#: inc/widgets/pages.php:91
+msgid "Style:"
+msgstr "Stile:"
+
+#: inc/widgets/contacts.php:100 inc/widgets/recent_posts.php:83
+#: inc/widgets/pages.php:93
+msgid "Style 1"
+msgstr "Stile 1"
+
+#: inc/widgets/contacts.php:101 inc/widgets/recent_posts.php:84
+#: inc/widgets/pages.php:94
+msgid "Style 2"
+msgstr "Stile 2"
+
+#: inc/widgets/contacts.php:109
+msgid "Address:"
+msgstr "Indirizzo:"
+
+#: inc/widgets/contacts.php:113
+msgid "Phone:"
+msgstr "Telefono:"
+
+#: inc/widgets/contacts.php:117
+msgid "Fax:"
+msgstr "Fax:"
+
+#: inc/widgets/contacts.php:121
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#. Base ID
+#: inc/widgets/recent_posts.php:11
+msgid "STM Recent posts"
+msgstr "STM Post recenti"
+
+#: inc/widgets/recent_posts.php:12
+msgid "Theme recent posts widget"
+msgstr "Widget tema post recenti"
+
+#: inc/widgets/recent_posts.php:64
+msgid "Recent posts"
+msgstr "Post recenti"
+
+#: inc/widgets/recent_posts.php:70
+msgid "3"
+msgstr "3"
+
+#: inc/widgets/recent_posts.php:88
+msgid "Output number:"
+msgstr "Numero di output:"
+
+#: inc/widgets/woo_popular_courses.php:25
+msgid ""
+"Display a list of your top rated products on your site with course expert."
+msgstr ""
+"Mostra un elenco dei tuoi prodotti più votati sul tuo sito con esperto corsi."
+" "
+
+#: inc/widgets/woo_popular_courses.php:27
+msgid "STM WooCommerce Top Rated Products"
+msgstr "STM WooCommerce prodotti più votati"
+
+#: inc/widgets/woo_popular_courses.php:31
+msgid "Popular courses"
+msgstr "Corsi popolari"
+
+#: inc/widgets/woo_popular_courses.php:36
+msgid "style_1"
+msgstr "style_1"
+
+#: inc/widgets/woo_popular_courses.php:49
+msgid "Number of products to show"
+msgstr "Numero di prodotti da mostrare"
+
+#: inc/widgets/woo_popular_courses.php:113
+#: inc/widgets/woo_popular_courses.php:119
+msgid "By"
+msgstr "Di"
+
+#: inc/widgets/text.php:10
+msgid "STM Arbitrary text or HTML."
+msgstr "STM Testo arbitrario o HTML."
+
+#: inc/widgets/text.php:13
+msgid "STM Text"
+msgstr "STM Testo"
+
+#: inc/widgets/text.php:75
+msgid "Content:"
+msgstr "Contenuto:"
+
+#: inc/widgets/text.php:83
+msgid "Automatically add paragraphs"
+msgstr "Aggiungi paragrafi automaticamente"
+
+#: inc/widgets/text.php:88
+msgid "Add Socials Widget"
+msgstr "Aggiungi Widget Social"
+
+#: inc/widgets/pages.php:6
+msgid "A list of your site&#8217;s Pages."
+msgstr "Un elenco delle pagine del tuo sito."
+
+#: inc/widgets/pages.php:7
+msgid "STM Pages"
+msgstr "STM Pagine"
+
+#: inc/widgets/pages.php:21
+msgid "Pages"
+msgstr "Pagine"
+
+#: inc/widgets/pages.php:98
+msgid "Sort by:"
+msgstr "Scegli in base a:"
+
+#: inc/widgets/pages.php:100
+msgid "Page title"
+msgstr "﻿Titolo pagina"
+
+#: inc/widgets/pages.php:101
+msgid "Page order"
+msgstr "Ordine pagine"
+
+#: inc/widgets/pages.php:102
+msgid "Page ID"
+msgstr "ID pagina"
+
+#: inc/widgets/pages.php:106
+msgid "Include:"
+msgstr "Includi:"
+
+#: inc/widgets/pages.php:108
+msgid "Page IDs, separated by commas."
+msgstr "ID pagine, separati da virgole."
+
+#: paid-memberships-pro/pages/levels.php:27
+msgid "Membership plans"
+msgstr "Piani membership"
+
+#: paid-memberships-pro/pages/levels.php:38
+msgid "Get now"
+msgstr "Ottieni ora"
+
+#: paid-memberships-pro/pages/levels.php:42
+msgid "Renew"
+msgstr "Rinnova"
+
+#: paid-memberships-pro/pages/levels.php:45
+msgid "Your Level"
+msgstr "Il tuo livello"
+
+#: paid-memberships-pro/pages/levels.php:78
+#, php-format
+msgid "per %s"
+msgstr "per %s"
+
+#: paid-memberships-pro/pages/levels.php:86
+#, php-format
+msgid "Courses included: %s"
+msgstr "Corsi inclusi: %s"
+
+#: paid-memberships-pro/pages/confirmation.php:12
+msgid ""
+"Your payment has been submitted. Your membership will be activated shortly."
+msgstr ""
+"Il tuo pagamento è stato inoltrato. La tua iscrizione sarà attivata tra "
+"breve."
+
+#: paid-memberships-pro/pages/confirmation.php:14
+#, php-format
+msgid "Thank you for your membership to %s. Your %s membership is now active."
+msgstr ""
+"Ti ringraziamo per la tua iscrizione a %s. La tua iscrizione %s è ora attiva."
+
+#: paid-memberships-pro/pages/confirmation.php:28
+#, php-format
+msgid ""
+"Below are details about your membership account and a receipt for your "
+"initial membership invoice. A welcome email with a copy of your initial "
+"membership invoice has been sent to %s."
+msgstr ""
+"Qui sotto trovi i dettagli del tuo account membership e una ricevuta per la "
+"fattura della tua iscrizione iniziale. Un'e-mail di benvenuto con una copia "
+"della fattura della tua iscrizione iniziale è stata inviata a %s."
+
+#: paid-memberships-pro/pages/confirmation.php:47
+#, php-format
+msgid "Invoice #%s on %s"
+msgstr "Fattura #%s su %s"
+
+#: paid-memberships-pro/pages/confirmation.php:49
+msgid "Print"
+msgstr "Stampa"
+
+#: paid-memberships-pro/pages/confirmation.php:52
+#: paid-memberships-pro/pages/confirmation.php:124
+msgid "Account"
+msgstr "Account"
+
+#: paid-memberships-pro/pages/confirmation.php:53
+#: paid-memberships-pro/pages/confirmation.php:127
+#: paid-memberships-pro/pages/checkout.php:40
+msgid "Membership Level"
+msgstr "Livello membership"
+
+#: paid-memberships-pro/pages/confirmation.php:55
+msgid "Membership Expires"
+msgstr "L'iscrizione scade"
+
+#: paid-memberships-pro/pages/confirmation.php:58
+#: paid-memberships-pro/pages/checkout.php:80
+#: paid-memberships-pro/pages/checkout.php:106
+#: paid-memberships-pro/pages/checkout.php:705
+msgid "Discount Code"
+msgstr "Codice sconto"
+
+#: paid-memberships-pro/pages/confirmation.php:66
+#: paid-memberships-pro/pages/checkout.php:357
+#: paid-memberships-pro/pages/billing.php:100
+msgid "Billing Address"
+msgstr "Indirizzo di fatturazione"
+
+#: paid-memberships-pro/pages/confirmation.php:79
+msgid "Payment Method"
+msgstr "Metodo di pagamento"
+
+#: paid-memberships-pro/pages/confirmation.php:80
+msgid "ending in"
+msgstr "scade tra"
+
+#: paid-memberships-pro/pages/confirmation.php:81
+msgid "Expiration"
+msgstr "Scadenza"
+
+#: paid-memberships-pro/pages/confirmation.php:88
+msgid "Total Billed"
+msgstr "Totale fatturato"
+
+#: paid-memberships-pro/pages/confirmation.php:91
+msgid "Subtotal"
+msgstr "Subtotale"
+
+#: paid-memberships-pro/pages/confirmation.php:92
+msgid "Tax"
+msgstr "Tassa"
+
+#: paid-memberships-pro/pages/confirmation.php:94
+msgid "Coupon"
+msgstr "Coupon"
+
+#: paid-memberships-pro/pages/confirmation.php:96
+msgid "Total"
+msgstr "Totale"
+
+#: paid-memberships-pro/pages/confirmation.php:111
+#, php-format
+msgid ""
+"Below are details about your membership account. A welcome email has been "
+"sent to %s."
+msgstr ""
+"Qui sotto trovi i dettagli del tuo account membership. Un'e-mail di "
+"benvenuto è stata inviata a %s."
+
+#: paid-memberships-pro/pages/confirmation.php:128
+msgid "Pending"
+msgstr "In sospeso"
+
+#: paid-memberships-pro/pages/confirmation.php:138
+msgid "View Your Account"
+msgstr "Visualizza il tuo account"
+
+#: paid-memberships-pro/pages/confirmation.php:140
+msgid ""
+"If your account is not activated within a few minutes, please contact the "
+"site owner."
+msgstr ""
+"Se il tuo account non verrà attivato entro pochi minuti, ti preghiamo di "
+"contattare il proprietario del sito. "
+
+#: paid-memberships-pro/pages/checkout.php:33
+msgid ""
+"Almost done. Review the membership information and pricing below then "
+"<strong>click the \"Complete Payment\" button</strong> to finish your order."
+msgstr ""
+"Quasi fatto. Rivedi le informazioni di membership e dei prezzi qui sotto, "
+"poi <strong>clicca sul pulsante \"Completa pagamento\"</strong> per "
+"completare il tuo ordine."
+
+#: paid-memberships-pro/pages/checkout.php:42
+msgid "Change level"
+msgstr "Cambia livello"
+
+#: paid-memberships-pro/pages/checkout.php:54
+msgid "Membership level:"
+msgstr "Livello membership:"
+
+#: paid-memberships-pro/pages/checkout.php:57
+#, php-format
+msgid ""
+"<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code has "
+"been applied to your order.</p>"
+msgstr ""
+"<p class=\"pmpro_level_discount_applied\">Il codice <strong>%s</strong> è "
+"stato applicato al tuo ordine.</p>"
+
+#: paid-memberships-pro/pages/checkout.php:59
+msgid "Price:"
+msgstr "Prezzo:"
+
+#: paid-memberships-pro/pages/checkout.php:61
+msgid "Expires after:"
+msgstr "Scade dopo:"
+
+#: paid-memberships-pro/pages/checkout.php:61
+#, php-format
+msgid "%d %s"
+msgstr "%d %s"
+
+#: paid-memberships-pro/pages/checkout.php:70
+msgid "Click here to change your discount code"
+msgstr "Clicca qui per cambiare il tuo codice sconto"
+
+#: paid-memberships-pro/pages/checkout.php:74
+msgid "Do you have a discount code?"
+msgstr "Hai un codice sconto?"
+
+#: paid-memberships-pro/pages/checkout.php:76
+msgid "Click here to enter your discount code"
+msgstr "Clicca qui per inserire il tuo codice sconto"
+
+#: paid-memberships-pro/pages/checkout.php:97
+msgid "Description:"
+msgstr "Descrizione:"
+
+#: paid-memberships-pro/pages/checkout.php:111
+#: paid-memberships-pro/pages/checkout.php:710
+msgid "Apply"
+msgstr "Applica"
+
+#: paid-memberships-pro/pages/checkout.php:198
+msgid "Account Information"
+msgstr "Informazioni account"
+
+#: paid-memberships-pro/pages/checkout.php:199
+msgid "Already have an account?"
+msgstr "Hai già un account?"
+
+#: paid-memberships-pro/pages/checkout.php:200
+msgid "Login here"
+msgstr "Effettua l'accesso qui"
+
+#: paid-memberships-pro/pages/checkout.php:209
+msgid "Username"
+msgstr "Username"
+
+#: paid-memberships-pro/pages/checkout.php:220
+msgid "Password"
+msgstr "Password"
+
+#: paid-memberships-pro/pages/checkout.php:230
+msgid "Confirm Password"
+msgstr "Conferma password"
+
+#: paid-memberships-pro/pages/checkout.php:248
+#: paid-memberships-pro/pages/checkout.php:506
+#: paid-memberships-pro/pages/billing.php:232
+msgid "E-mail Address"
+msgstr "Indirizzo e-mail"
+
+#: paid-memberships-pro/pages/checkout.php:259
+msgid "Confirm E-mail Address"
+msgstr "Conferma indirizzo e-mail"
+
+#: paid-memberships-pro/pages/checkout.php:279
+msgid "Full Name"
+msgstr "Nome completo"
+
+#: paid-memberships-pro/pages/checkout.php:282
+msgid "LEAVE THIS BLANK"
+msgstr "LASCIA VUOTO QUESTO SPAZIO"
+
+#: paid-memberships-pro/pages/checkout.php:305
+#, php-format
+msgid ""
+"You are logged in as <strong>%s</strong>. If you would like to use a "
+"different account for this membership, <a href=\"%s\">log out now</a>."
+msgstr ""
+"Hai effettuato l'accesso come <strong>%s</strong>. Se desideri usare un "
+"account diverso per questa membership, <a href=\"%s\">effettua ora il "
+"logout</a>."
+
+#: paid-memberships-pro/pages/checkout.php:322
+msgid "Choose your Payment Method"
+msgstr "Scegli il tuo metodo di pagamento"
+
+#: paid-memberships-pro/pages/checkout.php:333
+msgid "Check Out with a Credit Card Here"
+msgstr "Paga qui con carta di credito"
+
+#: paid-memberships-pro/pages/checkout.php:339
+msgid "Check Out with PayPal"
+msgstr "Paga con PayPal"
+
+#: paid-memberships-pro/pages/checkout.php:365
+#: paid-memberships-pro/pages/billing.php:104
+msgid "First Name"
+msgstr "Nome"
+
+#: paid-memberships-pro/pages/checkout.php:371
+#: paid-memberships-pro/pages/billing.php:108
+msgid "Last Name"
+msgstr "Cognome"
+
+#: paid-memberships-pro/pages/checkout.php:377
+#: paid-memberships-pro/pages/billing.php:112
+msgid "Address 1"
+msgstr "Indirizzo 1"
+
+#: paid-memberships-pro/pages/checkout.php:383
+#: paid-memberships-pro/pages/billing.php:116
+msgid "Address 2"
+msgstr "Indirizzo 2"
+
+#: paid-memberships-pro/pages/checkout.php:394
+#: paid-memberships-pro/pages/billing.php:126
+msgid "City"
+msgstr "Città"
+
+#: paid-memberships-pro/pages/checkout.php:400
+#: paid-memberships-pro/pages/billing.php:130
+msgid "State"
+msgstr "Stato"
+
+#: paid-memberships-pro/pages/checkout.php:406
+#: paid-memberships-pro/pages/billing.php:134
+msgid "Postal Code"
+msgstr "Codice di avviamento postale"
+
+#: paid-memberships-pro/pages/checkout.php:415
+#: paid-memberships-pro/pages/billing.php:143
+msgid "City, State Zip"
+msgstr "Codice postale città, stato"
+
+#: paid-memberships-pro/pages/checkout.php:468
+#: paid-memberships-pro/pages/billing.php:196
+msgid "Country"
+msgstr "Paese"
+
+#: paid-memberships-pro/pages/checkout.php:517
+#: paid-memberships-pro/pages/billing.php:236
+msgid "Confirm E-mail"
+msgstr "Conferma indirizzo e-mail"
+
+#: paid-memberships-pro/pages/checkout.php:558
+msgid "Payment Information"
+msgstr "Informazioni di pagamento"
+
+#: paid-memberships-pro/pages/checkout.php:559
+#, php-format
+msgid "We Accept %s"
+msgstr "Accettiamo %s"
+
+#: paid-memberships-pro/pages/checkout.php:581
+#: paid-memberships-pro/pages/billing.php:271
+msgid "Card Type"
+msgstr "Tipo di carta"
+
+#: paid-memberships-pro/pages/checkout.php:627
+#: paid-memberships-pro/pages/billing.php:309
+msgid "Card Number"
+msgstr "Numero carta"
+
+#: paid-memberships-pro/pages/checkout.php:636
+#: paid-memberships-pro/pages/billing.php:313
+msgid "Expiration Date"
+msgstr "Data di scadenza"
+
+#: paid-memberships-pro/pages/checkout.php:692
+#: paid-memberships-pro/pages/billing.php:348
+msgid "CVV"
+msgstr "CVV"
+
+#: paid-memberships-pro/pages/checkout.php:698
+#: paid-memberships-pro/pages/billing.php:349
+msgid "what's this?"
+msgstr "che cos'è?"
+
+#: paid-memberships-pro/pages/checkout.php:783
+#, php-format
+msgid "I agree to the %s"
+msgstr "Sono d’accordo con %s"
+
+#: paid-memberships-pro/pages/checkout.php:804
+msgid "Complete Payment"
+msgstr "Completa il pagamento"
+
+#: paid-memberships-pro/pages/checkout.php:816
+msgid "Submit and Check Out"
+msgstr "Invia e paga"
+
+#: paid-memberships-pro/pages/checkout.php:818
+msgid "Submit and Confirm"
+msgstr "Invia e conferma"
+
+#: paid-memberships-pro/pages/checkout.php:829
+msgid "Processing..."
+msgstr "In elaborazione…"
+
+#: paid-memberships-pro/pages/billing.php:23
+#, php-format
+msgid "Logged in as <strong>%s</strong>."
+msgstr "Collegato come <strong>%s</strong>."
+
+#: paid-memberships-pro/pages/billing.php:23
+msgid "logout"
+msgstr "esci"
+
+#: paid-memberships-pro/pages/billing.php:41
+msgid "Level"
+msgstr "Livello"
+
+#: paid-memberships-pro/pages/billing.php:43
+msgid "Membership Fee"
+msgstr "Quota di iscrizione"
+
+#: paid-memberships-pro/pages/billing.php:47
+#, php-format
+msgid "%s every %d %s."
+msgstr "%s ogni %d %s."
+
+#: paid-memberships-pro/pages/billing.php:49
+#, php-format
+msgid "%s per %s."
+msgstr "%s per %s."
+
+#: paid-memberships-pro/pages/billing.php:77
+msgid ""
+"Your payment subscription is managed by PayPal. Please <a href=\"http://www."
+"paypal.com\">login to PayPal here</a> to update your billing information."
+msgstr ""
+"Il pagamento del tuo abbonamento è gestito da PayPal. Per favore, <a "
+"href=\"http://www.paypal.com\">effettua l'accesso a PayPal qui</a> per "
+"aggiornare le tue informazioni di fatturazione."
+
+#: paid-memberships-pro/pages/billing.php:117
+msgid "optional"
+msgstr "opzionale"
+
+#: paid-memberships-pro/pages/billing.php:259
+msgid "Credit Card Information"
+msgstr "Informazioni carta di credito"
+
+#: paid-memberships-pro/pages/billing.php:260
+#, php-format
+msgid "We accept %s"
+msgstr "Accettiamo %s"
+
+#: paid-memberships-pro/pages/billing.php:363
+msgid "Cancel"
+msgstr "Annulla"
+
+#: paid-memberships-pro/pages/billing.php:378
+msgid ""
+"This subscription is not recurring. So you don't need to update your billing "
+"information."
+msgstr ""
+"Questo abbonamento non è ricorrente. Quindi non devi aggiornare le tue "
+"informazioni di fatturazione."
+
+#: partials/footers/copyright.php:16 partials/footers/copyright.php:18
+msgid "Footer logo"
+msgstr "Logo piè di pagina"
+
+#: partials/footers/copyright.php:23
+#, php-format
+msgctxt "Footer Copyright text"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/header_default.php:36
+msgid "Search..."
+msgstr "Cerca..."
+
+#: inc/vc/modules/stm_lms_recent_courses.php:8
+msgid "STM LMS Recent Courses"
+msgstr "STM LMS Corsi recenti"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:11
+#: inc/vc/modules/stm_lms_courses_grid.php:14
+msgid "Show Recent Courses"
+msgstr "Mostra corsi recenti"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:13
+#: inc/vc/modules/stm_lms_instructors_carousel.php:14
+#: inc/vc/modules/stm_image_box.php:13 inc/vc/modules/stm_image_box.php:33
+#: inc/vc/modules/stm_lms_courses_grid.php:16
+#: inc/vc/modules/stm_lms_single_course_carousel.php:16
+#: inc/vc/modules/stm_courses_searchbox.php:13
+#: inc/vc/modules/stm_lms_courses_categories.php:16
+#: inc/vc/modules/stm_lms_featured_teacher.php:23
+#: inc/vc/modules/stm_lms_courses_carousel.php:16
+msgid "Content"
+msgstr "Contenuto"
+
+#: inc/vc/modules/stm_lms_recent_courses.php:18
+#: inc/vc/modules/stm_lms_courses_grid.php:88
+msgid "Number of courses to show"
+msgstr "Numero di corsi da mostrare"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:9
+msgid "STM LMS Instructors Carousel"
+msgstr "STM LMS Carousel insegnanti"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:12
+msgid "Display Instructors in Styled Carousel"
+msgstr "Mostra insegnanti in stile carousel"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:29
+msgid "Sort By"
+msgstr "Scelti in base a "
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:38
+#: inc/vc/modules/stm_lms_single_course_carousel.php:32
+#: inc/vc/modules/stm_lms_courses_carousel.php:42
+msgid "Prev/Next Buttons"
+msgstr "Pulsanti precedente/successivo"
+
+#: inc/vc/modules/stm_lms_instructors_carousel.php:48
+#: inc/vc/modules/stm_lms_single_course_carousel.php:42
+#: inc/vc/modules/stm_lms_courses_carousel.php:52
+msgid "Pagination"
+msgstr "Impaginazione"
+
+#: inc/vc/modules/stm_image_box.php:8
+msgid "STM Image box"
+msgstr "STM Riquadro immagine"
+
+#: inc/vc/modules/stm_image_box.php:11
+msgid "Image box"
+msgstr "Riquadro immagine"
+
+#: inc/vc/modules/stm_image_box.php:38
+msgid "Button"
+msgstr "Pulsante"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:11
+msgid "STM LMS Courses Grid"
+msgstr "STM LMS Griglia corsi"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:21
+msgid "Hide Top bar"
+msgstr "Nascondi barra superiore"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:40
+msgid "Load more"
+msgstr "Carica altro"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:50
+#: inc/vc/modules/stm_lms_single_course_carousel.php:21
+#: inc/vc/modules/stm_lms_courses_carousel.php:31
+msgid "Sort"
+msgstr "Scegli"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:60
+msgid "Courses Per Row"
+msgstr "Corsi per riga"
+
+#: inc/vc/modules/stm_lms_courses_grid.php:70
+#: inc/vc/modules/stm_lms_courses_carousel.php:90
+msgid "Show Courses From categories:"
+msgstr ""
+
+#: inc/vc/modules/stm_lms_single_course_carousel.php:11
+msgid "STM LMS Single Course Carousel"
+msgstr "STM LMS Carousel corso singolo"
+
+#: inc/vc/modules/stm_lms_single_course_carousel.php:14
+msgid "Display Signle Course in Styled Carousel"
+msgstr "Mostra corso singolo in stile carousel"
+
+#: inc/vc/modules/stm_lms_single_course_carousel.php:52
+#: inc/vc/modules/stm_lms_courses_categories.php:21
+#: inc/vc/modules/stm_lms_courses_carousel.php:72
+msgid "Select taxonomy"
+msgstr "Seleziona tassonomia "
+
+#: inc/vc/modules/stm_courses_searchbox.php:8
+msgid "STM Courses Search box"
+msgstr "STM Riquadro ricerca corsi"
+
+#: inc/vc/modules/stm_courses_searchbox.php:11
+msgid "Search in LMS Courses"
+msgstr "Cerca in LMS Corsi"
+
+#: inc/vc/modules/stm_lms_courses_categories.php:11
+msgid "STM LMS Courses Categories"
+msgstr "STM LMS Categorie corsi"
+
+#: inc/vc/modules/stm_lms_courses_categories.php:14
+msgid "Show Courses Categories"
+msgstr "Mostra categorie corsi"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:18
+msgid "STM LMS Featured Teacher"
+msgstr "STM LMS Insegnante in primo piano"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:21
+msgid "Place Single Teacher"
+msgstr "Posiziona insegnante singolo"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:28
+msgid "Instructor"
+msgstr "Insegnante"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:34
+msgid "Instructor Position"
+msgstr "Posizione insegnante"
+
+#: inc/vc/modules/stm_lms_featured_teacher.php:39
+msgid "Instructor Bio"
+msgstr "Biografia insegnante"
+
+#: inc/vc/modules/stm_lms_courses_carousel.php:11
+msgid "STM LMS Courses Carousel"
+msgstr "STM LMS Carousel corsi"
+
+#: inc/vc/modules/stm_lms_courses_carousel.php:14
+msgid "Display Courses in Styled Carousel"
+msgstr "Mostra corsi in stile carousel"
+
+#: inc/vc/modules/stm_lms_courses_carousel.php:62
+msgid "Show categories"
+msgstr "Mostra categorie"
+
+#: partials/vc_parts/courses_categories/style_1.php:58
+#: partials/vc_parts/courses_categories/style_2.php:58
+#, php-format
+msgid "%s Courses"
+msgstr "%s Corsi"
+
+#: partials/headers/mobile/account.php:29
+msgid "My Profile"
+msgstr "Il mio profilo"
+
+#: partials/headers/mobile/account.php:37
+msgid "Login/Sign Up"
+msgstr "Accedi/Iscriviti"
+
+#: partials/headers/mobile/account.php:46
+msgid "My Courses"
+msgstr "I miei corsi"
+
+#: partials/headers/mobile/account.php:50
+msgid "Checkout"
+msgstr "Procedi all’acquisto"
+
+#: partials/headers/mobile/account.php:54
+msgid "Messages"
+msgstr "Messaggi"
+
+#: partials/headers/mobile/account.php:61
+msgid "Favorites"
+msgstr "Preferiti"
+
+#: partials/headers/mobile/account.php:66
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: partials/headers/mobile/account.php:72 partials/headers/parts/links.php:22
+#: partials/headers/parts/links.php:29
+msgid "Become an Instructor"
+msgstr "Diventa un insegnante"
+
+#: partials/headers/mobile/account.php:78 partials/headers/parts/links.php:36
+msgid "For Enterprise"
+msgstr "Per le aziende"
+
+#: partials/headers/mobile/menu.php:6 partials/headers/parts/menu.php:13
+msgid "Menu"
+msgstr "Menu"
+
+#: partials/headers/parts/data_info.php:16
+#, php-format
+msgctxt "Top bar Working hours"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/parts/data_info.php:21
+#, php-format
+msgctxt "Top bar address"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/parts/data_info.php:26
+#, php-format
+msgctxt "Top bar phone"
+msgid "%s"
+msgstr "%s"
+
+#: partials/headers/parts/wpml_switcher.php:41
+msgid "English"
+msgstr "Inglese"
+
+#: partials/headers/parts/log-in.php:15
+#: partials/headers/parts/woocommerce_login.php:19
+#: partials/headers/parts/woocommerce_login.php:44
+msgid "Login"
+msgstr "Effettua l'accesso"
+
+#: partials/headers/parts/log-in.php:19
+msgid "Log in"
+msgstr "Accedi"
+
+#: partials/headers/parts/courses-search.php:22
+msgid "Search courses"
+msgstr "Cerca corsi"
+
+#: partials/headers/parts/woocommerce_login.php:14
+#: partials/headers/parts/woocommerce_login.php:15
+#: partials/headers/parts/woocommerce_login.php:39
+#: partials/headers/parts/woocommerce_login.php:40
+msgid "Log out"
+msgstr "Esci"
+
+#: partials/headers/parts/woocommerce_login.php:22
+#: partials/headers/parts/woocommerce_login.php:47
+msgid "Register"
+msgstr "Registrati"
+
+#: partials/headers/parts/courses_categories_with_search.php:41
+msgid "Search Courses"
+msgstr "Cerca corsi"
+
+#: partials/headers/parts/categories.php:12
+msgid "Category"
+msgstr "Categoria"
+
+#: partials/headers/parts/sign-up.php:3
+msgid "Sign in"
+msgstr "Registrati"
+
+#: inc/admin/product_registration/includes/theme.php:182
+msgid "Error occured"
+msgstr "Si è verificato un errore"
+
+#: inc/admin/product_registration/includes/admin_screens.php:34
+#: inc/admin/product_registration/includes/admin_screens.php:35
+msgid "Install demos"
+msgstr "Installa demo"
+
+#: inc/admin/product_registration/includes/admin_screens.php:44
+#: inc/admin/product_registration/includes/admin_screens.php:45
+#: inc/admin/product_registration/includes/admin_screens.php:146
+msgid "Support"
+msgstr "Supporto"
+
+#: inc/admin/product_registration/includes/admin_screens.php:54
+#: inc/admin/product_registration/includes/admin_screens.php:55
+msgid "System status"
+msgstr "Stato sistema"
+
+#: inc/admin/product_registration/includes/admin_screens.php:63
+#: inc/admin/product_registration/includes/admin_screens.php:64
+#: inc/admin/product_registration/includes/admin_screens.php:150
+msgid "Plugins"
+msgstr "Plugin"
+
+#: inc/admin/product_registration/includes/admin_screens.php:133
+#, php-format
+msgid "Welcome to %s"
+msgstr "Benvenuto a %s"
+
+#: inc/admin/product_registration/includes/admin_screens.php:136
+#, php-format
+msgid ""
+"%s is now installed and ready to use! Get ready to build something beautiful."
+" Please register your purchase to get automatic theme updates, import %1$s "
+"demos and install premium plugins. Read below for additional information. We "
+"hope you enjoy it! %s"
+msgstr ""
+"%s è ora installato e pronto da usare! Preparati a creare qualcosa di "
+"bellissimo. Ti preghiamo di registrare il tuo acquisto per ottenere "
+"aggiornamenti dei temi automatici, importare le demo %1$s e installare i "
+"plugin premium. Leggi qui sotto per ulteriori informazioni. Ci auguriamo che "
+"ti piaccia! %s"
+
+#: inc/admin/product_registration/includes/admin_screens.php:136
+msgid "Watch Our Quick Guided Tour!"
+msgstr "Guarda il nostro rapido tour guidato!"
+
+#: inc/admin/product_registration/includes/admin_screens.php:144
+msgid "Registration"
+msgstr "Registrazione"
+
+#: inc/admin/product_registration/includes/admin_screens.php:145
+#: inc/admin/product_registration/includes/admin_screens.php:151
+msgid "Install Demos"
+msgstr "Installa demo"
+
+#: inc/admin/product_registration/includes/admin_screens.php:148
+msgid "System Status"
+msgstr "Stato sistema"
+
+#: inc/admin/product_registration/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+"%s offre 6 mesi di assistenza gratuita per ogni licenza acquistata. "
+"L'assistenza può essere estesa tramite abbonamenti via ThemeForest."
+
+#: inc/admin/product_registration/screens/support.php:16
+msgid "Create A Support Account"
+msgstr "Crea un account assistenza"
+
+#: inc/admin/product_registration/screens/support.php:30
+msgid "Ticket System"
+msgstr "Sistema ticket"
+
+#: inc/admin/product_registration/screens/support.php:33
+msgid ""
+"We offer excellent 24/7 support through our advanced ticket system. To "
+"access the ticket system dashboard, please register with your purchase code."
+msgstr ""
+"Offriamo eccellente assistenza 24 ore su 24, 7 giorni su 7, attraverso il "
+"nostro avanzato sistema di ticket. Per accedere alla dashboard del sistema "
+"ticket, ti preghiamo di registrarti con il tuo codice di acquisto."
+
+#: inc/admin/product_registration/screens/support.php:36
+msgid "Submit a ticket"
+msgstr "Invia un ticket"
+
+#: inc/admin/product_registration/screens/support.php:47
+msgid "Documentation"
+msgstr "Documentazione"
+
+#: inc/admin/product_registration/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+"La nostra documentazione online è un'utile risorsa per apprendere ogni "
+"aspetto e caratteristica di %s."
+
+#: inc/admin/product_registration/screens/support.php:53
+msgid "Learn more"
+msgstr "Scopri di più"
+
+#: inc/admin/product_registration/screens/support.php:67
+msgid "Video Tutorials"
+msgstr "Video tutorial"
+
+#: inc/admin/product_registration/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+"Ti raccomandiamo di guardare i video tutorial prima di iniziare la "
+"personalizzazione del tema. I nostri video tutorial possono insegnarti i "
+"diversi aspetti dell'usare %s."
+
+#: inc/admin/product_registration/screens/support.php:73
+msgid "Watch Videos"
+msgstr "Guarda video"
+
+#: inc/admin/product_registration/screens/support.php:84
+msgid "Community Forum"
+msgstr "Forum della community"
+
+#: inc/admin/product_registration/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+"Il nostro forum è il posto migliore per le interazioni tra utenti. Fai "
+"domande ad un altro utente di %s o condividi la tua esperienza con la "
+"community per aiutare gli altri. "
+
+#: inc/admin/product_registration/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr "Visita il nostro forum"
+
+#: inc/admin/product_registration/screens/install_demo.php:10
+msgid "Classic LMS"
+msgstr "LMS Classico"
+
+#: inc/admin/product_registration/screens/install_demo.php:13
+msgid "LMS Light"
+msgstr "LMS Chiaro"
+
+#: inc/admin/product_registration/screens/install_demo.php:16
+msgid "Udemy Affiliate"
+msgstr ""
+
+#: inc/admin/product_registration/screens/install_demo.php:19
+msgid "Academy"
+msgstr "Scuola"
+
+#: inc/admin/product_registration/screens/install_demo.php:22
+msgid "LMS Dark"
+msgstr "LMS Scuro"
+
+#: inc/admin/product_registration/screens/install_demo.php:25
+msgid "Default"
+msgstr "Predefinito"
+
+#: inc/admin/product_registration/screens/install_demo.php:28
+msgid "Course Hub"
+msgstr "Centro corsi"
+
+#: inc/admin/product_registration/screens/install_demo.php:53
+msgid "Installed"
+msgstr "Installato"
+
+#: inc/admin/product_registration/screens/install_demo.php:56
+msgid "Import"
+msgstr "Importa"
+
+#: inc/admin/product_registration/screens/install_demo.php:68
+msgid "Demo Installation"
+msgstr "Installazione demo"
+
+#: inc/admin/product_registration/screens/install_demo.php:73
+#: inc/admin/product_registration/screens/install_demo.php:165
+msgid "Installed & Activated"
+msgstr "Installato e attivato"
+
+#: inc/admin/product_registration/screens/install_demo.php:73
+msgid "Not installed"
+msgstr "Non installato"
+
+#: inc/admin/product_registration/screens/install_demo.php:94
+msgid "Demo content"
+msgstr "Contenuto demo"
+
+#: inc/admin/product_registration/screens/install_demo.php:100
+msgid "Setup Layout"
+msgstr "Configura layout"
+
+#: inc/admin/product_registration/screens/install_demo.php:105
+msgid "Please enter your Activation Token before running the MasterStudy."
+msgstr ""
+"Ti preghiamo di inserire il tuo Token di attivazione prima di avviare "
+"MasterStudy."
+
+#: inc/admin/product_registration/screens/install_demo.php:164
+msgid "Installing"
+msgstr "Installazione in corso"
+
+#: inc/admin/product_registration/screens/install_demo.php:216
+msgid "Importing Demo"
+msgstr "Sto importando demo"
+
+#: inc/admin/product_registration/screens/install_demo.php:217
+msgid "Imported"
+msgstr "Importato"
+
+#: inc/admin/product_registration/screens/system_status.php:11
+#: inc/admin/product_registration/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr "Ambiente WordPress"
+
+#: inc/admin/product_registration/screens/system_status.php:20
+msgid "Home URL:"
+msgstr "URL homepage:"
+
+#: inc/admin/product_registration/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr "L'URL della homepage del tuo sito."
+
+#: inc/admin/product_registration/screens/system_status.php:25
+msgid "Site URL:"
+msgstr "URL sito:"
+
+#: inc/admin/product_registration/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr "Il root URL del tuo sito."
+
+#: inc/admin/product_registration/screens/system_status.php:30
+msgid "WP Version:"
+msgstr "Versione WP:"
+
+#: inc/admin/product_registration/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr "La versione di WordPress installata sul tuo sito. "
+
+#: inc/admin/product_registration/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr "Multisito WP:"
+
+#: inc/admin/product_registration/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Che tu abbia o meno abilitato Multisito WordPress."
+
+#: inc/admin/product_registration/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr "Limite memoria WP:"
+
+#: inc/admin/product_registration/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+"La quantità massima di memoria (RAM) che il vostro sito può utilizzare in un "
+"determinato momento. "
+
+#: inc/admin/product_registration/screens/system_status.php:46
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least <strong>128MB</strong>. <br />"
+" To import classic demo data, <strong>256MB</strong> of memory limit is "
+"required. <br /> Please define memory limit in <strong>wp-config.php</strong>"
+" file. To learn how, see: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Increasing memory allocated to PHP.</a>"
+msgstr ""
+"%1$s - Consigliamo di impostare la memoria ad almeno <strong>128 MB</ strong>"
+". <br /> Per importare dati demo classici, è richiesto un limite di memoria "
+"di <strong>256 MB</ strong>. Ti preghiamo di definire il limite di memoria "
+"nel file <strong>wp-config.php</strong>. Per scoprire come farlo, vedi: <a "
+"href=\"%2$s\" target=\"_blank\"rel=\"noopener noreferrer\">Aumentare la "
+"memoria allocata in PHP.</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+"Il tuo attuale limite di memoria è sufficiente, ma se devi importare "
+"contenuti demo classici, il limite di memoria richiesto è <strong>256 MB."
+"</strong>"
+
+#: inc/admin/product_registration/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr "Modalità Debug WP:"
+
+#: inc/admin/product_registration/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "Mostra se Wordpress è o meno in modalità Debug."
+
+#: inc/admin/product_registration/screens/system_status.php:68
+msgid "Language:"
+msgstr "Lingua:"
+
+#: inc/admin/product_registration/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr "La lingua attualmente usata da WordPress. Predefinita = Inglese"
+
+#: inc/admin/product_registration/screens/system_status.php:75
+#: inc/admin/product_registration/screens/system_status.php:79
+msgid "Server Environment"
+msgstr "Ambiente server"
+
+#: inc/admin/product_registration/screens/system_status.php:84
+msgid "Server Info:"
+msgstr "Info server:"
+
+#: inc/admin/product_registration/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Informazioni sul web server che ospita attualmente il tuo sito. "
+
+#: inc/admin/product_registration/screens/system_status.php:89
+msgid "PHP Version:"
+msgstr "Versione PHP:"
+
+#: inc/admin/product_registration/screens/system_status.php:90
+msgid "The version of PHP installed on your hosting server."
+msgstr "La versione PHP installata sul tuo server hosting."
+
+#: inc/admin/product_registration/screens/system_status.php:95
+msgid "PHP Post Max Size:"
+msgstr "Dimensione massima post PHP:"
+
+#: inc/admin/product_registration/screens/system_status.php:96
+msgid "The largest file size that can be contained in one post."
+msgstr "La massima dimensione file che può essere contenuta in un post. "
+
+#: inc/admin/product_registration/screens/system_status.php:100
+msgid "PHP Time Limit:"
+msgstr "Limite tempo PHP:"
+
+#: inc/admin/product_registration/screens/system_status.php:101
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"Il periodo di tempo (in secondi) che il tuo sito trascorrerà su una singola "
+"operazione prima di mettersi in pausa (per evitare blocchi del server)"
+
+#: inc/admin/product_registration/screens/system_status.php:107
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+"%1$s - Raccomandiamo si impostare il tempo massimo di esecuzione ad almeno "
+"180. <br /> Per importante contenuto demo classico, sono richiesti <strong>"
+"300</strong> secondi di tempo massimo di esecuzione.<br />Vedi: <a "
+"href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">Aumentare "
+"esecuzione massima in PHP</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:111
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+"Il limite attuale di tempo è sufficiente, ma se devi importare contenuti "
+"demo, il tempo richiesto è <strong>300</strong>."
+
+#: inc/admin/product_registration/screens/system_status.php:118
+msgid "PHP Max Input Vars:"
+msgstr "PHP Max Input Vars:"
+
+#: inc/admin/product_registration/screens/system_status.php:119
+#: inc/admin/product_registration/screens/system_status.php:155
+#: inc/admin/product_registration/screens/system_status.php:184
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"Il numero massimo di variabili che il tuo server può usare per una singola "
+"funzione per evitare sovraccarichi."
+
+#: inc/admin/product_registration/screens/system_status.php:139
+#: inc/admin/product_registration/screens/system_status.php:175
+#: inc/admin/product_registration/screens/system_status.php:204
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+"%1$s - Valore raccomandato: %2$s.<br />La limitazione delle variabili "
+"massime di input troncherà i dati dei POST come i menu. Vedi: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Aumentare limite "
+"massimo variabili di input.</a>"
+
+#: inc/admin/product_registration/screens/system_status.php:147
+msgid "SUHOSIN Installed:"
+msgstr "SUHOSIN installato:"
+
+#: inc/admin/product_registration/screens/system_status.php:148
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+"Suhosin è un avanzato sistema di protezione per installazioni PHP. È stato "
+"pensato per proteggere i tuoi server, da una parte, dai ben noti problemi "
+"nelle applicazioni PHP e, dall'altra, da potenziali vulnerabilità ignote "
+"all'interno di queste applicazioni o nel core stesso di PHP.\n"
+"\t\t\tSe attivato sul tuo server, Suhosin potrebbe richiedere una "
+"configurazione per aumentare i suoi limiti di trasmissione dati."
+
+#: inc/admin/product_registration/screens/system_status.php:154
+msgid "Suhosin Post Max Vars:"
+msgstr "Variabili max post Suhosin:"
+
+#: inc/admin/product_registration/screens/system_status.php:183
+msgid "Suhosin Request Max Vars:"
+msgstr "Variabili max richieste Suhosin:"
+
+#: inc/admin/product_registration/screens/system_status.php:212
+msgid "Suhosin Post Max Value Length:"
+msgstr "Lunghezza valore max post Suhosin:"
+
+#: inc/admin/product_registration/screens/system_status.php:213
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+"Definisce la lunghezza massima di una variabile registrata attraverso una "
+"richiesta POST."
+
+#: inc/admin/product_registration/screens/system_status.php:219
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+"%1$s - Valore raccomandato: %2$s.<br />La limitazione di lunghezza valore "
+"max post impedisce ai dati di Theme Options di essere salvati sul tuo "
+"database. Vedi: <a href=\"%3$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Info configurazione Suhosin</a>."
+
+#: inc/admin/product_registration/screens/system_status.php:228
+msgid "ZipArchive:"
+msgstr "ZipArchive:"
+
+#: inc/admin/product_registration/screens/system_status.php:229
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+"Per importare demo è necessario ZipArchive. Viene usato per importare ed "
+"esportare file zip appositamente per slider."
+
+#: inc/admin/product_registration/screens/system_status.php:233
+msgid "MySQL Version:"
+msgstr "Versione MySQL:"
+
+#: inc/admin/product_registration/screens/system_status.php:234
+msgid "The version of MySQL installed on your hosting server."
+msgstr "La versione di MySQL installata sul tuo server hosting."
+
+#: inc/admin/product_registration/screens/system_status.php:244
+msgid "Max Upload Size:"
+msgstr "Dimensione massima upload:"
+
+#: inc/admin/product_registration/screens/system_status.php:245
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+"La dimensione massima dei file che possono essere caricati sulla tua "
+"installazione WordPress."
+
+#: inc/admin/product_registration/screens/system_status.php:251
+#: inc/admin/product_registration/screens/system_status.php:255
+msgid "Active Plugins"
+msgstr "Attiva plugin"
+
+#: inc/admin/product_registration/screens/system_status.php:279
+msgid "Visit plugin homepage"
+msgstr "Visita homepage plugin"
+
+#: inc/admin/product_registration/screens/system_status.php:285
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "di %s"
+
+#: inc/admin/product_registration/screens/startup.php:23
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+"Ti preghiamo di verificare di aver acquistato questo tema con l'account "
+"registrato con il token attuale"
+
+#: inc/admin/product_registration/screens/startup.php:39
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+"Grazie per aver scelto %s! Ti preghiamo di registrarlo per attivare le demo "
+"%1$s e gli aggiornamenti automatici del tema. Le istruzioni qui sotto vanno "
+"seguite alla lettera."
+
+#: inc/admin/product_registration/screens/startup.php:59
+msgid "Submit"
+msgstr "Invia"
+
+#: inc/admin/product_registration/screens/startup.php:67
+msgid "Instructions For Generating A Token"
+msgstr "Istruzioni per generare un token"
+
+#: inc/admin/product_registration/screens/startup.php:69
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+"Clicca su questo link <a href=\"%s\" target=\"_blank\">Genera un token "
+"personale</a>. <strong>IMPORTANTE:</strong> Devi aver effettuato l'accesso "
+"allo stesso account Themeforest che ha acquistato %s. Se hai già effettuato "
+"l'accesso, guarda nella barra del menu in alto per accertarti che sia "
+"l'account giusto. Se non hai effettuato l'accesso, verrai reindirizzato alla "
+"pagina di login e poi di nuovo alla pagina Crea un token."
+
+#: inc/admin/product_registration/screens/startup.php:70
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+"Inserisci un nome per il tuo token, poi metti la spunta ai riquadri <strong>"
+"Visualizza lo username del tuo account Envato, Scarica gli elementi "
+"acquistati, Verifica gli acquisti fatti</strong> e <strong>Elenco degli "
+"acquisti fatti</strong> nella sezione permessi necessari. Metti la spunta al "
+"riquadro relativo all'accordo dei termini e condizioni, poi clicca il "
+"<strong>pulsante Crea Token</strong>"
+
+#: inc/admin/product_registration/screens/startup.php:71
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+"Verrà caricata una nuova pagina con un numero di token in un riquadro. Copia "
+"il numero di token, poi torna alla pagina di registrazione e incollalo nel "
+"campo sotto e clicca il pulsante <strong>Invia</strong>."
+
+#: inc/admin/product_registration/screens/startup.php:72
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+"Vedrai un segno di spunta verde in caso di successo oppure un messaggio di "
+"errore se qualcosa è andato storto. Se l'operazione non è riuscita, ti "
+"preghiamo di verificare di aver seguito correttamente i passaggi sopracitati."
+" "
+
+#. Name of the theme
+msgid "Master Study"
+msgstr "MasterStudy"
+
+#. Description of the theme
+msgid ""
+"MasterStudy is the best WordPress theme for the Education &amp; Learning "
+"Center - for educational organizations, who sell courses and organize "
+"classes locally. Using Masterstudy you can easily setup a WordPress site for "
+"your education company."
+msgstr ""
+"MasterStudy è il miglior tema WordPress per i Centri di educazione e "
+"apprendimento - per organizzazioni educative che vendono corsi e organizzano "
+"lezioni a livello locale. Usando MasterStudy potrai organizzare facilmente "
+"un sito WordPress per la tua società di formazione."
+
+#. URI of the theme
+msgid "https://stylemixthemes.com/masterstudy/"
+msgstr "https://stylemixthemes.com/masterstudy/"
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr "StylemixThemes"
+
+#. Author URI of the theme
+msgid "https://stylemixthemes.com/"
+msgstr "https://stylemixthemes.com/"
